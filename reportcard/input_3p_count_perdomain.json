@@ -1,0 +1,12 @@
+{
+	"huffingtonpost.com": {
+		"defaults": 5,
+		"dnt": 2,
+		"beeftaco": 2
+	},
+	"youtube.com": {
+		"defaults": 4,
+		"dnt": 4,
+		"beeftaco": 8
+	}
+}
