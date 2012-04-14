@@ -23,6 +23,8 @@ import sys
 import Cookie
 import re
 
+#import cookiecheck
+
 def db_connect(fn):
     conn = sqlite3.connect(fn)
     return conn
@@ -47,7 +49,8 @@ if len(sys.argv) != 4:
 
 output = {}
 topid_cookies = []
-thirdpartycount = {}
+thirdpartycount_per_first = {}
+thirdpartycount_per_third = {}
 
 ipRE = re.compile(r"^https?://(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})/")
 domRE = re.compile(r"^https?://(.*?)/")
@@ -95,6 +98,7 @@ for phase, fn in files.items():
             for cookie in C.items():
                 fields = dict(cookie[1])
                 fields['value'] = cookie[1].value
+                #fields['__TRC_heuristic_'] = cookiecheck.cookiecheck(cookie[1].key, cookie[1].value, row[2], row[3], fields['expires'], fields['domain']) # FIXME: hole here
                 fields['__TRC_heuristic_'] = assume_that_everything_is_a_tracking_cookie(cookie[1].key, cookie[1].value, row[2], row[3], fields['expires'], fields['domain']) # FIXME: hole here
                 if row[0]:
                     fields['__TRC_destination_domain'] = domain_from_top_id(row[0], top_pages)
@@ -106,17 +110,26 @@ for phase, fn in files.items():
                 cookies[cookie[1].key] = fields
                 if fields['__TRC_destination_domain'] != fields['__TRC_cookie_domain']: # FIXME: not the right heuristic to determine 3p
                     try:
-                        firstpartydomain = thirdpartycount[fields['__TRC_destination_domain']]
-                        firstpartydomain[phase] += 1
+                        fpd = thirdpartycount_per_first[fields['__TRC_destination_domain']]
+                        fpd[phase] += 1
                     except KeyError:
-                        firstpartydomain = dict([(k,0) for k in files.keys()])
-                        firstpartydomain[phase] = 1
-                    thirdpartycount[fields['__TRC_destination_domain']] = firstpartydomain
+                        fpd = dict([(k,0) for k in files.keys()])
+                        fpd[phase] = 1
+                    thirdpartycount_per_first[fields['__TRC_destination_domain']] = fpd
+
+                    try:
+                        tpd = thirdpartycount_per_third[fields['__TRC_cookie_domain']]
+                        tpd[phase] += 1
+                    except KeyError:
+                        tpd = dict([(k,0) for k in files.keys()])
+                        tpd[phase] = 1
+                    thirdpartycount_per_third[fields['__TRC_cookie_domain']] = fpd
 
                 topid_cookies.append(cookies) # FIXME?
         except Cookie.CookieError:
             print >> sys.stderr, "python's Cookie seems broken; discarding cookie entirely"
     output[phase] = topid_cookies
 
-j = json.dumps(thirdpartycount, indent=4)
+#j = json.dumps(thirdpartycount_per_first, indent=4)
+j = json.dumps(thirdpartycount_per_third, indent=4)
 print j
