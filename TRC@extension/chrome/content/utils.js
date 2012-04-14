@@ -27,21 +27,7 @@ TRC.utils = function() {
 		  consoleService.logStringMessage(" TRC : " + msg);
 		},
 		
-		_inPrivate : function() {
-		    try {
-           var pbs = Components.classes["@mozilla.org/privatebrowsing;1"]  
-                      .getService(Components.interfaces.nsIPrivateBrowsingService);  
-           return  pbs.privateBrowsingEnabled; 
-        } catch (ex) { return false; }
-    },
-		
-		_getPrefs: function()  {
-	      var prefSvc = Components.classes["@mozilla.org/preferences-service;1"]
-	          .getService(Components.interfaces.nsIPrefService);
-	      var prefs = prefSvc.getBranch("extensions.TRC.");
-	      return prefs;
-	  },
-		
+
 		_getRunningWindow: function() {
     		var wm = Components.classes["@mozilla.org/appshell/window-mediator;1"].
     							getService(Components.interfaces.nsIWindowMediator);

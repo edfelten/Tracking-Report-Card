@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE overlay SYSTEM 'chrome://p3/locale/p3.dtd'>
+<!DOCTYPE overlay SYSTEM 'chrome://trc/locale/trc.dtd'>
 <overlay id="TRC" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
   <script  src="trc.js" />
   <script  src="init.js" />
@@ -10,12 +10,43 @@
   <menupopup id="menu_ToolsPopup">
   <menu id="TRC-tools-menu" label="TRC" 
      insertafter="javascriptConsole,devToolsSeparator">
-   <menupopup id="p3-tools-popup">
-     <menuitem id="p3-load" label="Load A Profile" 
+   <menupopup id="trc-tools-popup">
+     <menuitem id="trc-load" label="Load A Profile" 
        oncommand="TRC.demo._loadAProfile();"
      /><!--type="checkbox" -->
    </menupopup>
   </menu>
 </menupopup>
+
+
+<toolbarpalette id="BrowserToolbarPalette">
+
+
+  <toolbarbutton  class="toolbarbutton-1 chromeclass-toolbar-additional" id="tmn-statusbarpanel" 
+ tooltiptext="Right-click for Tracking Report Card" context="trc-statusbar-menu" label='Tracking Report Card'>
+    <hbox>
+      <image id="trc-icon" src="chrome://TRC/skin/trcC.png" />
+      <label id="trc-label" value="" />  
+    </hbox>
+    
+    
+ <!--<menupopup id="tmn-statusbar-menu" position="before_end"
+          onpopupshowing="" onpopuphidden="">
+     <menuitem id="tmn-status-enabled" label="&tmn.menu.enabled;"
+       accesskey="E" class="menuitem-iconic"
+       oncommand="TRACKMENOT.utils.toggleEnabled();"
+     />
+     <menuitem label="&tmn.menu.options;"
+       accesskey="O" class="menuitem-iconic"
+       oncommand="TRACKMENOT.utils.showOptionsDialog();"
+       image="chrome://trackmenot/skin/option_icon.png"
+     />
+    <menuitem label="&tmn.menu.help;"
+       accesskey="H" class="menuitem-iconic"
+       oncommand="window.open('http://www.cs.nyu.edu/trackmenot/trackmenot/faq.html','TrackMeNot - FAQ', 'scrollbars=yes,menubar=no,titlebar=yes,resizable=yes'); "      image="chrome://trackmenot/skin/help_icon.png"
+     />
+    </menupopup> -->
+  </toolbarbutton>
+</toolbarpalette>
   
 </overlay>

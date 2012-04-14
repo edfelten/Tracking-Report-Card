@@ -9,6 +9,26 @@ TRC.init= function() {
 	var ci = null;
 	var i_configfile = null;
 	var i_is_init = false;
+	
+	var _urlBarListener = {
+		  QueryInterface: function(aIID) {
+			   if (aIID.equals(Components.interfaces.nsIWebProgressListener) ||
+			       aIID.equals(Components.interfaces.nsISupportsWeakReference) ||
+			       aIID.equals(Components.interfaces.nsISupports))
+			     return this;
+			   throw Components.results.NS_NOINTERFACE;
+	  	},
+		
+	  onLocationChange: function(aProgress, aRequest, aURI) {
+	    TRC.core._processNewURL(aURI);
+	  },
+	
+	  onStateChange: function(a, b, c, d) {},
+	  onProgressChange: function(a, b, c, d, e, f) {},
+	  onStatusChange: function(a, b, c, d) {},
+	  onSecurityChange: function(a, b, c) {}
+	};
+
 
 
 	function _isRunning()	{
@@ -59,8 +79,9 @@ TRC.init= function() {
     
     
     function _removeLoadingEventListener(win_) {        
-        win_.removeEventListener("click", TRC.init._incrementClicks, true);
+        win_.removeEventListener("click", TRC.core._processClick, true);
         win_.removeEventListener("unload", TRC.init.unLoad, false);
+		gBrowser.removeProgressListener(myExt_urlBarListener);
     } 
 	
 
@@ -74,11 +95,11 @@ TRC.init= function() {
       { 
        	if (  aTopic =='http-on-examine-response') {
              var httpChannel = oHttp.QueryInterface(Components.interfaces.nsIHttpChannel);
-            TRC.network._onIncomingResponse(oHttp);
+            TRC.core._onIncomingResponse(oHttp);
     	 	}
 		if (  aTopic =='http-on-modify-request') {
              var httpChannel = oHttp.QueryInterface(Components.interfaces.nsIHttpChannel);
-            TRC.network._onOutGoingRequest(oHttp);
+            TRC.core._onOutgoingRequest(oHttp);
     	}	
 					
       }, 
@@ -98,13 +119,8 @@ TRC.init= function() {
 	    i_configfile.append("TRC");
 	    if( !i_configfile.exists() || !i_configfile.isDirectory() )    // if it doesn't exist, create
 	   		i_configfile.create(Components.interfaces.nsIFile.DIRECTORY_TYPE, 0777);
-  	 	TRC.delicious._decodeBytesFromRunFile();
-  	 	TRC.demo._load();
-/*
-  	 	var prefs = TRC.utils._getPrefs();
-  	 	TRC.network.setNHook(prefs.getBoolPref("hookads"));
-        addToListener(this);	 	
-*/
+  	 	TRC.core._load();
+
 	 },
 	 
 
@@ -120,14 +136,35 @@ TRC.init= function() {
             }
             return windows;
           } 
-          catch(e){ cerr("getWindows(): ",e); }
+          catch(e){  }
+    },
+	
+		_setAddonBar : function() {
+	    var windows = TRC.init._getWindows();
+	
+	      if (window) windows.push(window); 	
+	      for (var i = 0;i < windows.length; i++) {
+        	var addonBar = windows[i].document.getElementById("addon-bar");
+          if (addonBar) {
+              if ( !windows[i].document.getElementById("trc-statusbarpanel")) {
+                var addonBarCloseButton = windows[i].document.getElementById("addonbar-closebutton")
+                addonBar.insertItem("trc-statusbarpanel");
+                setToolbarVisibility(addonBar, true);
+              }             
+            }
+         }           
     },
         
 	 
     _addTRCLoadingEventListener : function () {
         window.addEventListener("load", function() {TRC.init.onLoad();}, false);
+		gBrowser.addProgressListener(_urlBarListener);
         window.addEventListener("unload", TRC.init.unLoad, false);    
-		window.addEventListener("click", TRC.core._processClick, true);
+		
+		var observerService = Components.classes["@mozilla.org/observer-service;1"]
+                                .getService(Components.interfaces.nsIObserverService);
+		observerService.addObserver(this, "http-on-modify-request", false);
+		//window.addEventListener("click", TRC.core._processClick, true);
     },
         
 	 
@@ -145,7 +182,6 @@ TRC.init= function() {
     unLoad : function() {
         if (!i_is_init ) return;
         i_is_init = false;
-        //Application.storage.set('TRCSave', true);
       	var lastGood = -1;
         var wins = TRC.init._getWindows();
         for (var i = 0;i < wins.length; i++)
@@ -156,6 +192,10 @@ TRC.init= function() {
           wins[lastGood].TRC.init.onLoad();
         }           
     },
+	
+
+
+
 	 
 
 		}
