@@ -3,6 +3,7 @@
 import sys
 import os.path
 import sqlite3
+from sets import Set
 
 if(len(sys.argv) != 2 or not os.path.isfile(sys.argv[1])):
 	print "Usage: python get_domain_pairs.py FOURTHPARTY_DB"
@@ -18,16 +19,21 @@ dbCursor.execute("SELECT top_pages.public_suffix AS top_page_public_suffix, http
 dbRows = dbCursor.fetchall()
 
 firstPrint = True
+pairs = dict()
 
 print "["
 for dbRow in dbRows:
 	topPagePS = dbRow['top_page_public_suffix']
 	requestPS = dbRow['http_request_public_suffix']
 	if topPagePS and requestPS:
-		if not firstPrint:
-			sys.stdout.write(",\n")
-		sys.stdout.write('["' + topPagePS + '", "' + requestPS + '"]')
-		firstPrint = False
+		if topPagePS not in pairs:
+			pairs[topPagePS] = Set()
+		if requestPS not in pairs[topPagePS]:
+			pairs[topPagePS].add(requestPS)
+			if not firstPrint:
+				sys.stdout.write(",\n")
+			sys.stdout.write('["' + topPagePS + '", "' + requestPS + '"]')
+			firstPrint = False
 print "\n]"
 
 dbConnection.close()
