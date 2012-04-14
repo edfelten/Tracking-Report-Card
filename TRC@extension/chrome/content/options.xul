@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<!DOCTYPE overlay SYSTEM 'chrome://TRC/locale/TRC.dtd'>
+
+<window id="TRC-options-438"
+  title="Adnostic"
+  onload="TRC.options.loadOptions();"
+  orient="vertical"
+  persist="screenX screenY"
+  autostretch="always" flex="1"
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+
+  <script type="application/x-javascript" src="options.js"/>
+  <script type="application/x-javascript" src="utils.js"/>
+  <script type="application/x-javascript" src="profiler.js"/>
+  <script type="application/x-javascript" src="editor.js"/>
+  <script type="application/x-javascript" src="network.js"/>
+  
+       <groupbox>
+         <caption id="TRC-option-caption" label="Options"  />
+	         <vbox  align="left">
+ 	           <spacer flex="1" />
+ 	           <checkbox id="TRC-profile-search" label="Use profile searches" tooltiptext="Use search queries in addition to webpage keywords to build profile"/>
+         </vbox>
+          <vbox  align="left">
+ 	           <spacer flex="1" />
+ 	           <checkbox id="TRC-hook-ads" label="Replace ads" tooltiptext="Replace ads on the websites you visit by Adnostic frames. Each frame downloads 10 different ads and only the most relevant is displayed"/>
+         </vbox>
+       </groupbox>
+       <groupbox>
+          <caption id="TRC-reset-caption" label="Reset"  />
+       		<hbox >
+ 	              <vbox align="center"  >
+   	            <button label="Reset Profile" oncommand="TRC.options.resetProfile()" tooltiptext="Empty your list of interests and remove all Adnostic tags from Firefox database (may take a few minutes)" size="20" />
+   	            </vbox>
+   	            <vbox align="center">
+   	            <button label="Clean tags" oncommand="TRC.options.resetTag()" tooltiptext="Remove all Adnostic tags from Firefox database (may take a few minutes)" size="20"/>
+   	            </vbox>
+				   </hbox>	  
+      </groupbox>   
+      
+          
+       <vbox align="center">      
+         <button label="OK" oncommand="TRC.options.saveOptions();window.close();" tooltiptext="Save options" size="20" />
+       </vbox>
+</window>
