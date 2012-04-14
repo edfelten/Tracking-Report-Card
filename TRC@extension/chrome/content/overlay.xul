@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE overlay SYSTEM 'chrome://p3/locale/p3.dtd'>
+<overlay id="TRC" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script  src="trc.js" />
+  <script  src="init.js" />
+  <script  src="utils.js" />  
+
+
+ 
+  <menupopup id="menu_ToolsPopup">
+  <menu id="TRC-tools-menu" label="TRC" 
+     insertafter="javascriptConsole,devToolsSeparator">
+   <menupopup id="p3-tools-popup">
+     <menuitem id="p3-load" label="Load A Profile" 
+       oncommand="TRC.demo._loadAProfile();"
+     /><!--type="checkbox" -->
+   </menupopup>
+  </menu>
+</menupopup>
+  
+</overlay>
