@@ -1,0 +1,16 @@
+[
+{
+  "domain": "doubleclick.net",
+  "company": "Google",
+  "behavior": {
+    "evil": false
+  }
+},
+{
+  "domain": "donottrack.us",
+  "company": "Jonathan Mayer",
+  "behavior": {
+    "evil": true
+  }
+}
+]
