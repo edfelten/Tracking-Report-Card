@@ -1,7 +1,0 @@
-We use two inputs: 
-* input3p.json gives information about third-party trackers and their behaviors
-* input1p.json give information about which third parties are present on which first-party site
-
-3pReportCard.py produces report card data for third parties, as a json file
-1pReportCard.py produces report card data for first parties, as a json file
-

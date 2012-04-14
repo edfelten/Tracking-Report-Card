@@ -1,4 +1,4 @@
-import json
+import json, math
 import gradingPolicy
 
 
@@ -49,7 +49,18 @@ json.dump(domainDict.values(), out3p)
 
 # assign grades to first parties
 
-def compute1pScore(dom1p, dom3ps):
+def count3pPenalty(count):
+  return math.sqrt(count)
+
+def computeCorrection(x3p):
+  totalCorr = 0
+  numCorrs = 0
+  for d in x3p:
+    totalCorr += count3pPenalty(len(d))
+    numCorrs += 1
+  return totalCorr/numCorrs
+
+def compute1pScore(dom1p, dom3ps, correction):
   totalScore = 0
   numScores = 0
   for d3p in dom3ps:
@@ -58,7 +69,7 @@ def compute1pScore(dom1p, dom3ps):
   if numScores==0:
     return gradingPolicy.curve[0][0]
   else:
-    return totalScore/numScores
+    return (totalScore/numScores)-count3pPenalty(numScores)+correction
 
 
 inputFile1p = open('input1p_dummy.json')
@@ -71,11 +82,11 @@ for (d1p, d3p) in inputArray1p:
   else:
     domains1p3p[d1p] = [d3p,]
 
-print domains1p3p
+correction = computeCorrection(domains1p3p.values())
 
 out1p = {}
 for dom in domains1p3p.keys():
-  score = compute1pScore(dom, domains1p3p[dom])
+  score = compute1pScore(dom, domains1p3p[dom], correction)
   grade = gradeFromScore(score)
   out1p[dom] = { 'domain': dom, 'thirdparties':domains1p3p[dom], 
                  'score':score, 'grade':grade }
