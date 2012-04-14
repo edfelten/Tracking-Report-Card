@@ -1,0 +1,45 @@
+#!/usr/bin/python
+# vim: set fileencoding=utf-8
+# fourth2json: analyze FourthParty output to produce JSON reports
+#   Copyright Ⓒ 2012  Clint Adams
+
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 3 of the License, or
+# (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+import json
+import sqlite3
+import sys
+
+def db_connect(fn):
+    conn = sqlite3.connect(fn)
+    return conn
+
+def db_query(conn, query):
+    c = conn.cursor()
+    c.execute(query)
+    return c
+
+if len(sys.argv) == 1:
+    print >> sys.stderr, 'Usage: ' + sys.argv[0] + ' filename1 [filename2] [filenameN..]'
+    sys.exit(1)
+
+output = {}
+
+for arg in sys.argv[1:]:
+    conn = db_connect(arg)
+    c = db_query(conn, 'select host,count(*) from cookies group by host')
+    output[arg] = dict(c)
+
+j = json.dumps(output)
+print j
