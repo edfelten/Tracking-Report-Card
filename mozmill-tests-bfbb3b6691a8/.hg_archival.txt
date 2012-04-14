@@ -1,0 +1,5 @@
+repo: b84b3527ee9e87a8c84a37d3d53bbe047fb2c538
+node: bfbb3b6691a8b75bd97f4a6c67930e08320effec
+branch: mozilla-esr10
+latesttag: FIREFOX_RELEASE_10.0
+latesttagdistance: 26
