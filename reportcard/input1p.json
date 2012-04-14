@@ -1,4 +1,19 @@
 [
-  ["nytimes.com", "doubleclick.net"],
-  ["donottrack.us", "doubleclick.net"]
+  
+	["nytimes.com", "doubleclick.net"],
+
+	["nytimes.com", "felten.com"],
+	["nytimes.com", "feedstarvingafricanorphans.org"],  
+	["donottrack.us", "doubleclick.net"]
+,
+	["awesomefamiliesofearth.com", "felten.com"],
+	["facebook.com", "eonline.com"],
+	["hulu.com", "facebook.com"],
+	["weightwatchers.com", "benjerry.com"],
+	["weightwatchers.com", "facebook.com"],
+	["yelp.com", "benjerry.com"],
+	["yelp.com", "facebook.com"],
+	["iloveronaldreagan.com", "ricksantorum.com"],
+	["middleearthonline.com", "facebook.com"],
+	["middleearthonline.com", "felten.com"]
 ]
