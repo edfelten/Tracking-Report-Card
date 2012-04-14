@@ -20,6 +20,7 @@
 import json
 import sqlite3
 import sys
+import Cookie
 
 def db_connect(fn):
     conn = sqlite3.connect(fn)
@@ -30,16 +31,30 @@ def db_query(conn, query):
     c.execute(query)
     return c
 
-if len(sys.argv) == 1:
-    print >> sys.stderr, 'Usage: ' + sys.argv[0] + ' filename1 [filename2] [filenameN..]'
+if len(sys.argv) != 4:
+    print >> sys.stderr, 'Usage: ' + sys.argv[0] + ' vanillafile dntfile beeftacofile'
     sys.exit(1)
 
 output = {}
+topid_cookies = {}
 
-for arg in sys.argv[1:]:
-    conn = db_connect(arg)
-    c = db_query(conn, 'select host,count(*) from cookies group by host')
-    output[arg] = dict(c)
+for f in sys.argv[1:]:
+    conn = db_connect(f)
+    c = db_query(conn, 'select top_id, value from http_response_headers hrh left join http_responses hr on hrh.http_response_id=hr.id left join pages p on hr.page_id=p.id where name="Set-Cookie"')
 
-j = json.dumps(output)
+    for row in c:
+        C = Cookie.SimpleCookie()
+        try:
+            C.load(str(row[1]))
+            cookies = {}
+            for cookie in C.items():
+                fields = dict(cookie[1])
+                fields['value'] = cookie[1].value
+                cookies[cookie[1].key] = fields
+            topid_cookies[str(row[0])] = cookies # FIXME
+        except Cookie.CookieError:
+            print >> sys.stderr, "python's Cookie seems broken; discarding cookie entirely"
+    output[f] = topid_cookies
+
+j = json.dumps(output, indent=4)
 print j
