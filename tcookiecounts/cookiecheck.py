@@ -397,7 +397,7 @@ def cookiecheck(name, value ,url,referrer ,expiration ,domain):
     #Lots more checks go here...
 
     for rule in blacklist:
-        if re.match(rule.value,value):
+        if re.match(rule,value):
             return(1)
 
     for rule in whitelist:
