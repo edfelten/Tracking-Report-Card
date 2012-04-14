@@ -1,0 +1,90 @@
+#trcPanel {
+    height: 30%;
+    border: 1px solid black;
+    float: left;
+    font-size: medium;
+    width: 100%;
+    overflow: hidden;
+}
+
+#trcPanel.on {
+    display: block;
+}
+
+#trcPanel.off {
+    display: none;
+}
+
+#trcTopBar {
+    border: 1px dotted black;
+    display: block;
+    align: center;
+    background-color: #a7a7a7;
+}
+
+.trcSubPanel {
+    width: 33%;
+    display: inline;
+    border: 0px solid blue;
+    float: left;
+    height: 129px;
+}
+
+#trcSubPanel1 {
+    border-right: 1px solid black;
+    padding-left: 0%;
+    display: inline;
+    color: blue;
+    position:relative;
+    left: 5px;
+    overflow: hidden;
+    float: left;
+    background-color: #d6d6d6;
+    height: 100%;
+}
+
+#trcSubPanel2 {
+    border-right: 1px solid black;
+    display: inline;
+    padding-left: 0%;
+    overflow: auto;
+    float: left;
+    height: 100%;
+}
+#trcSubPanel3 {
+    border: 0px solid cwblackred;
+    display: inline;
+    float: left;
+    overflow: auto;
+}
+
+.gradeImg {
+    padding-left: 20%;
+    padding-right: 10%;
+    height: 100px;
+    width: 78px
+    position: relative;
+    top: 10px;
+    left: 10px;
+    float: left;
+    margin-top:20px;
+    vertical-align:middle;
+}
+
+#cookieMsg {
+    display: block;
+    clear: left;
+    margin-left: 60px;
+    padding-top: 30px;
+}
+
+#domainName {
+    margin-top:64px;
+    margin-right:20px;
+    padding-right: 15px;
+}
+
+#cookieList {
+    float: left;
+    padding-left: 15px;
+}
