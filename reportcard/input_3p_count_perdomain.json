@@ -1,12 +1,92 @@
 {
-	"huffingtonpost.com": {
-		"defaults": 5,
-		"dnt": 2,
-		"beeftaco": 2
-	},
-	"youtube.com": {
-		"defaults": 4,
-		"dnt": 4,
-		"beeftaco": 8
-	}
+    "yahoo.com": {
+        "dnt": 10, 
+        "beeftaco": 8, 
+        "defaults": 7
+    }, 
+    "msn.com": {
+        "dnt": 18, 
+        "beeftaco": 24, 
+        "defaults": 27
+    }, 
+    "bing.com": {
+        "dnt": 7, 
+        "beeftaco": 7, 
+        "defaults": 7
+    }, 
+    "wordpress.com": {
+        "dnt": 3, 
+        "beeftaco": 3, 
+        "defaults": 3
+    }, 
+    "huffingtonpost.com": {
+        "dnt": 38, 
+        "beeftaco": 37, 
+        "defaults": 37
+    }, 
+    "youtube.com": {
+        "dnt": 3, 
+        "beeftaco": 3, 
+        "defaults": 3
+    }, 
+    "ebay.com": {
+        "dnt": 10, 
+        "beeftaco": 10, 
+        "defaults": 10
+    }, 
+    "amazon.com": {
+        "dnt": 4, 
+        "beeftaco": 6, 
+        "defaults": 6
+    }, 
+    "aol.com": {
+        "dnt": 13, 
+        "beeftaco": 13, 
+        "defaults": 13
+    }, 
+    "mozilla.org": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "paypal.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "twitter.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "cnn.com": {
+        "dnt": 23, 
+        "beeftaco": 24, 
+        "defaults": 31
+    }, 
+    "UNKNOWN": {
+        "dnt": 134, 
+        "beeftaco": 134, 
+        "defaults": 134
+    }, 
+    "go.com": {
+        "dnt": 39, 
+        "beeftaco": 53, 
+        "defaults": 39
+    }, 
+    "netflix.com": {
+        "dnt": 24, 
+        "beeftaco": 23, 
+        "defaults": 24
+    }, 
+    "tumblr.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "linkedin.com": {
+        "dnt": 5, 
+        "beeftaco": 5, 
+        "defaults": 5
+    }
 }
