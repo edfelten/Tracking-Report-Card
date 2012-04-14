@@ -1,6 +1,9 @@
 import json, math
 import gradingPolicy
 
+inputFileName1p = 'input1p.json'
+inputFileName3p = 'input3p.json'
+
 
 domainsByCompany = {}
 domainDict = {}
@@ -36,7 +39,7 @@ def compute3pGrade(rec):
 
 # assign grades to third parties
 
-inputFile3p = open('input3p_dummy.json')
+inputFile3p = open(inputFileName3p)
 inputArray3p = json.load(inputFile3p)
 
 for rec in inputArray3p:
@@ -72,7 +75,7 @@ def compute1pScore(dom1p, dom3ps, correction):
     return (totalScore/numScores)-count3pPenalty(numScores)+correction
 
 
-inputFile1p = open('input1p_dummy.json')
+inputFile1p = open(inputFileName1p)
 inputArray1p = json.load(inputFile1p)
 
 domains1p3p = {}
