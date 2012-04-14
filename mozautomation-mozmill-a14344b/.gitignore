@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+*.egg-info
+build
+dist
+*~
+#*
+.DS_Store
+*.exe
+*.o
+*.a
+*.so.0
+proclaunch
