@@ -1,5 +1,4 @@
 [
-  ['nytimes.com', 'doubleclick.net'],
-  ['donottrack.us', 'doubleclick.net'],
-  ['donottrack.us', 'evil.com'],
+  ["nytimes.com", "doubleclick.net"],
+  ["donottrack.us", "doubleclick.net"]
 ]
