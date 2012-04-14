@@ -1,0 +1,44 @@
+#!/usr/bin/python
+# vim: set fileencoding=utf-8
+# json2sqlite: convert two JSON files into sqlite3
+#   Copyright Ⓒ 2012  Clint Adams
+
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 3 of the License, or
+# (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+import json
+import sqlite3
+import sys
+
+def db_connect(fn):
+    conn = sqlite3.connect(fn)
+    return conn
+
+fn = open("networks.json")
+fo = open("optouts.json")
+jn = json.load(fn)
+jo = json.load(fo)
+
+conn = db_connect("networksandoptouts.db")
+c = conn.cursor()
+c.execute("create table networks (id INTEGER, name TEXT, is_nai_certified INTEGER)");
+c.execute("create table optouts (ad_network_id INTEGER, exact_domain TEXT, keyname TEXT, data TEXT)");
+
+for n in jn:
+    c.execute('insert into networks (id, name, is_nai_certified) values (?,?,?)', (n["id"], n["name"], n["is_nai_certified"]))
+
+for o in jo:
+    c.execute('insert into optouts (ad_network_id, exact_domain, keyname, data) values (?,?,?,?)', (o["ad_network_id"], o["exact_domain"], o["keyname"], o["data"]))
+
+conn.commit()
