@@ -1,2 +1,13 @@
+*.pyc
+*.pyo
+*.egg-info
+build
+dist
+*~
+#*
 .DS_Store
-*.py[co]
+*.exe
+*.o
+*.a
+*.so.0
+proclaunch
