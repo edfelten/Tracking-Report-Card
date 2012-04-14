@@ -5,5 +5,12 @@
   "behavior": {
     "evil": false
   }
+},
+{
+  "domain": "donottrack.us",
+  "company": "Jonathan Mayer",
+  "behavior": {
+    "evil": true
+  }
 }
 ]

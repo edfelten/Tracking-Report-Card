@@ -14,7 +14,7 @@ def addDomainToStructures(rec):
   else:
     domainsByCompany[company].append(domain)
 
-def computeScore(rec):
+def compute3pScore(rec):
   score = 0
   behaviors = rec['behavior']
   for beh in behaviors.keys():
@@ -23,8 +23,7 @@ def computeScore(rec):
   rec['score'] = score
   return score
 
-def computeGrade(rec):
-  score = rec['score']
+def gradeFromScore(score):
   for (n,g) in gradingPolicy.curve:
     if score > n:
       rec['grade'] = g
@@ -32,15 +31,55 @@ def computeGrade(rec):
   rec['grade'] = 'F'
   return 'F'  
     
+def compute3pGrade(rec):
+  return gradeFromScore(rec['score'])
 
-inputFile = open('input3p_dummy.json')
-inputArray = json.load(inputFile)
+# assign grades to third parties
 
-for rec in inputArray:
+inputFile3p = open('input3p_dummy.json')
+inputArray3p = json.load(inputFile3p)
+
+for rec in inputArray3p:
   addDomainToStructures(rec)
-  computeScore(rec)
-  computeGrade(rec)
+  compute3pScore(rec)
+  compute3pGrade(rec)
 
-outJsonStr = json.dumps(domainDict.values())
-print outJsonStr
+out3p = open('output3p.json', 'w')
+json.dump(domainDict.values(), out3p)
+
+# assign grades to first parties
+
+def compute1pScore(dom1p, dom3ps):
+  totalScore = 0
+  numScores = 0
+  for d3p in dom3ps:
+    numScores += 1
+    totalScore += domainDict[d3p]['score']
+  if numScores==0:
+    return gradingPolicy.curve[0][0]
+  else:
+    return totalScore/numScores
+
+
+inputFile1p = open('input1p_dummy.json')
+inputArray1p = json.load(inputFile1p)
+
+domains1p3p = {}
+for (d1p, d3p) in inputArray1p:
+  if d1p in domains1p3p:
+    domains1p3p[d1p].append(d3p)
+  else:
+    domains1p3p[d1p] = [d3p,]
+
+print domains1p3p
+
+out1p = {}
+for dom in domains1p3p.keys():
+  score = compute1pScore(dom, domains1p3p[dom])
+  grade = gradeFromScore(score)
+  out1p[dom] = { 'domain': dom, 'thirdparties':domains1p3p[dom], 
+                 'score':score, 'grade':grade }
+
+out1pFp = open('output1p.json', 'w')
+json.dump(out1p, out1pFp)
 
