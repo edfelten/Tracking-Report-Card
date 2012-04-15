@@ -61,6 +61,13 @@ TRC.core = function() {
 	
    }
    
+   function getPageCard( domain) {
+   		var filteredProfile = profiles.filter(function (x) {return x.domain == domain});
+		if (filteredProfile.length == 1) return filteredProfile[0];
+		
+		return null;	
+   }
+   
    function getPageProfile( host ) {
    	 	if (host == this.oldHost) return null;
    		this.oldHost = host;	
@@ -129,8 +136,7 @@ TRC.core = function() {
 		} else {
 			
 			return;
-		}
-		
+		}	
 
    }
    
@@ -143,6 +149,8 @@ TRC.core = function() {
 		
 		var statusIcon= window.document.getElementById("trc-icon");
         if (statusIcon != null) statusIcon.setAttribute('src',"chrome://TRC/skin/trc"+ grade +".png");
+		
+		TRC.core._refreshFrame();
 
     }
 	
@@ -187,6 +195,21 @@ TRC.core = function() {
 
 	return {
 		
+		_refreshFrame : function () {
+			var win_ = TRC.utils._getRunningWindow();
+			var trc_frame =  window.document.getElementById("trc-frame");
+			if (!trc_frame) return;
+
+			var host = window.content.document.location.host;
+			var domainArray = host.split(".");
+			var domain = domainArray.slice((domainArray.length)-2).join(".");  
+			var profile = getCardForFirstParty(domain);
+			var card = {};
+			card[domain] = profile;
+			var strJson = JSON.stringify(card);
+			trc_frame.setAttribute("src","chrome://TRC/skin/displayPanel.html?json="+strJson);			
+		},
+		
 		_loadFrame : function () {
 			var win_ = TRC.utils._getRunningWindow();
 			var trc_frame =  window.document.getElementById("trc-frame");
@@ -203,8 +226,10 @@ TRC.core = function() {
 				var domainArray = host.split(".");
 				var domain = domainArray.slice((domainArray.length)-2).join(".");  
 				var profile = getCardForFirstParty(domain);
+				var fullCard = getPageCard(domain);
 				var card = {};
 				card[domain] = profile;
+				//card[domain].thirdpartiesdetails = fullCard.thirdparties;
 				var strJson = JSON.stringify(card);
 				trc_frame.setAttribute("src","chrome://TRC/skin/displayPanel.html?json="+strJson);	
 				document.getElementById("main-window").appendChild(trc_frame);	
