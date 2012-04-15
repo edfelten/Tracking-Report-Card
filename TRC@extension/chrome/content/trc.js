@@ -62,6 +62,7 @@ TRC.core = function() {
    }
    
    function getPageCard( domain) {
+   						alert(domain)
    		var filteredProfile = profiles.filter(function (x) {return x.domain == domain});
 		if (filteredProfile.length == 1) return filteredProfile[0];
 		
@@ -204,6 +205,10 @@ TRC.core = function() {
 			var domainArray = host.split(".");
 			var domain = domainArray.slice((domainArray.length)-2).join(".");  
 			var profile = getCardForFirstParty(domain);
+			if (profile != null) {
+					var fullCard = getPageCard(domain);
+					profile.thirdparties = fullCard.thirdparties;
+			}
 			var card = {};
 			card[domain] = profile;
 			var strJson = JSON.stringify(card);
@@ -226,10 +231,12 @@ TRC.core = function() {
 				var domainArray = host.split(".");
 				var domain = domainArray.slice((domainArray.length)-2).join(".");  
 				var profile = getCardForFirstParty(domain);
-				var fullCard = getPageCard(domain);
+				if (profile != null) {
+					var fullCard = getPageCard(domain);
+					profile.thirdparties = fullCard.thirdparties;
+				}
 				var card = {};
-				card[domain] = profile;
-				//card[domain].thirdpartiesdetails = fullCard.thirdparties;
+				card[domain] = profile;			
 				var strJson = JSON.stringify(card);
 				trc_frame.setAttribute("src","chrome://TRC/skin/displayPanel.html?json="+strJson);	
 				document.getElementById("main-window").appendChild(trc_frame);	
