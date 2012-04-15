@@ -149,6 +149,8 @@ for phase, fn in files.items():
 of1st = open("input_first.json", "w")
 of3rd = open("input_third.json", "w")
 ofpair = open("input_first-third.json", "w")
+debug = open("debug.json", "w")
 json.dump(thirdpartycount_per_first, of1st, indent=4)
 json.dump(thirdpartycount_per_third, of3rd, indent=4)
 json.dump(thirdpartycount_per_firstthird, ofpair, indent=4)
+json.dump(topid_cookies, debug, indent=4)
