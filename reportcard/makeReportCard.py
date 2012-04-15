@@ -28,7 +28,7 @@ def compute3pScore(rec):
 
 def gradeFromScore(score):
   for (n,g) in gradingPolicy.curve:
-    if score > n:
+    if score >= n:
       rec['grade'] = g
       return g
   rec['grade'] = 'F'
@@ -48,7 +48,7 @@ for rec in inputArray3p:
   compute3pGrade(rec)
 
 out3p = open('output3p.json', 'w')
-json.dump(domainDict.values(), out3p)
+json.dump(domainDict.values(), out3p, indent=4)
 
 # assign grades to first parties
 
@@ -67,8 +67,9 @@ def compute1pScore(dom1p, dom3ps, correction):
   totalScore = 0
   numScores = 0
   for d3p in dom3ps:
-    numScores += 1
-    totalScore += domainDict[d3p]['score']
+    if d3p in domainDict:
+      numScores += 1
+      totalScore += domainDict[d3p]['score']
   if numScores==0:
     return gradingPolicy.curve[0][0]
   else:
@@ -95,7 +96,7 @@ for dom in domains1p3p.keys():
                  'score':score, 'grade':grade }
 
 out1pFp = open('output1p.json', 'w')
-json.dump(out1p, out1pFp)
+json.dump(out1p, out1pFp, indent=4)
 
 # make grading policy file
 
@@ -105,5 +106,5 @@ gradingPolicyObj = {
 }
 
 outGradingFp = open('gradingPolicy.json', 'w')
-json.dump(gradingPolicyObj, outGradingFp)
+json.dump(gradingPolicyObj, outGradingFp, indent=4)
 

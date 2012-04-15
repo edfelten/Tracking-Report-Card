@@ -2,14 +2,18 @@
 rubric = {
   'usesTrackingCookie' : -1,
   'hasOptOut' : 1,
-  'dropsTrackingCookieOnOptOut' : 1,
+  'usesTrackingCookieOnOptOut' : -1,
+  'usesTrackingCookieOnDNT' : -1,
   'evil' : -5
 }
 
 curve = (
-  (40, 'A'),
-  (30, 'B'),
-  (20, 'C'),
-  (10, 'D'),
+  (0, 'A'),
+  (-1, 'B'),
+  (-2, 'C'),
+  (-4, 'D'),
 )
+
+def makeGradingObj():
+  return [[a,b] for (a,b) in curve]
 
