@@ -148,7 +148,7 @@ for phase, fn in files.items():
     
                 topid_cookies.append(cookies) # FIXME?
         except Cookie.CookieError:
-            print >> sys.stderr, "python's Cookie seems broken; discarding cookie entirely"
+            print >> sys.stderr, "malformed cookie or breakage in python's Cookie library; discarding cookie and neighbors entirely: " + row[1]
     output[phase] = topid_cookies
 
 of1st = open("input_first.json", "w")
