@@ -7,27 +7,27 @@
 
 # The following is clumsy but expedient...
 
-blacklist = ["_ngtid=.+", \
-             "uuid2=.+", \
-             'A number (ex "41daed34cf")=.+', \
-             "s_pers=.+", \
-             "bsid=.+", \
-             "opt=.+", \
-             "Pref=.+", \
-             "NetID01=.+", \
-             "b=.+", \
-             "OAID=.+", \
-             "customerID=.+", \
-             "userID=.+", \
-             "SSID=.+", \
-             "UIDR=.+", \
-             "IDR=.+", \
-             "BUI=.+", \
-             "ID (timestamped)=.+", \
-             "ONID=.+", \
-             "presumed_member_no=.+", \
-             "visitorid=.+", \
-             "BUID=.+", \
+blacklist = ["_ngtid", \
+             "uuid2", \
+             'A number (ex "41daed34cf")', \
+             "s_pers", \
+             "bsid", \
+             "opt", \
+             "Pref", \
+             "NetID01", \
+             "b", \
+             "OAID", \
+             "customerID", \
+             "userID", \
+             "SSID", \
+             "UIDR", \
+             "IDR", \
+             "BUI", \
+             "ID (timestamped)", \
+             "ONID", \
+            "presumed_member_no", \
+             "visitorid", \
+             "BUID", \
              "^([0-9a-fA-F][0-9a-fA-F]:){5}([0-9a-fA-F][0-9a-fA-F])$", \
              "\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b", \
              "m/\b\d(1,3)\./" ]
@@ -378,6 +378,9 @@ def cookiecheck(name, value ,url,referrer ,expiration ,domain):
     from urlparse import urlparse
     import re
 
+    if (len(referrer) == 0):
+        return(0)    #without a referrer, not third-party
+
 # These will probably have a problem with IPv6 numeric addresses!
     urlhost = urlparse(url).netloc.split(":")[0]
 
@@ -399,13 +402,15 @@ def cookiecheck(name, value ,url,referrer ,expiration ,domain):
     #Lots more checks go here...
 
     for rule in blacklist:
-        if re.match(rule,value):
+        if re.match(rule,name):
+            #            print "blacklist URL "+ url+" referrer "+referrer+" name "+name+" value "+value
             return(1)
 
     for rule in whitelist:
         if (re.match(rule[2],value) and re.match(rule[0],name) and re.match(rule[1],domain)):
             return(0)
 
+        #        print "unknown URL "+ url+" referrer "+referrer+" name "+name+" value "+value
 
-            return(2) #for now; we don't know
+        return(2) #for now; we don't know
 
