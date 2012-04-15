@@ -16,7 +16,7 @@ curve = (
   (-4, 'D'),
 )
 
-firstPartySqrtCoeff = 1
+firstPartySqrtCoeff = 0.5
 
 
 def makeGradingObj():

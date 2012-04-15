@@ -16,6 +16,9 @@ domainPairs.json: domainPairs.py input_first-third.json
 input1p.json: ../sample_domain_pairs.json
 	cp ../sample_domain_pairs.json input1p.json
 
-clean:
+clean: tidy
 	rm -f output1p.json output3p.json gradingPolicy.json companyNames.json input3p.json input1p.json
+
+tidy:
+	rm -f *.pyc
 

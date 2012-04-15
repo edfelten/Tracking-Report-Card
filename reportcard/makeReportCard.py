@@ -53,7 +53,7 @@ json.dump(domainDict.values(), out3p, indent=4)
 # assign grades to first parties
 
 def count3pPenalty(count):
-  return math.sqrt(count)
+  return gradingPolicy.firstPartySqrtCoeff*math.sqrt(count)
 
 def computeCorrection(x3p):
   totalCorr = 0
@@ -73,7 +73,7 @@ def compute1pScore(dom1p, dom3ps, correction):
   if numScores==0:
     return gradingPolicy.curve[0][0]
   else:
-    return (totalScore/numScores)-gradingPolicy.firstPartySqrtCoeff*count3pPenalty(numScores)+correction
+    return (totalScore/numScores)-count3pPenalty(numScores)+correction
 
 
 inputFile1p = open(inputFileName1p)
