@@ -1,7 +1,7 @@
 import json, math
 import gradingPolicy
 
-inputFileName1p = 'input1p.json'
+inputFileName1p = 'domainPairs.json'
 inputFileName3p = 'input3p.json'
 
 
@@ -81,10 +81,10 @@ inputArray1p = json.load(inputFile1p)
 
 domains1p3p = {}
 for (d1p, d3p) in inputArray1p:
-  if d1p in domains1p3p:
+  if not d1p in domains1p3p:
+    domains1p3p[d1p] = []
+  if d1p != d3p:
     domains1p3p[d1p].append(d3p)
-  else:
-    domains1p3p[d1p] = [d3p,]
 
 correction = computeCorrection(domains1p3p.values())
 
