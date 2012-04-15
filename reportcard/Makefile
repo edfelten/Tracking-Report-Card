@@ -13,3 +13,6 @@ input3p.json: processCountPerdomain.py input_3p_count_perdomain.json companyName
 input1p.json: ../sample_domain_pairs.json
 	cp ../sample_domain_pairs.json input1p.json
 
+clean:
+	rm -f output1p.json output3p.json gradingPolicy.json companyNames.json input3p.json input1p.json
+
