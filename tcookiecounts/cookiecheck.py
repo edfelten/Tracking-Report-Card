@@ -36,7 +36,7 @@ whitelist = [ \
         ["X1ID",".ru4.com","^OO-00000000000000000$"], \
         ["RMOPTOUT",".247realmedia.com","^$"], \
         ["RMOPTOUT",".realmedia.com","^$"], \
-        ["CP","www.acxiom.com","^null*$"], \
+        ["CP","www.acxiom.com","^null\*$"], \
         ["aa",".adadvisor.net","^opt-out$"], \
         ["AdcentricOptout",".adcentriconline.com","^true$"], \
         ["a",".afy11.net","^AAAAAAAAAAAAAAAAAAAAAA$"], \
@@ -177,7 +177,7 @@ whitelist = [ \
         ["NO_COOKIE",".scorecardresearch.com","^$"], \
         ["fastclick",".fastclick.net","^optout$"], \
         ["pref",".struq.com","^optout$"], \
-        ["optout",".invitemedia.com","^*$"], \
+        ["optout",".invitemedia.com","^\*$"], \
         ["cookie3",".beencounter.com","^no-track$"], \
         ["VINDICOAUDIENCEISSUEDIDENTITY",".vindicosuite.com","^VINDICOAUDIENCEOPTOUT$"], \
         ["EVO5_OPT",".netmng.com","^$"], \
@@ -197,7 +197,7 @@ whitelist = [ \
         ["uuid2",".adnxs.com","^1$"], \
         ["optout","www.halogenmediagroup.com","^$"], \
         ["optout",".halogennetwork.com","^$"], \
-        ["optout","invitemedia.com","^*$"], \
+        ["optout","invitemedia.com","^\*$"], \
         ["AdGear_OPTOUT",".adgear.com","^agOptedOut$"], \
         ["optout",".mythings.com","^$"], \
         ["__coo",".hurra.com","^$"], \
@@ -218,7 +218,6 @@ whitelist = [ \
         ["_iad_vsid","www.inadcoads.com","^99999999-9999-9999-9999-999999999999$"], \
         ["tracking_optout",".lijit.com","^$"], \
         ["UsesLocalStoredObject",".visiblemeasures.com","^NotDetermined$"], \
-        ["ROOC","ds.reson8.com","^\\1\\$"], \
         ["u","ad.wsod.com","^OPT_OUT$"], \
         ["trgoptout",".triggit.com","^$"], \
         ["tracker_optout","tracking.quisma.com","^$"], \
@@ -391,10 +390,11 @@ def cookiecheck(name, value ,url,referrer ,expiration ,domain):
     #Lots more checks go here...
 
     for rule in blacklist:
-        if re.match(rule.value,value):
+        if re.match(rule,value):
             return(1)
 
     for rule in whitelist:
+        print rule
         if (re.match(rule[2],value) and re.match(rule[0],name) and re.match(rule[1],domain)):
             return(0)
 
