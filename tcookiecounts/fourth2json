@@ -134,12 +134,12 @@ for phase, fn in files.items():
                     thirdpartycount_per_third[fields['__TRC_cookie_domain']] = fpd
 
                     try:
-                        ppd = thirdpartycount_per_firstthird[str ((fields['__TRC_destination_domain'],fields['__TRC_cookie_domain']))]
+                        ppd = thirdpartycount_per_firstthird[(fields['__TRC_destination_domain'] + '/' + fields['__TRC_cookie_domain'])]
                         ppd[phase] += 1
                     except KeyError:
                         ppd = dict([(k,0) for k in files.keys()])
                         ppd[phase] = 1
-                    thirdpartycount_per_firstthird[str ((fields['__TRC_destination_domain'],fields['__TRC_cookie_domain']))] = ppd
+                    thirdpartycount_per_firstthird[(fields['__TRC_destination_domain'] + '/' + fields['__TRC_cookie_domain'])] = ppd
 
                 topid_cookies.append(cookies) # FIXME?
         except Cookie.CookieError:
