@@ -43,22 +43,35 @@ Which we will put into the dislayPanel.html file
                     //$('<li>').html(args[domain].thirdparties[tp])
                     //// add a click handler too
                     //.appendTo(ul);
-                    var tp = args[domain].thirdparties[i]
-                    $('<li>').html(tp.domain)
+                    
+                    var tp = args[domain].thirdparties[i];
+
+                    var li = $('<li>').html(tp.domain)
                     // add a click handler too
+                    //.on('click', function(tp) {
+                    //    var htmlStr = '<h3>Company: '+tp.company+'</h3><br/>' 
+                    //              + 'Domain: '+tp.domain +'<br/>'
+                    //              + 'Grade: '+tp.grade+'<br/>';
+                    //    $('#trcSubPanel3').empty().html(htmlStr);  
+                    //})
                     .appendTo(ul);
+                    addClickHandler(li, tp.company, tp.domain, tp.grade);
                 }
                 $('#cookieMsg').html(cookieMsg);
                 $('#trcSubPanel2').empty().append(ul);
             }
             
-            
-
-
-
-
-                  
         };
+    };
+
+    var addClickHandler = function(container, company, domain, grade){
+        $(container).on('click', function() {
+                        var htmlStr = '<h3>Company: '+company+'</h3><br/>' 
+                                  + 'Domain: '+domain +'<br/>'
+                                  + 'Grade: '+grade+'<br/>';
+                        $('#trcSubPanel3').empty().html(htmlStr);  
+
+        });
     };
 
     return {
