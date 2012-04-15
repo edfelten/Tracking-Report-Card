@@ -119,26 +119,29 @@ for phase, fn in files.items():
                 if fields['__TRC_destination_domain'] != fields['__TRC_cookie_domain']: # FIXME: not the right heuristic to determine 3p
                     try:
                         fpd = thirdpartycount_per_first[fields['__TRC_destination_domain']]
-                        fpd[phase] += 1
+                        fpd[phase]['count'] += 1
+                        fpd[phase]['cookies'].append(cookie[1].key)
                     except KeyError:
-                        fpd = dict([(k,0) for k in files.keys()])
-                        fpd[phase] = 1
+                        fpd = dict([(k,{'count': 0, 'cookies': []}) for k in files.keys()])
+                        fpd[phase] = {'count': 1, 'cookies': [cookie[1].key]}
                     thirdpartycount_per_first[fields['__TRC_destination_domain']] = fpd
 
                     try:
                         tpd = thirdpartycount_per_third[fields['__TRC_cookie_domain']]
-                        tpd[phase] += 1
+                        tpd[phase]['count'] += 1
+                        fpd[phase]['cookies'].append(cookie[1].key)
                     except KeyError:
-                        tpd = dict([(k,0) for k in files.keys()])
-                        tpd[phase] = 1
+                        tpd = dict([(k,{'count': 0, 'cookies': []}) for k in files.keys()])
+                        tpd[phase] = {'count': 1, 'cookies': [cookie[1].key]}
                     thirdpartycount_per_third[fields['__TRC_cookie_domain']] = fpd
 
                     try:
                         ppd = thirdpartycount_per_firstthird[(fields['__TRC_destination_domain'] + '/' + fields['__TRC_cookie_domain'])]
-                        ppd[phase] += 1
+                        ppd[phase]['count'] += 1
+                        ppd[phase]['cookies'].append(cookie[1].key)
                     except KeyError:
-                        ppd = dict([(k,0) for k in files.keys()])
-                        ppd[phase] = 1
+                        ppd = dict([(k,{'count': 0, 'cookies': []}) for k in files.keys()])
+                        ppd[phase] = {'count': 1, 'cookies': [cookie[1].key]}
                     thirdpartycount_per_firstthird[(fields['__TRC_destination_domain'] + '/' + fields['__TRC_cookie_domain'])] = ppd
 
                 topid_cookies.append(cookies) # FIXME?
