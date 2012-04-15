@@ -4,7 +4,7 @@
 <script type="text/javascript" src="js/displayPanel.js"></script>
 
 <div id="trcPanel" class="on">
-    <div id="trcTopBar" class="gradient">Tracking Report Card</div>
+    <div id="trcTopBar">Tracking Report Card</div>
     <div id="trcSubPanel1" class="trcSubPanel">
             <img id="gradeImg" src="./images/grade_A.png"> 
             <div id="domainName">www.example.com</div>
@@ -31,10 +31,15 @@
 </div>
 
 <script>
-
-    $(document).ready(function() {
-        
-        var testData = { "nytimes.com": {
+//document.addEventListener("MyExtensionEvent", function(e) { myExtension.myListener(e); }, false, true);
+  var param = unescape(window.location.href.split("?")[1].split("=")[1]);//.replace(/\%22/s, '"');
+  var testData = JSON.parse(param) ;
+  displayData.showData(testData);
+ /*   $(document).ready(function() {
+		
+        var param = document.location.split("?")[1];
+		var testData = JSON.parse(param) ;
+       /*var testData = { "nytimes.com": {
             "grade": "F",
             "domain": "nytimes.com",
             "score": -0.5126406414924147,
@@ -47,6 +52,6 @@
     
         displayData.showData(testData);
 
-    });
+    });*/
 
 </script>

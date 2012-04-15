@@ -1,13 +1,10 @@
 content TRC chrome/content/
-content TRC chrome/content/load.js contentaccessible=yes
-content TRC chrome/content/TRC_loader.js contentaccessible=yes      
-content TRC chrome/content/listener.js contentaccessible=yes   
+
 
 overlay chrome://browser/content/browser.xul chrome://TRC/content/overlay.xul
 
 
 locale TRC en-US jar:chrome/TRC.jar!/locale/en-US/
 
-skin TRC classic/1.0 jar:chrome/TRC.jar!/skin/
-
+skin TRC classic/1.0 chrome/skin/
 style chrome://TRC/content/overlay.xul chrome://TRC/content/TRC.css

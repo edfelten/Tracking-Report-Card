@@ -7,37 +7,54 @@ def computeCompanyName(d, companies):
   else:
     return 'unknown'
 
-def computeBehavior(dnt, taco, normal):
+def computeBehavior(b):
+  dnt = b['dnt']
+  taco = b['beeftaco']
+  defaults = b['defaults']
   return { 'evil': False,
            # 'hasOptOut': ??
-           'usesTrackingCookie': (normal>0), 
+           'usesTrackingCookie': (defaults>0), 
            'usesTrackingCookieOnOptOut': (taco>0), 
            'usesTrackingCookieOnDNT': (dnt>0) 
          }
 
 
-inputFileName = 'input_3p_count_perdomain.json'
+inputFileName = 'input_first-third.json'
 inputFile = open(inputFileName)
-inputArr = json.load(inputFile)
+inputDict = json.load(inputFile)
 
 companiesFileName = 'companyNames.json'
 companiesFile = open(companiesFileName)
 companies = json.load(companiesFile)
 
-outArr = []
-for d in inputArr.keys():
-  if d:   # ignore empty domain name--covers for bug earlier in the pipeline?
-    vals = inputArr[d]
-    dnt = vals['dnt']
-    taco = vals['beeftaco']
-    normal = vals['defaults']
-    outArr.append(
-      { 'domain': d,
-        'company': computeCompanyName(d, companies),
-        'behavior': computeBehavior(dnt, taco, normal)
+dict3p = {}
+for doms in inputDict.keys():
+  (d1p, d3p) = doms.split('/')
+  if d3p:  # ignore empty domain name--covers for bug earlier in the pipeline?
+    vals = inputDict[doms]
+    dnt = vals['dnt']['count']
+    beeftaco = vals['beeftaco']['count']
+    defaults = vals['defaults']['count']
+    if d3p in dict3p:
+      dict3p[d3p]['dnt'] += dnt
+      dict3p[d3p]['beeftaco'] += beeftaco
+      dict3p[d3p]['defaults'] += defaults
+    else:
+      dict3p[d3p] = {
+        'dnt': dnt,
+        'beeftaco': beeftaco,
+        'defaults': defaults
       }
-    )
 
-print json.dumps(outArr)
+outArr = []
+for d3p in dict3p.keys():
+  outArr.append({
+    'domain': d3p,
+    'company': computeCompanyName(d3p, companies),
+    'behavior': computeBehavior(dict3p[d3p])
+  })
+
+print json.dumps(outArr, indent=4)
+
 
 

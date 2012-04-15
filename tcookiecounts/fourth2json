@@ -105,47 +105,47 @@ for phase, fn in files.items():
                 fields = dict(cookie[1])
                 fields['value'] = cookie[1].value
                 fields['__TRC_heuristic_'] = cookiecheck.cookiecheck(cookie[1].key, cookie[1].value, row[2], row[3], fields['expires'], fields['domain']) # FIXME: hole here
-                #fields['__TRC_heuristic_'] = assume_that_everything_is_a_tracking_cookie(cookie[1].key, cookie[1].value, row[2], row[3], fields['expires'], fields['domain']) # FIXME: hole here
-                if row[0]:
-                    fields['__TRC_destination_domain'] = domain_from_top_id(row[0], top_pages)
-                else:
-                    fields['__TRC_destination_domain'] = "UNKNOWN"
-                fields['__TRC_destination_companyname'] = domain_to_company_name(fields['__TRC_destination_domain'], companies)
-                if fields['domain']:
-                    fields['__TRC_cookie_domain'] = sld_from_domain(fields['domain'])
-                else:
-                    fields['__TRC_cookie_domain'] = sld_from_url(row[2])
-
-                fields['__TRC_cookie_companyname'] = domain_to_company_name(fields['__TRC_cookie_domain'], companies)
-                cookies[cookie[1].key] = fields
-                if fields['__TRC_destination_domain'] != fields['__TRC_cookie_domain']: # FIXME: not the right heuristic to determine 3p
-                    try:
-                        fpd = thirdpartycount_per_first[fields['__TRC_destination_domain']]
-                        fpd[phase]['count'] += 1
-                        fpd[phase]['cookies'].append(cookie[1].key)
-                    except KeyError:
-                        fpd = dict([(k,{'count': 0, 'cookies': []}) for k in files.keys()])
-                        fpd[phase] = {'count': 1, 'cookies': [cookie[1].key]}
-                    thirdpartycount_per_first[fields['__TRC_destination_domain']] = fpd
-
-                    try:
-                        tpd = thirdpartycount_per_third[fields['__TRC_cookie_domain']]
-                        tpd[phase]['count'] += 1
-                        fpd[phase]['cookies'].append(cookie[1].key)
-                    except KeyError:
-                        tpd = dict([(k,{'count': 0, 'cookies': []}) for k in files.keys()])
-                        tpd[phase] = {'count': 1, 'cookies': [cookie[1].key]}
-                    thirdpartycount_per_third[fields['__TRC_cookie_domain']] = fpd
-
-                    try:
-                        ppd = thirdpartycount_per_firstthird[(fields['__TRC_destination_domain'] + '/' + fields['__TRC_cookie_domain'])]
-                        ppd[phase]['count'] += 1
-                        ppd[phase]['cookies'].append(cookie[1].key)
-                    except KeyError:
-                        ppd = dict([(k,{'count': 0, 'cookies': []}) for k in files.keys()])
-                        ppd[phase] = {'count': 1, 'cookies': [cookie[1].key]}
-                    thirdpartycount_per_firstthird[(fields['__TRC_destination_domain'] + '/' + fields['__TRC_cookie_domain'])] = ppd
-
+                if fields['__TRC_heuristic_'] == 0:
+                    if row[0]:
+                        fields['__TRC_destination_domain'] = domain_from_top_id(row[0], top_pages)
+                    else:
+                        fields['__TRC_destination_domain'] = "UNKNOWN"
+                    fields['__TRC_destination_companyname'] = domain_to_company_name(fields['__TRC_destination_domain'], companies)
+                    if fields['domain']:
+                        fields['__TRC_cookie_domain'] = sld_from_domain(fields['domain'])
+                    else:
+                        fields['__TRC_cookie_domain'] = sld_from_url(row[2])
+    
+                    fields['__TRC_cookie_companyname'] = domain_to_company_name(fields['__TRC_cookie_domain'], companies)
+                    cookies[cookie[1].key] = fields
+                    if fields['__TRC_destination_domain'] != fields['__TRC_cookie_domain']: # FIXME: not the right heuristic to determine 3p
+                        try:
+                            fpd = thirdpartycount_per_first[fields['__TRC_destination_domain']]
+                            fpd[phase]['count'] += 1
+                            fpd[phase]['cookies'].append(cookie[1].key)
+                        except KeyError:
+                            fpd = dict([(k,{'count': 0, 'cookies': []}) for k in files.keys()])
+                            fpd[phase] = {'count': 1, 'cookies': [cookie[1].key]}
+                        thirdpartycount_per_first[fields['__TRC_destination_domain']] = fpd
+    
+                        try:
+                            tpd = thirdpartycount_per_third[fields['__TRC_cookie_domain']]
+                            tpd[phase]['count'] += 1
+                            fpd[phase]['cookies'].append(cookie[1].key)
+                        except KeyError:
+                            tpd = dict([(k,{'count': 0, 'cookies': []}) for k in files.keys()])
+                            tpd[phase] = {'count': 1, 'cookies': [cookie[1].key]}
+                        thirdpartycount_per_third[fields['__TRC_cookie_domain']] = fpd
+    
+                        try:
+                            ppd = thirdpartycount_per_firstthird[(fields['__TRC_destination_domain'] + '/' + fields['__TRC_cookie_domain'])]
+                            ppd[phase]['count'] += 1
+                            ppd[phase]['cookies'].append(cookie[1].key)
+                        except KeyError:
+                            ppd = dict([(k,{'count': 0, 'cookies': []}) for k in files.keys()])
+                            ppd[phase] = {'count': 1, 'cookies': [cookie[1].key]}
+                        thirdpartycount_per_firstthird[(fields['__TRC_destination_domain'] + '/' + fields['__TRC_cookie_domain'])] = ppd
+    
                 topid_cookies.append(cookies) # FIXME?
         except Cookie.CookieError:
             print >> sys.stderr, "python's Cookie seems broken; discarding cookie entirely"

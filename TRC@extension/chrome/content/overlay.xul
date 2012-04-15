@@ -23,10 +23,10 @@
 
 
   <toolbarbutton  class="toolbarbutton-1 chromeclass-toolbar-additional" id="tmn-statusbarpanel" 
- tooltiptext="Right-click for Tracking Report Card" context="trc-statusbar-menu" label='Tracking Report Card'>
+ tooltiptext="Right-click for Tracking Report Card" context="trc-statusbar-menu" label='Tracking Report Card' oncommand="TRC.core._loadFrame();">
     <hbox>
-      <image id="trc-icon" src="chrome://TRC/skin/trcC.png" />
-      <label id="trc-label" value="" />  
+      <image id="trc-icon" src="chrome://TRC/skin/trcC.png" oncommand="window.TRC.core._loadFrame();" />
+      <label id="trc-label" value="" oncommand="alert('test');TRC.core._loadFrame();"/>  
     </hbox>
     
     
@@ -48,5 +48,5 @@
     </menupopup> -->
   </toolbarbutton>
 </toolbarpalette>
-  
+
 </overlay>

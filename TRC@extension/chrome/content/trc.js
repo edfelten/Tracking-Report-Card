@@ -15,7 +15,7 @@ TRC.core = function() {
 	var max_f = 1;
 	var profileArray = [];
 	var oldHost =  null;
-	var firstCardArray = [];
+	var firstCardArray = {};
 	var thirdCardArray = [];
 	var gradedDomains = [];
 	var grade = 0;
@@ -40,10 +40,9 @@ TRC.core = function() {
 	}
 	
    
-   function getCardForFirstParty( host ) {
-   		_cout("processing Host " +  host);
-   		var cardObj = firstCardArray[host];//filter(function (x) {return x.domain == host});
-   		_cout(" test" + cardObj)
+   function getCardForFirstParty( host_ ) {
+
+   		var cardObj = firstCardArray[host_];//filter(function (x) {return x.domain == host});
 		if ( cardObj != null) {
 			_cout(cardObj.grade)
 			return cardObj;
@@ -63,38 +62,44 @@ TRC.core = function() {
    }
    
    function getPageProfile( host ) {
-   		if (host == this.oldHost) return;
+   	 	if (host == this.oldHost) return null;
    		this.oldHost = host;	
 		clearGrade();
-		
-		
-		var filteredProfile = profiles.filter(function (x) {return x.domain == host});
+	
+		var domainArray = host.split(".");
+		var domain = domainArray.slice((domainArray.length)-2).join(".");  
+		var filteredProfile = profiles.filter(function (x) {return x.domain == domain});
 		if ( filteredProfile.length == 1 ) {
 			var card = filteredProfile[0].card;
 			displayGrade(filteredProfile[0]);
-			return;
+			return filteredProfile[0];
 		}
+	
+  
+		
+
 		
 		
 		hostProfile = {};
-		hostProfile.domain = host;
+		hostProfile.domain = domain;
 		hostProfile.score = 0;
+		hostProfile.card = {};
 		hostProfile.thirdparties = [];
 		
 		
-		var card = getCardForFirstParty(host);
+		var card = getCardForFirstParty(domain);
 		
 		if( card != null) {
 			hostProfile.card = card;
-			hostProfile.score = card.score;
 			displayGrade(hostProfile);
 		}
 		profiles.push(hostProfile);
+		
+		return hostProfile;
    }
    
     function updatePageProfile( thirdparty, host  ) {
-		_cout(profiles.length + thirdparty+  host);
-		var firstPartyCard = getCardForThirdParty(host);
+		var firstPartyCard = getCardForFirstParty(host);
 		
 		var card = getCardForThirdParty(thirdparty);
 		if (card == null) return;
@@ -113,8 +118,10 @@ TRC.core = function() {
 					filteredProfile[0].thirdparties.forEach(function(x){
 						filteredProfile[0].card.score += x.score
 					})
-					var correctedScore = filteredProfile[0].card.score - Math.sqrt(filteredProfile[0].thirdparties.length) +  computeParam.correction; 
+					var correctedScore = (filteredProfile[0].card.score/filteredProfile[0].thirdparties.length) - Math.sqrt(filteredProfile[0].thirdparties.length) +  computeParam.correction; 
 					var gradeArray = computeParam.grading.filter(function(x) { return( x[0]<correctedScore)});
+					
+					filteredProfile[0].card.score = correctedScore;
 					filteredProfile[0].card.grade = (gradeArray.length==0) ? "F" : gradeArray[0][1];
 					displayGrade(filteredProfile[0])
 				}
@@ -146,7 +153,7 @@ TRC.core = function() {
         if (statusLabel != null) statusLabel.value =  statusMsg; 
 		
 		var statusIcon= window.document.getElementById("trc-icon");
-        if (statusIcon != null) statusIcon.setAttribute('src',"chrome://TRC/skin/trcC.png");
+        if (statusIcon != null) statusIcon.setAttribute('src',"chrome://TRC/skin/images/trcC.png");
     }
     
 	   
@@ -180,6 +187,43 @@ TRC.core = function() {
 
 	return {
 		
+		_loadFrame : function () {
+			var win_ = TRC.utils._getRunningWindow();
+			var trc_frame =  window.document.getElementById("trc-frame");
+			if (!trc_frame) {
+				trc_frame = document.createElement("iframe"); // iframe or browser
+		        trc_frame.setAttribute("id", "trc-frame");
+		        trc_frame.setAttribute("name", "sample-frame");
+		        trc_frame.setAttribute("type", "content");	
+				trc_frame.setAttribute("collapsed",false);
+				trc_frame.setAttribute("resizable",true);
+				trc_frame.setAttribute("scrollable",true);
+				trc_frame.setAttribute("height","200px");
+				var host = window.content.document.location.host;
+				var domainArray = host.split(".");
+				var domain = domainArray.slice((domainArray.length)-2).join(".");  
+				var profile = getCardForFirstParty(domain);
+				var card = {};
+				card[domain] = profile;
+				var strJson = JSON.stringify(card);
+				trc_frame.setAttribute("src","chrome://TRC/skin/displayPanel.html?json="+strJson);	
+				document.getElementById("main-window").appendChild(trc_frame);	
+				
+			/*	trc_frame.setAttribute("json",strJson);	
+				var element = document.createElement("frame-parameter");
+				element.setAttribute("json", strJson);
+				trc_frame.appendChild(element);
+				
+				var evt = document.createEvent("Events");
+				evt.initEvent("TRCEvent", true, false);
+				element.dispatchEvent(evt);*/
+				
+			} 	else {
+				document.getElementById("main-window").removeChild(trc_frame)
+			
+			}
+		
+		},
 		
 		_updateCard : function( thirddomain, host) {
 			//_cout(thirddomain + " : " + host)
@@ -239,6 +283,9 @@ TRC.core = function() {
 		firstCardArray= JSON.parse( firstpartyJSON );
 		thirdCardArray= JSON.parse( thirdpartyJSON );
 		
+		
+
+		//_cout(firstCardArray.length)
 		var computeJSON = fetchJSON('https://raw.github.com/ewfelten/Tracking-Report-Card/master/reportcard/gradingPolicy.json');
 		computeParam = JSON.parse(computeJSON);
 	},

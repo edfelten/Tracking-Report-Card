@@ -1,0 +1,124 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf320
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue245;}
+\margl1440\margr1440\vieww13900\viewh11060\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 \
+-- Why is tracking bad? \
+-- What are peoples' privacy concenrs?\
+-- How might they react?\
+\
+\
+I. INTRODUCTION\
+\
+A recent study (Mayer) found that over 80 percent of the Quantcast U.S. top 250 websites were "leaky" -- they surveilled or passed along personally identifiable information (PII) of the user through the often-invisible mechanisms of cookies, supercookies, or browser fingerprinting. Similarly, a 2009 study saw that web bugs were "ubiquitous" (Gomez, Pinnick & Soltani, 2009). Compounding the issue, these harvested data are  often given or sold to third parties that are not contactable or controllable by the original user. This aggregation and permanent storage can result in loss of privacy and political control, exposure to hackers and scammers, or even getting on a telemarketer list.\
+\
+In addition the tracking may be opaque, and beyond the user's ability to consent to. When a user places items in a shopping cart, or checks a "Remember Me" box, there exists a transactional relationship in which the user has opened the kimono slightly in exchange for a certain functionality, but many sites automatically place cookies, check a browser fingerprint, or use other invisible methods to gather data on the user. And the surveillance may be by a third party, which the user would never have entered into any relationship with. If Web Site X has ancillary relationships with other services that load invisible tracking tools, the user cannot make an informed assessment of this third party's trustworthiness or reliability. This is along the lines of what Marx (2006) termed "soft surveillance" and "mandatory volunteerism": you can opt not to give up privacy, but you're barred from the common.  \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 Technically adept users have long had the option of changing browser settings, deleting individual cookies, or browsing using anonymizing tools, though this is a small subset of internet users and not a generalized solution. Some sites offer "opt-out" cookies and there is the recent development of "do not track" tools, with the goal of stopping such surveillance (the latter even knowingly echoes the name of the Federal Trade Commission's (FTC) Do Not Call registry). However, there is no structure in place to monitor whether sites honor these, leavings users, in terms of surveilling the surveillers. \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 \
+Due to this opacity (or even invisibility), people cannot resist or judge whether surveillance is worthwhile or illegitimate without this awareness; trust and confidence in parties even in consentual actions are in a state of unstable equilibrium when full disclosure can destroy the dyad. \
+\
+And users are lacking a basic level of control over their personal information -- they cannot even begin to consider any of the "standard means of redress" such as obfuscation or other forms of protest (Brunton & Nissenbaum, 2011). This is especially problematic in light of Helen Nissenbaum's framework of "contextual integrity" as being necessary for people if they want to manage their privacy. And, as Marx (2003) pointed out, "a lack of resistance to intrusive surveillance may mask as acceptance". \
+\
+Our work on Tracking Report Card hopes to surface the hidden pipelines of personal information tracking and be the first user-friendly tool to track if sites and third parties adhere to the the user's choice of opting out or requesting not to be tracked. The Tracking Report Card tool is a browser extension that alerts users if the site they visit uses third-party tracking cookies and grades both this first-party site and any third-party sites involved based on their "good citizenship" around respecting opt-out and Do Not Track requests. Though currently the Tracking Report Card does not have comprehensive data about every site on the internet, our base of the Alexa top 500 United States sites is a strong starting point.\
+\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 Our project does not necessarily lead to nor rely on resistance or non-compliance by the user. But it creates the conceptual space between the online content desired by the user, and the tracking infrastructure that currently is the invisible substrate. \
+\
+Though the initial concern in our work was on tracking across popular (commercial) web sites, we can see how many of the practices and privacy issues our project scores could also be applied in political contexts -- Pfaffenberger (1992) noted that technological practices can have great applications to and effect on the construction of political power as well as the resistance to political power. \
+\
+\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 \
+\
+\
+II. USER CONCERNS & KNOWLEDGE\
+\
+Gomez, Pinnick, & Soltani (2009) combined and compared results from a range of general-public surveys and found that though there was widespread concern from users about the collection of personal data and profiling, they admitted little to no knowledge  of the details or processes, or even when it occurred. And when investigating more specific elements of user complaints to the FTC relevant to the General Privacy (GP) and Gramm-Leach-Bliley (GLB) statute codes, the researchers found that 39% of total privacy complaints were related to companies either not offering the opportunity to opt out, or not honoring the user's request to opt out. \
+\
+From these data, we can see that users want to know when personal data are collected (though do not know how to), want to know they can opt out of this tracking, and want to know if their decisions to opt out are effective.\
+\
+We attempt to address these concerns with the Tracking Report Card. The overall "grade" of both the first-party web page (the one the user has intentionally loaded) and the third-party services are determined by:\
+\
+1. whether the third-party site uses tracking cookies\
+2. whether they offer an opt-out\
+3. whether they delete the tracking cookie when the user opts out\
+4. whether they add tracking cookies when you opt out\
+5. and whether they delete the tracking cookies when you send the Do Not Track header\
+\
+As important as having this data is having it in a format understandable to the user. This is why we designed the Tracking Report Card as a browser extension so that it provides concurrent discovery: As a web page is displayed, it offers visually, and in plain language, the knowledge that your personal information is being collected. Linking the first-party site with alerts about its privacy "grade" not only synchronously but within the same browser is far more effective than requiring the user to enter the same URL into two different browser windows (or into a separate application) and switch between the two. \
+\
+We also tried to address a range of users with the column view layout of the browser extension. The leftmost column provides a summation (including a visual "grade" for the first-party web page), which gives an at-a-glance alert that the visited page has third-party tracking cookies. The center column shows a list of these (the list itself gives a visual cue as to whether there are a few or many of these); interested users can click on any of the list to see detailed information, such as TKTKTKTK. This is a familiar and welcome pattern to advanced users, similar to nested menus in applications.\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\pard\pardeftab720
+\cf0 [the \'93design constituency\'94 \'97 as Pfaffenberger terms \'93the groups and individuals who participated in the technology\'92s design\'94 \'97 is a complex family of engineers, entrepreneurs and corporations with a shared interest in gathering, processing, and applying or commoditizing user data. Their task, along with building the technology itself, is to build a myth that the \'93impact constituency\'94 \'97 those who are disadvantaged or exploited by the new system (Neil Postman simply called them \'93losers\'94 [12]) \'97 cannot overcome. -- form Burton and Nissenbaum]\
+\
+\
+\
+ON ASYMMETRY:\
+\
+[worth quoting Burton & Niseenbaum at length:\
+\
+"
+\f1 One fundamental problem with the systems of personal digital data collection and analysis is asymmetry, or rather, two asymmetries. First, the asymmetry of power: rarely do we get to choose whether or not we are monitored, what happens to information about us, and what happens to us because of this information. We have little or no say when monitoring takes place in inappropriate contexts, and is shared inappropriately with inappropriate others. Second, equally important, is an epistemic asymmetry: we are often not fully aware of the monitoring, and do not know what will become of the information produced by that monitoring, nor where it will go and what can be done to it \'97 the time\'96traveling robots problem.\
+\pard\pardeftab720\sa240
+\cf0 Your data is not accumulated in neutral circumstances, whether the collection involves surveillance at the level of infrastructure with which you must participate, or forms which have to be filled out to receive essential resources, or onerous terms of service to which you must consent before you can use an online product that has become vital to doing business. The context is often a major power imbalance, between individual consumers and major corporations, or citizens and governments. Obviously there is nothing inherently wrong with gathering data on individuals \'97 it is lifeblood of the work of the epidemiologist, for example, and the starting point for many of the benefits mentioned above. It is in the combination of data gathering with authority and its interests where the problem begins.\
+It continues once our data has been collected. We don\'92t know whether the company that gathers it will repackage and resell it, whether it will become part of the schedule of assets after a bankruptcy, or whether a private party like ChoicePoint will be collating it with public records and reassembling it in a very different context from our original provision. Data mining and related disciplines are complex and intellectually demanding; they often require resources of expertise, software and hardware that people outside large institutions do not possess. We don\'92t have access to the other databases, nor the techniques and the training in mathematics and computer science, to comprehend what can be done with seemingly trivial details from our lives and activities, and how they can provide more powerful, total and revealing analyses than we could have anticipated [{\field{\*\fldinst{HYPERLINK "http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/3493/2955#14"}}{\fldrslt \cf2 \ul \ulc2 14}}]. The inconsequential and even benign can quickly become the problematic and sinister." -- from 
+\f0 (Brunton & Nissenbaum, 2011)
+\f1 ]\
+
+\f0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 \
+\
+\
+\
+\
+TO DO IN FUTURE:\
+\
+1. Create a range of user profiles (e-commerce user, political user) and test\
+\
+2. Create mechanism to aggregate (anonymized!) data from Tracking Report Card users for big-data analysis\
+\
+\
+-----\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\cf0 Brunton, F., & Nissenbaum, H. (2011). Vernacular resistance to data collection and analysis: A political theory of obfuscation. 
+\i First Monday, 16(5)
+\i0 . Retrieved from http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle /3493/2955\
+\
+Gomez, J., Pinnick, T., & Soltani, A. (2009). http://knowprivacy.org\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 Marx, G. T. (2003). A Tack in the Shoe: Neutralizing and Resisting the New Surveillance. 
+\i Journal of Social Issues, 59 (2)
+\i0 . Retrieved from http://web.mit.edu/gtmarx/www/tack.html\
+\
+Marx, G. T. (2006). Soft Surveillance: The Growth of Mandatory Volunteerism in Collecting Personal Information- \'91Hey Buddy Can You Spare a DNA. In T. Monahan, (ed.) 
+\i Surveillance and Security: Technological Politics and Power in Everyday Life, 1st ed
+\i0 . Retrieved from http://web.mit.edu/gtmarx/www/softsurveillance.html\
+\
+Mayer, J. R., & Mitchell, J. C. Third-Party Web Tracking: Policy and Technology. Retrieved from https://www.stanford.edu/~jmayer/#tab_papers\
+\
+Mayer, J. R. (2011, October) Tracking the trackers: Where everybody knows your username. [Online]. Available: http://cyberlaw.stanford.edu/node/6740\
+\
+\
+Pfaffenberger, B. (Summer 1992). Technological Dramas. 
+\i Science, Technology, & Human Values, 17 (3)
+\i0 . 282-312.\
+}
