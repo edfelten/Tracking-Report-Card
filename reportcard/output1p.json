@@ -1,95 +1,2766 @@
 {
-    "msn.com": {
+    "costco.com": {
         "grade": "C", 
-        "domain": "msn.com", 
-        "score": -2.7876982173700982, 
+        "domain": "costco.com", 
+        "score": -2.6373785853700702, 
         "thirdparties": [
-            "bing.com"
+            "richrelevance.com"
         ]
     }, 
-    "yahoo.com": {
-        "grade": "C", 
-        "domain": "yahoo.com", 
-        "score": -2.7876982173700982, 
+    "verizonwireless.com": {
+        "grade": "Cminus", 
+        "domain": "verizonwireless.com", 
+        "score": -3.3621234567616596, 
         "thirdparties": [
-            ".localhost"
-        ]
-    }, 
-    "huffingtonpost.com": {
-        "grade": "Dplus", 
-        "domain": "huffingtonpost.com", 
-        "score": -3.5124430887616875, 
-        "thirdparties": [
-            "aol.com", 
+            "yieldmanager.com", 
+            "vzw.com", 
             "advertising.com", 
-            "atwola.com", 
-            "adsonar.com", 
-            "voicefive.com", 
+            "bluekai.com", 
+            "adnxs.com", 
+            "fastclick.net"
+        ]
+    }, 
+    "slickdeals.net": {
+        "grade": "B", 
+        "domain": "slickdeals.net", 
+        "score": -1.0034039891545088, 
+        "thirdparties": [
+            "imagelly.com", 
+            "amazon.com", 
+            "teracent.net"
+        ]
+    }, 
+    "adp.com": {
+        "grade": "C", 
+        "domain": "adp.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "adnxs.com", 
+            "2o7.net"
+        ]
+    }, 
+    "quickmeme.com": {
+        "grade": "Bminus", 
+        "domain": "quickmeme.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "adition.com"
+        ]
+    }, 
+    "woot.com": {
+        "grade": "Cminus", 
+        "domain": "woot.com", 
+        "score": -3.3621234567616596, 
+        "thirdparties": [
+            "adnxs.com", 
+            "bluekai.com", 
+            "invitemedia.com", 
+            "pubmatic.com", 
+            "doubleclick.net", 
+            "interclick.com"
+        ]
+    }, 
+    "wikia.com": {
+        "grade": "Cminus", 
+        "domain": "wikia.com", 
+        "score": -3.3621234567616596, 
+        "thirdparties": [
+            "admeld.com", 
+            "adnxs.com", 
+            "bluekai.com", 
+            "media6degrees.com", 
+            "rlcdn.com", 
+            "crwdcntrl.net"
+        ]
+    }, 
+    "autotrader.com": {
+        "grade": "Cminus", 
+        "domain": "autotrader.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "demdex.net", 
+            "autotraderstatic.com", 
+            "nexac.com", 
+            "serving-sys.com"
+        ]
+    }, 
+    "buy.com": {
+        "grade": "C", 
+        "domain": "buy.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "2o7.net", 
+            "buyservices.com"
+        ]
+    }, 
+    "1shoppingcart.com": {
+        "grade": "C", 
+        "domain": "1shoppingcart.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "2o7.net"
+        ]
+    }, 
+    "hsn.com": {
+        "grade": "C", 
+        "domain": "hsn.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "burstnet.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "rottentomatoes.com": {
+        "grade": "Dplus", 
+        "domain": "rottentomatoes.com", 
+        "score": -3.7185174154542602, 
+        "thirdparties": [
+            "doubleclick.net", 
+            "advertising.com", 
+            "collective-media.net", 
+            "nexac.com", 
+            "bluekai.com", 
+            "serving-sys.com", 
+            "interclick.com", 
+            "adnxs.com", 
+            "twitter.com", 
+            "admeld.com"
+        ]
+    }, 
+    "domaintools.com": {
+        "grade": "Bminus", 
+        "domain": "domaintools.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
             "twitter.com"
         ]
     }, 
-    "youtube.com": {
+    "megamillions.com": {
         "grade": "C", 
-        "domain": "youtube.com", 
-        "score": -2.7876982173700982, 
+        "domain": "megamillions.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "casalemedia.com"
+        ]
+    }, 
+    "usbank.com": {
+        "grade": "C", 
+        "domain": "usbank.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "rfihub.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "earthlink.net": {
+        "grade": "C", 
+        "domain": "earthlink.net", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "2o7.net"
+        ]
+    }, 
+    "huffingtonpost.com": {
+        "grade": "Cminus", 
+        "domain": "huffingtonpost.com", 
+        "score": -3.3621234567616596, 
+        "thirdparties": [
+            "aol.com", 
+            "advertising.com", 
+            "adsonar.com", 
+            "twitter.com", 
+            "voicefive.com", 
+            "atwola.com"
+        ]
+    }, 
+    "rivals.com": {
+        "grade": "Cminus", 
+        "domain": "rivals.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "yieldmanager.com", 
+            "bluekai.com", 
+            "interclick.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "jcpenney.com": {
+        "grade": "C", 
+        "domain": "jcpenney.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "richrelevance.com"
+        ]
+    }, 
+    "1channel.ch": {
+        "grade": "Cminus", 
+        "domain": "1channel.ch", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "adnxs.com", 
+            "yieldmanager.com", 
+            "zedo.com", 
+            "twitter.com"
+        ]
+    }, 
+    "dailycaller.com": {
+        "grade": "Cminus", 
+        "domain": "dailycaller.com", 
+        "score": -3.4602542409023651, 
+        "thirdparties": [
+            "adnxs.com", 
+            "admeld.com", 
+            "adsonar.com", 
+            "bluekai.com", 
+            "tribalfusion.com", 
+            "w55c.net", 
+            "serving-sys.com"
+        ]
+    }, 
+    "eonline.com": {
+        "grade": "Bminus", 
+        "domain": "eonline.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "twitter.com"
+        ]
+    }, 
+    "bizrate.com": {
+        "grade": "C", 
+        "domain": "bizrate.com", 
+        "score": -2.6373785853700702, 
         "thirdparties": [
             "doubleclick.net"
         ]
     }, 
-    "ebay.com": {
-        "grade": "C", 
-        "domain": "ebay.com", 
-        "score": -2.7876982173700982, 
+    "politico.com": {
+        "grade": "Dplus", 
+        "domain": "politico.com", 
+        "score": -3.8694293929389469, 
         "thirdparties": [
-            "ebayrtm.com"
+            "pubmatic.com", 
+            "2o7.net", 
+            "bluekai.com", 
+            "collective-media.net", 
+            "adnxs.com", 
+            "media6degrees.com", 
+            "chango.com", 
+            "nexac.com", 
+            "contextweb.com", 
+            "undertone.com", 
+            "zedo.com", 
+            "adtechus.com"
         ]
     }, 
-    "aol.com": {
-        "grade": "C", 
-        "domain": "aol.com", 
-        "score": -2.9948049985566456, 
-        "thirdparties": [
-            "advertising.com", 
-            "atwola.com"
-        ]
-    }, 
-    "paypal.com": {
-        "grade": "C", 
-        "domain": "paypal.com", 
-        "score": -2.7876982173700982, 
-        "thirdparties": [
-            "omtrdc.net"
-        ]
-    }, 
-    "cnn.com": {
+    "reuters.com": {
         "grade": "Bminus", 
-        "domain": "cnn.com", 
-        "score": -1.9948049985566456, 
+        "domain": "reuters.com", 
+        "score": -1.8444853665566177, 
         "thirdparties": [
-            "suitesmart.com", 
-            "zedo.com"
+            "twitter.com", 
+            "bluekai.com"
         ]
     }, 
-    "go.com": {
-        "grade": "Cminus", 
-        "domain": "go.com", 
-        "score": -3.4057322061199931, 
+    "addthis.com": {
+        "grade": "C", 
+        "domain": "addthis.com", 
+        "score": -2.6373785853700702, 
         "thirdparties": [
-            "visiblemeasures.com", 
-            "fwmrm.net", 
-            "doubleclick.net", 
-            "pointroll.com", 
-            "vindicosuite.com"
+            "adnxs.com"
         ]
     }, 
     "netflix.com": {
         "grade": "Cminus", 
         "domain": "netflix.com", 
-        "score": -3.1537236211545365, 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "adnxs.com", 
+            "casalemedia.com", 
+            "advertising.com"
+        ]
+    }, 
+    "capitalone.com": {
+        "grade": "C", 
+        "domain": "capitalone.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "advertising.com"
+        ]
+    }, 
+    "surveymonkey.com": {
+        "grade": "Bminus", 
+        "domain": "surveymonkey.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "triggit.com"
+        ]
+    }, 
+    "cbssports.com": {
+        "grade": "Bminus", 
+        "domain": "cbssports.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "twitter.com"
+        ]
+    }, 
+    "cbs.com": {
+        "grade": "Bminus", 
+        "domain": "cbs.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "bluekai.com"
+        ]
+    }, 
+    "perezhilton.com": {
+        "grade": "Cminus", 
+        "domain": "perezhilton.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "twitter.com", 
+            "adnxs.com", 
+            "addthis.com"
+        ]
+    }, 
+    "expedia.com": {
+        "grade": "Cminus", 
+        "domain": "expedia.com", 
+        "score": -3.3621234567616596, 
+        "thirdparties": [
+            "interclick.com", 
+            "bluekai.com", 
+            "nexac.com", 
+            "twitter.com", 
+            "adnxs.com", 
+            "tidaltv.com"
+        ]
+    }, 
+    "coupons.com": {
+        "grade": "Cminus", 
+        "domain": "coupons.com", 
+        "score": -3.4602542409023651, 
+        "thirdparties": [
+            "adnxs.com", 
+            "exelator.com", 
+            "rfihub.com", 
+            "rubiconproject.com", 
+            "bluekai.com", 
+            "adtechus.com", 
+            "nexac.com"
+        ]
+    }, 
+    "youporn.com": {
+        "grade": "Bminus", 
+        "domain": "youporn.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "twitter.com"
+        ]
+    }, 
+    "wimp.com": {
+        "grade": "C", 
+        "domain": "wimp.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "doubleclick.net"
+        ]
+    }, 
+    "tvguide.com": {
+        "grade": "Dplus", 
+        "domain": "tvguide.com", 
+        "score": -3.6373785853700702, 
+        "thirdparties": [
+            "twitter.com", 
+            "contextweb.com", 
+            "adnxs.com", 
+            "bluekai.com", 
+            "pubmatic.com", 
+            "media6degrees.com", 
+            "pointroll.com", 
+            "undertone.com", 
+            "doubleclick.net"
+        ]
+    }, 
+    "biblegateway.com": {
+        "grade": "C", 
+        "domain": "biblegateway.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "adnxs.com", 
+            "addthis.com"
+        ]
+    }, 
+    "seomoz.org": {
+        "grade": "C", 
+        "domain": "seomoz.org", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adnxs.com"
+        ]
+    }, 
+    "salesforce.com": {
+        "grade": "Cminus", 
+        "domain": "salesforce.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "adnxs.com", 
+            "wtp101.com", 
+            "casalemedia.com"
+        ]
+    }, 
+    "reference.com": {
+        "grade": "Cminus", 
+        "domain": "reference.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "bluekai.com", 
+            "doubleclick.net", 
+            "legolas-media.com"
+        ]
+    }, 
+    "paypal.com": {
+        "grade": "C", 
+        "domain": "paypal.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "omtrdc.net"
+        ]
+    }, 
+    "cnn.com": {
+        "grade": "C", 
+        "domain": "cnn.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "zedo.com"
+        ]
+    }, 
+    "walmart.com": {
+        "grade": "C", 
+        "domain": "walmart.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "richrelevance.com"
+        ]
+    }, 
+    "break.com": {
+        "grade": "Cminus", 
+        "domain": "break.com", 
+        "score": -3.3621234567616596, 
+        "thirdparties": [
+            "lockoutfilm.com", 
+            "rlcdn.com", 
+            "crwdcntrl.net", 
+            "breakmedia.com", 
+            "adnxs.com", 
+            "bluekai.com"
+        ]
+    }, 
+    "gotomeeting.com": {
+        "grade": "C", 
+        "domain": "gotomeeting.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adnxs.com"
+        ]
+    }, 
+    "imgur.com": {
+        "grade": "Dplus", 
+        "domain": "imgur.com", 
+        "score": -3.5515921477431651, 
+        "thirdparties": [
+            "addthis.com", 
+            "media6degrees.com", 
+            "nexac.com", 
+            "casalemedia.com", 
+            "turn.com", 
+            "lijit.com", 
+            "adnxs.com", 
+            "chango.com"
+        ]
+    }, 
+    "merriam-webster.com": {
+        "grade": "Cminus", 
+        "domain": "merriam-webster.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "pointroll.com", 
+            "adnxs.com", 
+            "adtechus.com", 
+            "admeld.com", 
+            "casalemedia.com"
+        ]
+    }, 
+    "pandora.com": {
+        "grade": "C", 
+        "domain": "pandora.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "andomedia.com"
+        ]
+    }, 
+    "engadget.com": {
+        "grade": "Cminus", 
+        "domain": "engadget.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "aol.com", 
+            "advertising.com", 
+            "atwola.com", 
+            "yieldmanager.com", 
+            "adsonar.com"
+        ]
+    }, 
+    "nytimes.com": {
+        "grade": "C", 
+        "domain": "nytimes.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "tubemogul.com"
+        ]
+    }, 
+    "zappos.com": {
+        "grade": "Cminus", 
+        "domain": "zappos.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "media6degrees.com", 
+            "fastclick.net", 
+            "advertising.com"
+        ]
+    }, 
+    "photobucket.com": {
+        "grade": "C", 
+        "domain": "photobucket.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "pubmatic.com", 
+            "crwdcntrl.net"
+        ]
+    }, 
+    "usatoday.com": {
+        "grade": "Cminus", 
+        "domain": "usatoday.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "adsonar.com", 
+            "gcion.com", 
+            "2o7.net"
+        ]
+    }, 
+    "keezmovies.com": {
+        "grade": "C", 
+        "domain": "keezmovies.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "medleyads.com"
+        ]
+    }, 
+    "co.uk": {
+        "grade": "Dplus", 
+        "domain": "co.uk", 
+        "score": -3.8694293929389469, 
+        "thirdparties": [
+            "media6degrees.com", 
+            "bluekai.com", 
+            "admeld.com", 
+            "mathtag.com", 
+            "adnxs.com", 
+            "effectivemeasure.net", 
+            "casalemedia.com", 
+            "nexac.com", 
+            "serving-sys.com", 
+            "bbc.com", 
+            "turn.com", 
+            "contextweb.com"
+        ]
+    }, 
+    "skype.com": {
+        "grade": "C", 
+        "domain": "skype.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "fastclick.net"
+        ]
+    }, 
+    "microsoft.com": {
+        "grade": "Bminus", 
+        "domain": "microsoft.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "criteo.com"
+        ]
+    }, 
+    "icontact.com": {
+        "grade": "Cminus", 
+        "domain": "icontact.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "fastclick.net", 
+            "adnxs.com", 
+            "advertising.com"
+        ]
+    }, 
+    "latimes.com": {
+        "grade": "Cminus", 
+        "domain": "latimes.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "nexac.com", 
+            "trb.com", 
+            "advertising.com", 
+            "atwola.com"
+        ]
+    }, 
+    "hootsuite.com": {
+        "grade": "C", 
+        "domain": "hootsuite.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adnxs.com"
+        ]
+    }, 
+    "nydailynews.com": {
+        "grade": "Dplus", 
+        "domain": "nydailynews.com", 
+        "score": -3.8694293929389469, 
+        "thirdparties": [
+            "twitter.com", 
+            "bluekai.com", 
+            "admeld.com", 
+            "nexac.com", 
+            "w55c.net", 
+            "adnxs.com", 
+            "brand-server.com", 
+            "serving-sys.com", 
+            "turn.com", 
+            "contextweb.com", 
+            "undertone.com", 
+            "collective-media.net"
+        ]
+    }, 
+    "charter.net": {
+        "grade": "Cminus", 
+        "domain": "charter.net", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "w55c.net", 
+            "turn.com", 
+            "2o7.net"
+        ]
+    }, 
+    "legacy.com": {
+        "grade": "C", 
+        "domain": "legacy.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "adblade.com", 
+            "pubmatic.com"
+        ]
+    }, 
+    "ancestry.com": {
+        "grade": "Cminus", 
+        "domain": "ancestry.com", 
+        "score": -3.4602542409023651, 
+        "thirdparties": [
+            "interclick.com", 
+            "ctasnet.com", 
+            "advertising.com", 
+            "burstnet.com", 
+            "raasnet.com", 
+            "owneriq.net", 
+            "adnxs.com"
+        ]
+    }, 
+    "ew.com": {
+        "grade": "Cminus", 
+        "domain": "ew.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "2o7.net", 
+            "twitter.com", 
+            "bluekai.com"
+        ]
+    }, 
+    "nationalgeographic.com": {
+        "grade": "Dplus", 
+        "domain": "nationalgeographic.com", 
+        "score": -3.5515921477431651, 
+        "thirdparties": [
+            "media6degrees.com", 
+            "doubleclick.net", 
+            "adnxs.com", 
+            "crwdcntrl.net", 
+            "rubiconproject.com", 
+            "serving-sys.com", 
+            "fastclick.net", 
+            "interclick.com"
+        ]
+    }, 
+    "guardiannews.com": {
+        "grade": "Dplus", 
+        "domain": "guardiannews.com", 
+        "score": -3.5515921477431651, 
+        "thirdparties": [
+            "rubiconproject.com", 
+            "adnxs.com", 
+            "chango.com", 
+            "undertone.com", 
+            "adjuggler.net", 
+            "bluekai.com", 
+            "co.uk", 
+            "media6degrees.com"
+        ]
+    }, 
+    "modelmayhem.com": {
+        "grade": "C", 
+        "domain": "modelmayhem.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "rubiconproject.com", 
+            "nexac.com"
+        ]
+    }, 
+    "buzzfeed.com": {
+        "grade": "C", 
+        "domain": "buzzfeed.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "twitter.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "nbc.com": {
+        "grade": "Cminus", 
+        "domain": "nbc.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "twitter.com", 
+            "addthis.com", 
+            "bluekai.com", 
+            "adnxs.com", 
+            "nbcuni.com"
+        ]
+    }, 
+    "chicagotribune.com": {
+        "grade": "Cminus", 
+        "domain": "chicagotribune.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "advertising.com", 
+            "pointroll.com", 
+            "trb.com", 
+            "atwola.com"
+        ]
+    }, 
+    "hotwire.com": {
+        "grade": "Cminus", 
+        "domain": "hotwire.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "burstnet.com", 
+            "media6degrees.com", 
+            "advertising.com", 
+            "fastclick.net", 
+            "interclick.com"
+        ]
+    }, 
+    "t-mobile.com": {
+        "grade": "Cminus", 
+        "domain": "t-mobile.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "interclick.com", 
+            "fastclick.net", 
+            "advertising.com"
+        ]
+    }, 
+    "thechive.com": {
+        "grade": "Dplus", 
+        "domain": "thechive.com", 
+        "score": -3.8694293929389469, 
+        "thirdparties": [
+            "bluekai.com", 
+            "tribalfusion.com", 
+            "fastclick.net", 
+            "yieldmanager.com", 
+            "rubiconproject.com", 
+            "chango.com", 
+            "mookie1.com", 
+            "rlcdn.com", 
+            "admeld.com", 
+            "adnxs.com", 
+            "openx.com", 
+            "media6degrees.com"
+        ]
+    }, 
+    "pogo.com": {
+        "grade": "Dplus", 
+        "domain": "pogo.com", 
+        "score": -3.5515921477431651, 
+        "thirdparties": [
+            "addthis.com", 
+            "nexac.com", 
+            "facebook.com", 
+            "adbrite.com", 
+            "collective-media.net", 
+            "bluekai.com", 
+            "rfihub.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "mlb.com": {
+        "grade": "Bminus", 
+        "domain": "mlb.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "twitter.com"
+        ]
+    }, 
+    "hilton.com": {
+        "grade": "Dplus", 
+        "domain": "hilton.com", 
+        "score": -3.5515921477431651, 
+        "thirdparties": [
+            "casalemedia.com", 
+            "advertising.com", 
+            "adnxs.com", 
+            "admaxserver.com", 
+            "criteo.com", 
+            "bluekai.com", 
+            "wtp101.com", 
+            "doubleclick.net"
+        ]
+    }, 
+    "kmart.com": {
+        "grade": "Cminus", 
+        "domain": "kmart.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "demdex.net", 
+            "vmm-satellite1.com", 
+            "pulsemgr.com"
+        ]
+    }, 
+    "sears.com": {
+        "grade": "C", 
+        "domain": "sears.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "pulsemgr.com"
+        ]
+    }, 
+    "citysearch.com": {
+        "grade": "Dplus", 
+        "domain": "citysearch.com", 
+        "score": -3.7185174154542602, 
+        "thirdparties": [
+            "contextweb.com", 
+            "doubleclick.net", 
+            "undertone.com", 
+            "chango.com", 
+            "media6degrees.com", 
+            "admeld.com", 
+            "casalemedia.com", 
+            "turn.com", 
+            "bluekai.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "nick.com": {
+        "grade": "Cminus", 
+        "domain": "nick.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "pointroll.com", 
+            "demdex.net", 
+            "nexac.com", 
+            "serving-sys.com"
+        ]
+    }, 
+    "comcast.net": {
+        "grade": "C", 
+        "domain": "comcast.net", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adnxs.com"
+        ]
+    }, 
+    "urbandictionary.com": {
+        "grade": "Cminus", 
+        "domain": "urbandictionary.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "agkn.com", 
+            "adnxs.com", 
+            "nexac.com"
+        ]
+    }, 
+    "cracked.com": {
+        "grade": "Cminus", 
+        "domain": "cracked.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "bluekai.com", 
+            "demdex.net", 
+            "adnxs.com", 
+            "nexac.com", 
+            "collective-media.net"
+        ]
+    }, 
+    "infusionsoft.com": {
+        "grade": "Cminus", 
+        "domain": "infusionsoft.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "fetchback.com", 
+            "adnxs.com", 
+            "interclick.com"
+        ]
+    }, 
+    "whitepages.com": {
+        "grade": "Cminus", 
+        "domain": "whitepages.com", 
+        "score": -3.4602542409023651, 
+        "thirdparties": [
+            "crwdcntrl.net", 
+            "rlcdn.com", 
+            "nexac.com", 
+            "twitter.com", 
+            "rubiconproject.com", 
+            "media6degrees.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "foxsports.com": {
+        "grade": "C", 
+        "domain": "foxsports.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adnxs.com"
+        ]
+    }, 
+    "bigfishgames.com": {
+        "grade": "C", 
+        "domain": "bigfishgames.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "advertising.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "manta.com": {
+        "grade": "Dplus", 
+        "domain": "manta.com", 
+        "score": -3.8694293929389469, 
+        "thirdparties": [
+            "rubiconproject.com", 
+            "bluekai.com", 
+            "bizographics.com", 
+            "exelator.com", 
+            "advertising.com", 
+            "invitemedia.com", 
+            "wsod.com", 
+            "atwola.com", 
+            "adnxs.com", 
+            "collective-media.net", 
+            "doubleclick.net", 
+            "nexac.com"
+        ]
+    }, 
+    "centurylink.com": {
+        "grade": "Cminus", 
+        "domain": "centurylink.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "advertising.com", 
+            "fastclick.net", 
+            "bluekai.com"
+        ]
+    }, 
+    "drugstore.com": {
+        "grade": "C", 
+        "domain": "drugstore.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "tellapart.com", 
+            "adbrite.com"
+        ]
+    }, 
+    "babycenter.com": {
+        "grade": "Cminus", 
+        "domain": "babycenter.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "tubemogul.com", 
+            "bing.com", 
+            "interclick.com"
+        ]
+    }, 
+    "citibank.com": {
+        "grade": "Bminus", 
+        "domain": "citibank.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "bridgetrack.com"
+        ]
+    }, 
+    "dailymotion.com": {
+        "grade": "Bminus", 
+        "domain": "dailymotion.com", 
+        "score": -1.8444853665566177, 
+        "thirdparties": [
+            "bluekai.com", 
+            "criteo.com"
+        ]
+    }, 
+    "wsj.com": {
+        "grade": "Cminus", 
+        "domain": "wsj.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "doubleclick.net", 
+            "dowjoneson.com", 
+            "bluekai.com"
+        ]
+    }, 
+    "wunderground.com": {
+        "grade": "Cminus", 
+        "domain": "wunderground.com", 
+        "score": -3.3621234567616596, 
+        "thirdparties": [
+            "turn.com", 
+            "admeld.com", 
+            "bluekai.com", 
+            "atwola.com", 
+            "doubleclick.net", 
+            "advertising.com"
+        ]
+    }, 
+    "mtv.com": {
+        "grade": "Cminus", 
+        "domain": "mtv.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "twitter.com", 
+            "demdex.net", 
+            "nexac.com"
+        ]
+    }, 
+    "directv.com": {
+        "grade": "Bminus", 
+        "domain": "directv.com", 
+        "score": -1.8444853665566177, 
+        "thirdparties": [
+            "media6degrees.com", 
+            "connexity.net"
+        ]
+    }, 
+    "fandango.com": {
+        "grade": "C", 
+        "domain": "fandango.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adnxs.com"
+        ]
+    }, 
+    "swagbucks.com": {
+        "grade": "C", 
+        "domain": "swagbucks.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "fastclick.net"
+        ]
+    }, 
+    "realclearpolitics.com": {
+        "grade": "Bminus", 
+        "domain": "realclearpolitics.com", 
+        "score": -1.8444853665566177, 
+        "thirdparties": [
+            "undertone.com", 
+            "bluekai.com"
+        ]
+    }, 
+    "cbslocal.com": {
+        "grade": "Dplus", 
+        "domain": "cbslocal.com", 
+        "score": -3.6373785853700702, 
+        "thirdparties": [
+            "doubleclick.net", 
+            "exelator.com", 
+            "crwdcntrl.net", 
+            "bluekai.com", 
+            "adnxs.com", 
+            "rlcdn.com", 
+            "nexac.com", 
+            "addthis.com", 
+            "media6degrees.com"
+        ]
+    }, 
+    "overstock.com": {
+        "grade": "C", 
+        "domain": "overstock.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "richrelevance.com"
+        ]
+    }, 
+    "compete.com": {
+        "grade": "Cminus", 
+        "domain": "compete.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "2o7.net", 
+            "scorecardresearch.com", 
+            "vimeo.com"
+        ]
+    }, 
+    "time.com": {
+        "grade": "C", 
+        "domain": "time.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "tubemogul.com"
+        ]
+    }, 
+    "allrecipes.com": {
+        "grade": "Cminus", 
+        "domain": "allrecipes.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "advertising.com", 
+            "atwola.com", 
+            "nexac.com", 
+            "tubemogul.com"
+        ]
+    }, 
+    "shutterstock.com": {
+        "grade": "C", 
+        "domain": "shutterstock.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "fetchback.com", 
+            "interclick.com"
+        ]
+    }, 
+    "gamefaqs.com": {
+        "grade": "Cminus", 
+        "domain": "gamefaqs.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "bluekai.com", 
+            "collective-media.net", 
+            "admeld.com"
+        ]
+    }, 
+    "bleacherreport.com": {
+        "grade": "Bminus", 
+        "domain": "bleacherreport.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "serving-sys.com"
+        ]
+    }, 
+    "xnxx.com": {
+        "grade": "C", 
+        "domain": "xnxx.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "addthis.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "kbb.com": {
+        "grade": "C", 
+        "domain": "kbb.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "nexac.com", 
+            "demdex.net"
+        ]
+    }, 
+    "yahoo.com": {
+        "grade": "Cminus", 
+        "domain": "yahoo.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "wsod.com", 
+            "adnxs.com", 
+            ".localhost", 
+            "yieldmanager.com"
+        ]
+    }, 
+    "cnet.com": {
+        "grade": "Cminus", 
+        "domain": "cnet.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "collective-media.net", 
+            "twitter.com", 
+            "bluekai.com"
+        ]
+    }, 
+    "simplyhired.com": {
+        "grade": "C", 
+        "domain": "simplyhired.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adnxs.com"
+        ]
+    }, 
+    "intuit.com": {
+        "grade": "Cminus", 
+        "domain": "intuit.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "adnxs.com", 
+            "tubemogul.com", 
+            "fastclick.net"
+        ]
+    }, 
+    "force.com": {
+        "grade": "Cminus", 
+        "domain": "force.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "twitter.com", 
+            "bluekai.com", 
+            "adnxs.com", 
+            "salesforce.com"
+        ]
+    }, 
+    "people.com": {
+        "grade": "C", 
+        "domain": "people.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "tubemogul.com", 
+            "twitter.com"
+        ]
+    }, 
+    "networksolutions.com": {
+        "grade": "Dplus", 
+        "domain": "networksolutions.com", 
+        "score": -3.6373785853700702, 
+        "thirdparties": [
+            "bluekai.com", 
+            "exelator.com", 
+            "rubiconproject.com", 
+            "adnxs.com", 
+            "advertising.com", 
+            "nexac.com", 
+            "atwola.com", 
+            "2o7.net", 
+            "twitter.com"
+        ]
+    }, 
+    "cars.com": {
+        "grade": "Cminus", 
+        "domain": "cars.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "bluekai.com", 
+            "adnxs.com", 
+            "nexac.com", 
+            "collective-media.net", 
+            "interclick.com"
+        ]
+    }, 
+    "twitpic.com": {
+        "grade": "Dplus", 
+        "domain": "twitpic.com", 
+        "score": -3.7956909805477701, 
+        "thirdparties": [
+            "addthis.com", 
+            "adnxs.com", 
+            "lijit.com", 
+            "turn.com", 
+            "twitter.com", 
+            "casalemedia.com", 
+            "rlcdn.com", 
+            "crwdcntrl.net", 
+            "nexac.com", 
+            "media6degrees.com", 
+            "chango.com"
+        ]
+    }, 
+    "ingdirect.com": {
+        "grade": "Bminus", 
+        "domain": "ingdirect.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "twitter.com"
+        ]
+    }, 
+    "ign.com": {
+        "grade": "Bminus", 
+        "domain": "ign.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "serving-sys.com"
+        ]
+    }, 
+    "gizmodo.com": {
+        "grade": "Bminus", 
+        "domain": "gizmodo.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "eyereturn.com"
+        ]
+    }, 
+    "kat.ph": {
+        "grade": "C", 
+        "domain": "kat.ph", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adnxs.com"
+        ]
+    }, 
+    "priceline.com": {
+        "grade": "Cminus", 
+        "domain": "priceline.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "advertising.com", 
+            "atwola.com", 
+            "nexac.com", 
+            "bluekai.com", 
+            "exelator.com"
+        ]
+    }, 
+    "msn.com": {
+        "grade": "C", 
+        "domain": "msn.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "bing.com"
+        ]
+    }, 
+    "target.com": {
+        "grade": "Cminus", 
+        "domain": "target.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "adnxs.com", 
+            "richrelevance.com", 
+            "fastclick.net"
+        ]
+    }, 
+    "foxnews.com": {
+        "grade": "Dplus", 
+        "domain": "foxnews.com", 
+        "score": -3.6373785853700702, 
+        "thirdparties": [
+            "bluekai.com", 
+            "dimestore.com", 
+            "nexac.com", 
+            "pulse360.com", 
+            "adsonar.com", 
+            "serving-sys.com", 
+            "admeld.com", 
+            "collective-media.net", 
+            "adnxs.com"
+        ]
+    }, 
+    "zimbio.com": {
+        "grade": "C", 
+        "domain": "zimbio.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "doubleclick.net"
+        ]
+    }, 
+    "businessinsider.com": {
+        "grade": "C", 
+        "domain": "businessinsider.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adnxs.com"
+        ]
+    }, 
+    "msnbc.com": {
+        "grade": "Dplus", 
+        "domain": "msnbc.com", 
+        "score": -3.5515921477431651, 
+        "thirdparties": [
+            "rubiconproject.com", 
+            "legolas-media.com", 
+            "chango.com", 
+            "admeld.com", 
+            "bluekai.com", 
+            "media6degrees.com", 
+            "2o7.net", 
+            "w55c.net"
+        ]
+    }, 
+    "ebay.com": {
+        "grade": "C", 
+        "domain": "ebay.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "ebayrtm.com"
+        ]
+    }, 
+    "comcast.com": {
+        "grade": "Cminus", 
+        "domain": "comcast.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "comcast.net", 
+            "rfihub.com", 
+            "demdex.net", 
+            "adnxs.com"
+        ]
+    }, 
+    "drudgereport.com": {
+        "grade": "Dplus", 
+        "domain": "drudgereport.com", 
+        "score": -3.7185174154542602, 
+        "thirdparties": [
+            "adtechus.com", 
+            "adnxs.com", 
+            "demdex.net", 
+            "serving-sys.com", 
+            "tribalfusion.com", 
+            "adsonar.com", 
+            "rubiconproject.com", 
+            "rlcdn.com", 
+            "chango.com", 
+            "media6degrees.com"
+        ]
+    }, 
+    "imageshack.us": {
+        "grade": "Dplus", 
+        "domain": "imageshack.us", 
+        "score": -3.5515921477431651, 
+        "thirdparties": [
+            "lijit.com", 
+            "media6degrees.com", 
+            "casalemedia.com", 
+            "adition.com", 
+            "doubleclick.net", 
+            "adnxs.com", 
+            "turn.com", 
+            "chango.com"
+        ]
+    }, 
+    "merchantcircle.com": {
+        "grade": "C", 
+        "domain": "merchantcircle.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "omtrdc.net"
+        ]
+    }, 
+    "nypost.com": {
+        "grade": "D", 
+        "domain": "nypost.com", 
+        "score": -4.1373785853700706, 
+        "thirdparties": [
+            "doubleclick.net", 
+            "fetchback.com", 
+            "bluekai.com", 
+            "adap.tv", 
+            "auditude.com", 
+            "openx.com", 
+            "openx.net", 
+            "admeld.com", 
+            "media6degrees.com", 
+            "tidaltv.com", 
+            "abmr.net", 
+            "adsonar.com", 
+            "invitemedia.com", 
+            "realmedia.com", 
+            "collective-media.net", 
+            "openxenterprise.com"
+        ]
+    }, 
+    "mediafire.com": {
+        "grade": "Bminus", 
+        "domain": "mediafire.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "twitter.com"
+        ]
+    }, 
+    "hostgator.com": {
+        "grade": "C", 
+        "domain": "hostgator.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adnxs.com"
+        ]
+    }, 
+    "weather.com": {
+        "grade": "Dplus", 
+        "domain": "weather.com", 
+        "score": -3.6373785853700702, 
+        "thirdparties": [
+            "admeld.com", 
+            "undertone.com", 
+            "eyereturn.com", 
+            "demdex.net", 
+            "contextweb.com", 
+            "casalemedia.com", 
+            "adnxs.com", 
+            "media6degrees.com", 
+            "bluekai.com"
+        ]
+    }, 
+    "thedailybeast.com": {
+        "grade": "Cminus", 
+        "domain": "thedailybeast.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "adnxs.com", 
+            "twitter.com", 
+            "2o7.net"
+        ]
+    }, 
+    "forbes.com": {
+        "grade": "Cminus", 
+        "domain": "forbes.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "bluekai.com", 
+            "serving-sys.com", 
+            "exelator.com"
+        ]
+    }, 
+    "tmz.com": {
+        "grade": "Dplus", 
+        "domain": "tmz.com", 
+        "score": -3.5515921477431651, 
+        "thirdparties": [
+            "llnwd.net", 
+            "w55c.net", 
+            "admeld.com", 
+            "chango.com", 
+            "openx.com", 
+            "adsonar.com", 
+            "tremormedia.com", 
+            "bluekai.com"
+        ]
+    }, 
+    "gap.com": {
+        "grade": "C", 
+        "domain": "gap.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "interclick.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "thepiratebay.se": {
+        "grade": "C", 
+        "domain": "thepiratebay.se", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "adnxs.com", 
+            "zedo.com"
+        ]
+    }, 
+    "businessweek.com": {
+        "grade": "Cminus", 
+        "domain": "businessweek.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "mookie1.com", 
+            "pointroll.com", 
+            "interclick.com"
+        ]
+    }, 
+    "samsclub.com": {
+        "grade": "Cminus", 
+        "domain": "samsclub.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "rfihub.com", 
+            "burstnet.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "digg.com": {
+        "grade": "C", 
+        "domain": "digg.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "twitter.com", 
+            "doubleclick.net"
+        ]
+    }, 
+    "wnd.com": {
+        "grade": "Cminus", 
+        "domain": "wnd.com", 
+        "score": -3.3621234567616596, 
+        "thirdparties": [
+            "adshuffle.com", 
+            "openx.com", 
+            "admeld.com", 
+            "twitter.com", 
+            "openx.net", 
+            "doubleclick.net"
+        ]
+    }, 
+    "scout.com": {
+        "grade": "Cminus", 
+        "domain": "scout.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "visiblemeasures.com", 
+            "msn.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "scottrade.com": {
+        "grade": "Cminus", 
+        "domain": "scottrade.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "bluekai.com", 
+            "advertising.com", 
+            "wsod.com"
+        ]
+    }, 
+    "cvs.com": {
+        "grade": "Bminus", 
+        "domain": "cvs.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "imiclk.com"
+        ]
+    }, 
+    "sfgate.com": {
+        "grade": "Dplus", 
+        "domain": "sfgate.com", 
+        "score": -3.6373785853700702, 
+        "thirdparties": [
+            "nexac.com", 
+            "bluekai.com", 
+            "raasnet.com", 
+            "rubiconproject.com", 
+            "atwola.com", 
+            "rlcdn.com", 
+            "adnxs.com", 
+            "advertising.com", 
+            "exelator.com"
+        ]
+    }, 
+    "verizon.com": {
+        "grade": "C", 
+        "domain": "verizon.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "2o7.net"
+        ]
+    }, 
+    "wordpress.org": {
+        "grade": "Bminus", 
+        "domain": "wordpress.org", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "twitter.com"
+        ]
+    }, 
+    "6pm.com": {
+        "grade": "C", 
+        "domain": "6pm.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "advertising.com"
+        ]
+    }, 
+    "washingtonpost.com": {
+        "grade": "C", 
+        "domain": "washingtonpost.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adsonar.com"
+        ]
+    }, 
+    "bankrate.com": {
+        "grade": "C", 
+        "domain": "bankrate.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "nexac.com", 
+            "bluekai.com"
+        ]
+    }, 
+    "examiner.com": {
+        "grade": "Dplus", 
+        "domain": "examiner.com", 
+        "score": -3.6373785853700702, 
+        "thirdparties": [
+            "media6degrees.com", 
+            "adnxs.com", 
+            "bluekai.com", 
+            "undertone.com", 
+            "casalemedia.com", 
+            "turn.com", 
+            "chango.com", 
+            "contextweb.com", 
+            "interclick.com"
+        ]
+    }, 
+    "pcworld.com": {
+        "grade": "Dplus", 
+        "domain": "pcworld.com", 
+        "score": -3.5515921477431651, 
+        "thirdparties": [
+            "exelator.com", 
+            "adnxs.com", 
+            "twitter.com", 
+            "serving-sys.com", 
+            "rubiconproject.com", 
+            "dimestore.com", 
+            "2o7.net", 
+            "nexac.com"
+        ]
+    }, 
+    "wired.com": {
+        "grade": "Cminus", 
+        "domain": "wired.com", 
+        "score": -3.3621234567616596, 
+        "thirdparties": [
+            "twitter.com", 
+            "tubemogul.com", 
+            "bluekai.com", 
+            "serving-sys.com", 
+            "crwdcntrl.net", 
+            "visiblemeasures.com"
+        ]
+    }, 
+    "mashable.com": {
+        "grade": "Cminus", 
+        "domain": "mashable.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "tremormedia.com", 
+            "twitter.com", 
+            "tubemogul.com", 
+            "bluekai.com", 
+            "pointroll.com"
+        ]
+    }, 
+    "1saleaday.com": {
+        "grade": "Bminus", 
+        "domain": "1saleaday.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "fetchback.com"
+        ]
+    }, 
+    "eharmony.com": {
+        "grade": "Cminus", 
+        "domain": "eharmony.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "fastclick.net", 
+            "interclick.com", 
+            "connexity.net"
+        ]
+    }, 
+    "cbsnews.com": {
+        "grade": "Cminus", 
+        "domain": "cbsnews.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "collective-media.net", 
+            "bluekai.com", 
+            "2o7.net", 
+            "twitter.com"
+        ]
+    }, 
+    "fool.com": {
+        "grade": "Cminus", 
+        "domain": "fool.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "atwola.com", 
+            "advertising.com", 
+            "serving-sys.com"
+        ]
+    }, 
+    "stubhub.com": {
+        "grade": "Bminus", 
+        "domain": "stubhub.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "twitter.com"
+        ]
+    }, 
+    "answers.com": {
+        "grade": "Cminus", 
+        "domain": "answers.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "dsply.com", 
+            "addthis.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "vimeo.com": {
+        "grade": "Bminus", 
+        "domain": "vimeo.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "media6degrees.com"
+        ]
+    }, 
+    "bizjournals.com": {
+        "grade": "Bminus", 
+        "domain": "bizjournals.com", 
+        "score": -1.8444853665566177, 
+        "thirdparties": [
+            "twitter.com", 
+            "serving-sys.com"
+        ]
+    }, 
+    "sourceforge.net": {
+        "grade": "C", 
+        "domain": "sourceforge.net", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "doubleclick.net", 
+            "rfihub.com"
+        ]
+    }, 
+    "zulily.com": {
+        "grade": "C", 
+        "domain": "zulily.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "advertising.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "nickjr.com": {
+        "grade": "Cminus", 
+        "domain": "nickjr.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "fwmrm.net", 
+            "nexac.com", 
+            "demdex.net", 
+            "voicefive.com"
+        ]
+    }, 
+    "redbox.com": {
+        "grade": "C", 
+        "domain": "redbox.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "legolas-media.com"
+        ]
+    }, 
+    "boston.com": {
+        "grade": "Dplus", 
+        "domain": "boston.com", 
+        "score": -3.6373785853700702, 
+        "thirdparties": [
+            "crwdcntrl.net", 
+            "admeld.com", 
+            "bluekai.com", 
+            "tribalfusion.com", 
+            "adnxs.com", 
+            "tremormedia.com", 
+            "visiblemeasures.com", 
+            "nexac.com", 
+            "collective-media.net"
+        ]
+    }, 
+    "goodreads.com": {
+        "grade": "Bminus", 
+        "domain": "goodreads.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "fullsail.edu"
+        ]
+    }, 
+    "chase.com": {
+        "grade": "Cminus", 
+        "domain": "chase.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "bluekai.com", 
+            "media6degrees.com", 
+            "interclick.com"
+        ]
+    }, 
+    "chacha.com": {
+        "grade": "Bminus", 
+        "domain": "chacha.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "twitter.com"
+        ]
+    }, 
+    "techcrunch.com": {
+        "grade": "Cminus", 
+        "domain": "techcrunch.com", 
+        "score": -3.3621234567616596, 
+        "thirdparties": [
+            "serving-sys.com", 
+            "aol.com", 
+            "adsonar.com", 
+            "atwola.com", 
+            "twitter.com", 
+            "advertising.com"
+        ]
+    }, 
+    "babylon.com": {
+        "grade": "Cminus", 
+        "domain": "babylon.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "twitter.com", 
+            "adnxs.com", 
+            "advertising.com"
+        ]
+    }, 
+    "shutterfly.com": {
+        "grade": "Cminus", 
+        "domain": "shutterfly.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "fastclick.net", 
+            "advertising.com", 
+            "adnxs.com", 
+            "mediaplex.com"
+        ]
+    }, 
+    "monster.com": {
+        "grade": "Cminus", 
+        "domain": "monster.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "adnxs.com", 
+            "pubmatic.com", 
+            "fastclick.net", 
+            "rubiconproject.com", 
+            "demdex.net"
+        ]
+    }, 
+    "cafepress.com": {
+        "grade": "Bminus", 
+        "domain": "cafepress.com", 
+        "score": -1.8444853665566177, 
+        "thirdparties": [
+            "imiclk.com", 
+            "tellapart.com"
+        ]
+    }, 
+    "howstuffworks.com": {
+        "grade": "Cminus", 
+        "domain": "howstuffworks.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "rlcdn.com", 
+            "twitter.com", 
+            "raasnet.com"
+        ]
+    }, 
+    "eventbrite.com": {
+        "grade": "C", 
+        "domain": "eventbrite.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "2o7.net"
+        ]
+    }, 
+    "webmd.com": {
+        "grade": "Bminus", 
+        "domain": "webmd.com", 
+        "score": -1.8444853665566177, 
+        "thirdparties": [
+            "crwdcntrl.net", 
+            "bluekai.com"
+        ]
+    }, 
+    "urbanspoon.com": {
+        "grade": "Cminus", 
+        "domain": "urbanspoon.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "twitter.com", 
+            "doubleclick.net", 
+            "invitemedia.com"
+        ]
+    }, 
+    "mapquest.com": {
+        "grade": "Cminus", 
+        "domain": "mapquest.com", 
+        "score": -3.3621234567616596, 
+        "thirdparties": [
+            "nexac.com", 
+            "atwola.com", 
+            "adnxs.com", 
+            "advertising.com", 
+            "aol.com", 
+            "twitter.com"
+        ]
+    }, 
+    "aol.com": {
+        "grade": "C", 
+        "domain": "aol.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "atwola.com", 
+            "advertising.com"
+        ]
+    }, 
+    "mgid.com": {
+        "grade": "D", 
+        "domain": "mgid.com", 
+        "score": -4.0738702584737787, 
+        "thirdparties": [
+            "bluekai.com", 
+            "admeld.com", 
+            "casalemedia.com", 
+            "collective-media.net", 
+            "adnxs.com", 
+            "criteo.com", 
+            "serving-sys.com", 
+            "doubleclick.net", 
+            "openx.net", 
+            "turn.com", 
+            "hiro.tv", 
+            "media6degrees.com", 
+            "contextweb.com", 
+            "lijit.com", 
+            "chango.com"
+        ]
+    }, 
+    "mint.com": {
+        "grade": "C", 
+        "domain": "mint.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "intuit.com", 
+            "advertising.com"
+        ]
+    }, 
+    "worldstarhiphop.com": {
+        "grade": "Dplus", 
+        "domain": "worldstarhiphop.com", 
+        "score": -3.7956909805477701, 
+        "thirdparties": [
+            "chango.com", 
+            "bluekai.com", 
+            "youtube.com", 
+            "rubiconproject.com", 
+            "adnxs.com", 
+            "admeld.com", 
+            "burstnet.com", 
+            "turn.com", 
+            "contextweb.com", 
+            "w55c.net", 
+            "fastclick.net"
+        ]
+    }, 
+    "npr.org": {
+        "grade": "Bminus", 
+        "domain": "npr.org", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "serving-sys.com"
+        ]
+    }, 
+    "superpages.com": {
+        "grade": "Cminus", 
+        "domain": "superpages.com", 
+        "score": -3.1373785853700702, 
         "thirdparties": [
             "adnxs.com", 
             "advertising.com", 
-            "casalemedia.com"
+            "interclick.com", 
+            "twitter.com"
+        ]
+    }, 
+    "qvc.com": {
+        "grade": "C", 
+        "domain": "qvc.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "burstnet.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "ksl.com": {
+        "grade": "C", 
+        "domain": "ksl.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "doubleclick.net"
+        ]
+    }, 
+    "redfin.com": {
+        "grade": "Bminus", 
+        "domain": "redfin.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "fetchback.com"
+        ]
+    }, 
+    "staples.com": {
+        "grade": "Cminus", 
+        "domain": "staples.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "fastclick.net", 
+            "adnxs.com", 
+            "interclick.com", 
+            "advertising.com"
+        ]
+    }, 
+    "avg.com": {
+        "grade": "C", 
+        "domain": "avg.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "2o7.net"
+        ]
+    }, 
+    "breitbart.com": {
+        "grade": "C", 
+        "domain": "breitbart.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "doubleclick.net"
+        ]
+    }, 
+    "victoriassecret.com": {
+        "grade": "C", 
+        "domain": "victoriassecret.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "fastclick.net", 
+            "advertising.com"
+        ]
+    }, 
+    "youtube.com": {
+        "grade": "C", 
+        "domain": "youtube.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "doubleclick.net"
+        ]
+    }, 
+    "groupon.com": {
+        "grade": "C", 
+        "domain": "groupon.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "advertising.com"
+        ]
+    }, 
+    "putlocker.com": {
+        "grade": "Bminus", 
+        "domain": "putlocker.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "twitter.com"
+        ]
+    }, 
+    "nhl.com": {
+        "grade": "C", 
+        "domain": "nhl.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "2o7.net"
+        ]
+    }, 
+    "officedepot.com": {
+        "grade": "Cminus", 
+        "domain": "officedepot.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "adnxs.com", 
+            "tumri.net", 
+            "imiclk.com", 
+            "richrelevance.com"
+        ]
+    }, 
+    "united.com": {
+        "grade": "C", 
+        "domain": "united.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "adnxs.com", 
+            "collective-media.net"
+        ]
+    }, 
+    "marketwatch.com": {
+        "grade": "Cminus", 
+        "domain": "marketwatch.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "doubleclick.net", 
+            "twitter.com", 
+            "bluekai.com", 
+            "dowjoneson.com", 
+            "serving-sys.com"
+        ]
+    }, 
+    "nfl.com": {
+        "grade": "Cminus", 
+        "domain": "nfl.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "fetchback.com", 
+            "adsonar.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "deviantart.com": {
+        "grade": "Bminus", 
+        "domain": "deviantart.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "serving-sys.com"
+        ]
+    }, 
+    "mediatakeout.com": {
+        "grade": "Dplus", 
+        "domain": "mediatakeout.com", 
+        "score": -3.940154223102065, 
+        "thirdparties": [
+            "chango.com", 
+            "lijit.com", 
+            "turn.com", 
+            "media6degrees.com", 
+            "bluekai.com", 
+            "admeld.com", 
+            "adnxs.com", 
+            "w55c.net", 
+            "burstnet.com", 
+            "doubleclick.net", 
+            "casalemedia.com", 
+            "rubiconproject.com", 
+            "rlcdn.com"
+        ]
+    }, 
+    "toysrus.com": {
+        "grade": "Bminus", 
+        "domain": "toysrus.com", 
+        "score": -1.8444853665566177, 
+        "thirdparties": [
+            "fetchback.com", 
+            "mybuys.com"
+        ]
+    }, 
+    "slate.com": {
+        "grade": "C", 
+        "domain": "slate.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "doubleclick.net", 
+            "criteo.com"
+        ]
+    }, 
+    "cnbc.com": {
+        "grade": "Cminus", 
+        "domain": "cnbc.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "bluekai.com", 
+            "legolas-media.com", 
+            "nbcuni.com", 
+            "adsonar.com"
+        ]
+    }, 
+    "bloomberg.com": {
+        "grade": "C", 
+        "domain": "bloomberg.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "doubleclick.net"
+        ]
+    }, 
+    "shopathome.com": {
+        "grade": "C", 
+        "domain": "shopathome.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "fastclick.net"
+        ]
+    }, 
+    "retailmenot.com": {
+        "grade": "Bminus", 
+        "domain": "retailmenot.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "twitter.com"
+        ]
+    }, 
+    "theblaze.com": {
+        "grade": "Dplus", 
+        "domain": "theblaze.com", 
+        "score": -3.8694293929389469, 
+        "thirdparties": [
+            "twitter.com", 
+            "nexac.com", 
+            "zedo.com", 
+            "bluekai.com", 
+            "admeld.com", 
+            "pointroll.com", 
+            "adnxs.com", 
+            "yieldmanager.com", 
+            "collective-media.net", 
+            "premiereinteractive.com", 
+            "auditude.com", 
+            "serving-sys.com"
+        ]
+    }, 
+    "vistaprint.com": {
+        "grade": "Cminus", 
+        "domain": "vistaprint.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "adnxs.com", 
+            "advertising.com", 
+            "doubleclick.net", 
+            "twitter.com", 
+            "ctasnet.com"
+        ]
+    }, 
+    "tube8.com": {
+        "grade": "C", 
+        "domain": "tube8.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "medleyads.com", 
+            "twitter.com"
+        ]
+    }, 
+    "delta.com": {
+        "grade": "Cplus", 
+        "domain": "delta.com", 
+        "score": -2.0034039891545086, 
+        "thirdparties": [
+            "ru4.com", 
+            "edgesuite.net", 
+            "adnxs.com"
+        ]
+    }, 
+    "seekingalpha.com": {
+        "grade": "Cminus", 
+        "domain": "seekingalpha.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "serving-sys.com", 
+            "twitter.com", 
+            "collective-media.net"
+        ]
+    }, 
+    "bedbathandbeyond.com": {
+        "grade": "Bminus", 
+        "domain": "bedbathandbeyond.com", 
+        "score": -1.8444853665566177, 
+        "thirdparties": [
+            "tellapart.com", 
+            "media6degrees.com"
+        ]
+    }, 
+    "shoplocal.com": {
+        "grade": "C", 
+        "domain": "shoplocal.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "exelator.com", 
+            "webtrendslive.com"
+        ]
+    }, 
+    "scribd.com": {
+        "grade": "Cminus", 
+        "domain": "scribd.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "bluekai.com", 
+            "crwdcntrl.net", 
+            "rlcdn.com", 
+            "adnxs.com", 
+            "nexac.com"
+        ]
+    }, 
+    "zap2it.com": {
+        "grade": "Cminus", 
+        "domain": "zap2it.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "trb.com", 
+            "nexac.com", 
+            "adnxs.com", 
+            "bluekai.com"
+        ]
+    }, 
+    "pornhub.com": {
+        "grade": "C", 
+        "domain": "pornhub.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "medleyads.com", 
+            "twitter.com"
+        ]
+    }, 
+    "newsmax.com": {
+        "grade": "Cplus", 
+        "domain": "newsmax.com", 
+        "score": -2.1373785853700702, 
+        "thirdparties": [
+            "twitter.com", 
+            "unicornmedia.com", 
+            "tremormedia.com", 
+            "unicornapp.com"
+        ]
+    }, 
+    "demonoid.me": {
+        "grade": "C", 
+        "domain": "demonoid.me", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adnxs.com"
+        ]
+    }, 
+    "topix.com": {
+        "grade": "Dplus", 
+        "domain": "topix.com", 
+        "score": -3.7185174154542602, 
+        "thirdparties": [
+            "serving-sys.com", 
+            "adnxs.com", 
+            "addthis.com", 
+            "rlcdn.com", 
+            "advertising.com", 
+            "agkn.com", 
+            "eyereturn.com", 
+            "casalemedia.com", 
+            "admeld.com", 
+            "nexac.com"
+        ]
+    }, 
+    "hubspot.com": {
+        "grade": "Cminus", 
+        "domain": "hubspot.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "adnxs.com", 
+            "adbrite.com", 
+            "conversionruler.com"
+        ]
+    }, 
+    "ehow.com": {
+        "grade": "Cminus", 
+        "domain": "ehow.com", 
+        "score": -3.4602542409023651, 
+        "thirdparties": [
+            "bluekai.com", 
+            "adnxs.com", 
+            "casalemedia.com", 
+            "chango.com", 
+            "twitter.com", 
+            "nexac.com", 
+            "demdex.net"
+        ]
+    }, 
+    "homedepot.com": {
+        "grade": "C", 
+        "domain": "homedepot.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "interclick.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "livejournal.com": {
+        "grade": "Cplus", 
+        "domain": "livejournal.com", 
+        "score": -2.0034039891545086, 
+        "thirdparties": [
+            "twitter.com", 
+            "media6degrees.com", 
+            "serving-sys.com"
+        ]
+    }, 
+    "fiverr.com": {
+        "grade": "C", 
+        "domain": "fiverr.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "advertising.com"
+        ]
+    }, 
+    "usmagazine.com": {
+        "grade": "C", 
+        "domain": "usmagazine.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "twitter.com", 
+            "adsonar.com"
+        ]
+    }, 
+    "egotastic.com": {
+        "grade": "Cminus", 
+        "domain": "egotastic.com", 
+        "score": -3.2554125741199651, 
+        "thirdparties": [
+            "bluekai.com", 
+            "addthis.com", 
+            "media6degrees.com", 
+            "twitter.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "careerbuilder.com": {
+        "grade": "Cminus", 
+        "domain": "careerbuilder.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "mookie1.com", 
+            "adnxs.com", 
+            "bluekai.com", 
+            "adtechus.com"
+        ]
+    }, 
+    "go.com": {
+        "grade": "Dplus", 
+        "domain": "go.com", 
+        "score": -3.6373785853700702, 
+        "thirdparties": [
+            "sodahead.com", 
+            "serving-sys.com", 
+            "rubiconproject.com", 
+            "bluekai.com", 
+            "advertising.com", 
+            "adnxs.com", 
+            "rlcdn.com", 
+            "pointroll.com", 
+            "vindicosuite.com"
+        ]
+    }, 
+    "accuweather.com": {
+        "grade": "Dplus", 
+        "domain": "accuweather.com", 
+        "score": -3.6373785853700702, 
+        "thirdparties": [
+            "mookie1.com", 
+            "adnxs.com", 
+            "doubleclick.net", 
+            "twitter.com", 
+            "admeld.com", 
+            "contextweb.com", 
+            "bluekai.com", 
+            "undertone.com", 
+            "media6degrees.com"
+        ]
+    }, 
+    "match.com": {
+        "grade": "Cminus", 
+        "domain": "match.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "bluekai.com", 
+            "adnxs.com", 
+            "advertising.com"
+        ]
+    }, 
+    "thepostgame.com": {
+        "grade": "Dplus", 
+        "domain": "thepostgame.com", 
+        "score": -3.8694293929389469, 
+        "thirdparties": [
+            "adition.com", 
+            "media6degrees.com", 
+            "turn.com", 
+            "nexac.com", 
+            "collective-media.net", 
+            "chango.com", 
+            "adnxs.com", 
+            "bluekai.com", 
+            "serving-sys.com", 
+            "twitter.com", 
+            "casalemedia.com", 
+            "lijit.com"
+        ]
+    }, 
+    "hp.com": {
+        "grade": "Bminus", 
+        "domain": "hp.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "bluekai.com"
+        ]
+    }, 
+    "rightnow.com": {
+        "grade": "C", 
+        "domain": "rightnow.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "adnxs.com", 
+            "addthis.com"
+        ]
+    }, 
+    "bestbuy.com": {
+        "grade": "Bminus", 
+        "domain": "bestbuy.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "bluekai.com"
+        ]
+    }, 
+    "patch.com": {
+        "grade": "Cminus", 
+        "domain": "patch.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "advertising.com", 
+            "aol.com", 
+            "atwola.com"
+        ]
+    }, 
+    "macys.com": {
+        "grade": "C", 
+        "domain": "macys.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "owneriq.net"
+        ]
+    }, 
+    "livestrong.com": {
+        "grade": "C", 
+        "domain": "livestrong.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "demdex.net", 
+            "nexac.com"
+        ]
+    }, 
+    "imdb.com": {
+        "grade": "C", 
+        "domain": "imdb.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "twitter.com", 
+            "doubleclick.net"
+        ]
+    }, 
+    "cafemom.com": {
+        "grade": "Cminus", 
+        "domain": "cafemom.com", 
+        "score": -3.0034039891545086, 
+        "thirdparties": [
+            "bluekai.com", 
+            "2o7.net", 
+            "advertising.com"
+        ]
+    }, 
+    "discover.com": {
+        "grade": "C", 
+        "domain": "discover.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "adnxs.com"
+        ]
+    }, 
+    "empowernetwork.com": {
+        "grade": "Bminus", 
+        "domain": "empowernetwork.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "twitter.com"
+        ]
+    }, 
+    "yellowpages.com": {
+        "grade": "C", 
+        "domain": "yellowpages.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "fastclick.net"
+        ]
+    }, 
+    "hardsextube.com": {
+        "grade": "C", 
+        "domain": "hardsextube.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "medleyads.com"
+        ]
+    }, 
+    "evite.com": {
+        "grade": "C", 
+        "domain": "evite.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "2o7.net"
+        ]
+    }, 
+    "okcupid.com": {
+        "grade": "Bminus", 
+        "domain": "okcupid.com", 
+        "score": -1.6373785853700702, 
+        "thirdparties": [
+            "criteo.com"
+        ]
+    }, 
+    "timeanddate.com": {
+        "grade": "Cplus", 
+        "domain": "timeanddate.com", 
+        "score": -2.0034039891545086, 
+        "thirdparties": [
+            "serving-sys.com", 
+            "bluekai.com", 
+            "tribalfusion.com"
+        ]
+    }, 
+    "1and1.com": {
+        "grade": "C", 
+        "domain": "1and1.com", 
+        "score": -2.8444853665566177, 
+        "thirdparties": [
+            "adition.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "constantcontact.com": {
+        "grade": "Cminus", 
+        "domain": "constantcontact.com", 
+        "score": -3.3621234567616596, 
+        "thirdparties": [
+            "fastclick.net", 
+            "addthis.com", 
+            "mediaplex.com", 
+            "twitter.com", 
+            "wtp101.com", 
+            "adnxs.com"
+        ]
+    }, 
+    "csmonitor.com": {
+        "grade": "Cminus", 
+        "domain": "csmonitor.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "bluekai.com", 
+            "media6degrees.com", 
+            "adnxs.com", 
+            "addthis.com"
+        ]
+    }, 
+    "rr.com": {
+        "grade": "Cminus", 
+        "domain": "rr.com", 
+        "score": -3.1373785853700702, 
+        "thirdparties": [
+            "adsonar.com", 
+            "atwola.com", 
+            "adnxs.com", 
+            "advertising.com"
+        ]
+    }, 
+    "hulu.com": {
+        "grade": "C", 
+        "domain": "hulu.com", 
+        "score": -2.6373785853700702, 
+        "thirdparties": [
+            "atdmt.com"
         ]
     }
 }
