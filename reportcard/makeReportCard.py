@@ -97,3 +97,13 @@ for dom in domains1p3p.keys():
 out1pFp = open('output1p.json', 'w')
 json.dump(out1p, out1pFp)
 
+# make grading policy file
+
+gradingPolicyObj = {
+  'correction': correction,
+  'grading': gradingPolicy.makeGradingObj()
+}
+
+outGradingFp = open('gradingPolicy.json', 'w')
+json.dump(gradingPolicyObj, outGradingFp)
+
