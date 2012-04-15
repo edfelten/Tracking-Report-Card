@@ -20,6 +20,11 @@
     display: block;
     align: center;
     background-color: #a7a7a7;
+    padding: 5px 0px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url('../images/gradient-bg.png');
+    background-repeat: repeat-x;
 }
 
 .trcSubPanel {
@@ -36,9 +41,10 @@
     display: inline;
     color: blue;
     position:relative;
-    left: 5px;
+    left: 0px;
     overflow: hidden;
     float: left;
+    /*background-color: #faebd7;*/
     background-color: #d6d6d6;
     height: 100%;
 }
@@ -61,30 +67,76 @@
 #gradeImg {
     padding-left: 20%;
     padding-right: 10%;
-    height: 100px;
-    width: 78px
+    /*height: 100px;
+    width: 78px*/
     position: relative;
     top: 10px;
     left: 10px;
     float: left;
-    margin-top:20px;
+    margin-top:8px;
     vertical-align:middle;
 }
 
 #cookieMsg {
     display: block;
     clear: left;
-    margin-left: 60px;
+    margin-left: 65px;
     padding-top: 30px;
 }
 
 #domainName {
-    margin-top:64px;
+    margin-top:47px;
     margin-right:20px;
     padding-right: 15px;
+}
+
+#domainName2 {
+    padding: 6px;
 }
 
 #cookieList {
     float: left;
     padding-left: 15px;
+    margin-top: 10px;
 }
+
+#cookieList > li {
+    padding: 3px 0;
+}
+
+.gradient {
+    /* Legacy browsers */
+    background: url("gradient-bg.png") repeat-x bottom;
+    -o-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+    /* Recent browsers */
+    background: -webkit-gradient(
+        linear,
+        left top, left bottom,
+        from(#ffffff),
+        to(#a6a6a6)
+    );
+    background: -webkit-linear-gradient(
+        top,
+        #ffffff,
+        #a6a6a6
+    );
+    background: -moz-linear-gradient(
+        top,
+        #ffffff,
+        #a6a6a6
+    );
+    background: -o-linear-gradient(
+        top,
+        #ffffff,
+        #a6a6a6
+    );
+    background: linear-gradient(
+        top,
+        #ffffff,
+        #a6a6a6
+    );
+}
+
