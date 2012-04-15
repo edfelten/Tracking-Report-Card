@@ -1,5 +1,5 @@
 {
-    "wikipedia.org": {
+    "msads.net/msads.net": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -13,7 +13,59 @@
             "cookies": []
         }
     }, 
-    "scorecardresearch.com": {
+    "cnn.com/cnn.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 5, 
+            "cookies": [
+                "ssinv", 
+                "FFgeo", 
+                "FFgeo", 
+                "ZEDOIDA", 
+                "ZEDOIDA"
+            ]
+        }
+    }, 
+    "UNKNOWN-()/facebook.com": {
+        "dnt": {
+            "count": 5, 
+            "cookies": [
+                "datr", 
+                "lsd", 
+                "reg_ext_ref", 
+                "reg_fb_gate", 
+                "reg_fb_ref"
+            ]
+        }, 
+        "beeftaco": {
+            "count": 5, 
+            "cookies": [
+                "datr", 
+                "lsd", 
+                "reg_ext_ref", 
+                "reg_fb_gate", 
+                "reg_fb_ref"
+            ]
+        }, 
+        "defaults": {
+            "count": 5, 
+            "cookies": [
+                "datr", 
+                "lsd", 
+                "reg_ext_ref", 
+                "reg_fb_gate", 
+                "reg_fb_ref"
+            ]
+        }
+    }, 
+    "questionmarket.com/questionmarket.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -27,7 +79,7 @@
             "cookies": []
         }
     }, 
-    "cloudfront.net": {
+    "ebayimg.com/ebayimg.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -41,7 +93,7 @@
             "cookies": []
         }
     }, 
-    "adsonar.com": {
+    "ebayrtm.com/ebayrtm.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -55,7 +107,7 @@
             "cookies": []
         }
     }, 
-    "questionmarket.com": {
+    "live.com/live.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -65,87 +117,8 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 0, 
+            "count": 1, 
             "cookies": []
-        }
-    }, 
-    "atdmt.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "disney.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "ebay-stories.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "gravatar.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "go.com/visiblemeasures.com": {
-        "dnt": {
-            "count": 2, 
-            "cookies": [
-                "uid", 
-                "sid"
-            ]
-        }, 
-        "beeftaco": {
-            "count": 2, 
-            "cookies": [
-                "uid", 
-                "sid"
-            ]
-        }, 
-        "defaults": {
-            "count": 2, 
-            "cookies": [
-                "uid", 
-                "sid"
-            ]
         }
     }, 
     "UNKNOWN-()/linkedin.com": {
@@ -189,13 +162,27 @@
             ]
         }
     }, 
-    "2o7.net": {
+    "edgecastcdn.net/edgecastcdn.net": {
         "dnt": {
             "count": 0, 
             "cookies": []
         }, 
         "beeftaco": {
             "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "pointroll.com/pointroll.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 1, 
             "cookies": []
         }, 
         "defaults": {
@@ -223,64 +210,7 @@
             ]
         }
     }, 
-    "huffingtonpost.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 19, 
-            "cookies": [
-                "s_vi", 
-                "s_vi", 
-                "ASLID", 
-                "ASLID", 
-                "pid", 
-                "pid", 
-                "CfP", 
-                "CfP", 
-                "ATTACID", 
-                "ATTACID", 
-                "ANRTT", 
-                "ANRTT", 
-                "TData", 
-                "TData", 
-                "ATTAC", 
-                "ATTAC", 
-                "bkids", 
-                "bkids", 
-                "C2", 
-                "C2", 
-                "DBC", 
-                "DBC", 
-                "BMX_G", 
-                "BMX_G"
-            ]
-        }
-    }, 
-    "go.com/doubleclick.net": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 3, 
-            "cookies": [
-                "test_cookie", 
-                "id", 
-                "test_cookie"
-            ]
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "5min.com": {
+    "wp.com/wp.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -294,7 +224,7 @@
             "cookies": []
         }
     }, 
-    "t.co": {
+    "edgesuite.net/edgesuite.net": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -308,7 +238,7 @@
             "cookies": []
         }
     }, 
-    "atwola.com": {
+    "pinterest.com/pinterest.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -320,39 +250,6 @@
         "defaults": {
             "count": 1, 
             "cookies": []
-        }
-    }, 
-    "netflix.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 17, 
-            "cookies": [
-                "CMPS", 
-                "CMPS", 
-                "CMPP", 
-                "CMPP", 
-                "GUID", 
-                "GUID", 
-                "DBC", 
-                "DBC", 
-                "CMPS", 
-                "CMPS", 
-                "CMPP", 
-                "CMPP", 
-                "CMDD", 
-                "CMDD", 
-                "sess", 
-                "sess", 
-                "sess", 
-                "sess"
-            ]
         }
     }, 
     "UNKNOWN-()/netflix.com": {
@@ -447,83 +344,7 @@
             ]
         }
     }, 
-    "dl-rms.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "paypal-search.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "UNKNOWN-()/facebook.com": {
-        "dnt": {
-            "count": 5, 
-            "cookies": [
-                "datr", 
-                "lsd", 
-                "reg_ext_ref", 
-                "reg_fb_gate", 
-                "reg_fb_ref"
-            ]
-        }, 
-        "beeftaco": {
-            "count": 5, 
-            "cookies": [
-                "datr", 
-                "lsd", 
-                "reg_ext_ref", 
-                "reg_fb_gate", 
-                "reg_fb_ref"
-            ]
-        }, 
-        "defaults": {
-            "count": 5, 
-            "cookies": [
-                "datr", 
-                "lsd", 
-                "reg_ext_ref", 
-                "reg_fb_gate", 
-                "reg_fb_ref"
-            ]
-        }
-    }, 
-    "go.com/pointroll.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 1, 
-            "cookies": [
-                "PRgo"
-            ]
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "craigslist.org": {
+    "casalemedia.com/casalemedia.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -537,7 +358,35 @@
             "cookies": []
         }
     }, 
-    "llnwd.net": {
+    "ytimg.com/ytimg.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "fwmrm.net/fwmrm.net": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 1, 
+            "cookies": []
+        }
+    }, 
+    "aolcdn.com/aolcdn.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -571,7 +420,7 @@
             ]
         }
     }, 
-    "abmr.net": {
+    "ooyala.com/ooyala.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -582,6 +431,20 @@
         }, 
         "defaults": {
             "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "linkedin.com/linkedin.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 1, 
             "cookies": []
         }
     }, 
@@ -640,7 +503,7 @@
             ]
         }
     }, 
-    "cnn.com": {
+    "voicefive.com/voicefive.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -650,56 +513,35 @@
             "cookies": []
         }, 
         "defaults": {
+            "count": 1, 
+            "cookies": []
+        }
+    }, 
+    "yahoo.com/.localhost": {
+        "dnt": {
             "count": 5, 
             "cookies": [
-                "ssinv", 
-                "FFgeo", 
-                "FFgeo", 
-                "ZEDOIDA", 
-                "ZEDOIDA"
+                "B", 
+                "B", 
+                "B", 
+                "B", 
+                "B"
             ]
-        }
-    }, 
-    "ooyala.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
         }, 
         "beeftaco": {
-            "count": 0, 
-            "cookies": []
+            "count": 3, 
+            "cookies": [
+                "B", 
+                "B", 
+                "B"
+            ]
         }, 
         "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "facebook.net": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "blogspot.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
+            "count": 2, 
+            "cookies": [
+                "B", 
+                "B"
+            ]
         }
     }, 
     "cnn.com/suitesmart.com": {
@@ -716,6 +558,20 @@
             "cookies": [
                 "ssinv"
             ]
+        }
+    }, 
+    "dolimg.com/dolimg.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
         }
     }, 
     "huffingtonpost.com/voicefive.com": {
@@ -736,6 +592,20 @@
             "cookies": [
                 "BMX_G"
             ]
+        }
+    }, 
+    "5min.com/5min.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
         }
     }, 
     "Unknown(blank)/aol.com": {
@@ -791,6 +661,20 @@
             ]
         }
     }, 
+    "gravatar.com/gravatar.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
     "Unknown(blank)/huffingtonpost.com": {
         "dnt": {
             "count": 3, 
@@ -817,7 +701,7 @@
             ]
         }
     }, 
-    "co.uk": {
+    "t.co/t.co": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -831,25 +715,49 @@
             "cookies": []
         }
     }, 
-    "huffingtonpost.com/twitter.com": {
+    "jump-time.net/jump-time.net": {
         "dnt": {
             "count": 0, 
             "cookies": []
         }, 
         "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "turner.com/turner.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "adsonar.com/adsonar.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
             "count": 1, 
-            "cookies": [
-                "pid"
-            ]
-        }, 
-        "defaults": {
-            "count": 1, 
-            "cookies": [
-                "pid"
-            ]
+            "cookies": []
         }
     }, 
-    "gstatic.com": {
+    "paypalobjects.com/paypalobjects.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -863,47 +771,7 @@
             "cookies": []
         }
     }, 
-    "go.com/fwmrm.net": {
-        "dnt": {
-            "count": 8, 
-            "cookies": [
-                "NSC_ozdbewjq3.gxnsn.ofu", 
-                "_ha", 
-                "_sid", 
-                "_uid", 
-                "_vr", 
-                "_cph", 
-                "_sc", 
-                "_wr"
-            ]
-        }, 
-        "beeftaco": {
-            "count": 7, 
-            "cookies": [
-                "NSC_ozdbewjq3.gxnsn.ofu", 
-                "_ha", 
-                "_sid", 
-                "_uid", 
-                "_vr", 
-                "_sc", 
-                "_wr"
-            ]
-        }, 
-        "defaults": {
-            "count": 8, 
-            "cookies": [
-                "NSC_ozdbewjq3.gxnsn.ofu", 
-                "_ha", 
-                "_sid", 
-                "_uid", 
-                "_vr", 
-                "_cph", 
-                "_sc", 
-                "_wr"
-            ]
-        }
-    }, 
-    "casalemedia.com": {
+    "tumblr.com/tumblr.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -937,7 +805,37 @@
             ]
         }
     }, 
-    "yieldmanager.com": {
+    "2o7.net/2o7.net": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "go.com/pointroll.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 1, 
+            "cookies": [
+                "PRgo"
+            ]
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "fbcdn.net/fbcdn.net": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -974,7 +872,21 @@
             ]
         }
     }, 
-    "kissmetrics.com": {
+    "omtrdc.net/omtrdc.net": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 1, 
+            "cookies": []
+        }
+    }, 
+    "disney.com/disney.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1014,49 +926,7 @@
             ]
         }
     }, 
-    "zoomflow.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "pointroll.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 1, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "webtrendslive.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "doubleclick.net": {
+    "craigslist.org/craigslist.org": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1068,6 +938,207 @@
         "defaults": {
             "count": 1, 
             "cookies": []
+        }
+    }, 
+    "go.com/visiblemeasures.com": {
+        "dnt": {
+            "count": 2, 
+            "cookies": [
+                "uid", 
+                "sid"
+            ]
+        }, 
+        "beeftaco": {
+            "count": 2, 
+            "cookies": [
+                "uid", 
+                "sid"
+            ]
+        }, 
+        "defaults": {
+            "count": 2, 
+            "cookies": [
+                "uid", 
+                "sid"
+            ]
+        }
+    }, 
+    "yahoo.com/yahoo.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 4, 
+            "cookies": [
+                "B", 
+                "B", 
+                "B", 
+                "B"
+            ]
+        }
+    }, 
+    "imrworldwide.com/imrworldwide.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "huffingtonpost.com/twitter.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 1, 
+            "cookies": [
+                "pid"
+            ]
+        }, 
+        "defaults": {
+            "count": 1, 
+            "cookies": [
+                "pid"
+            ]
+        }
+    }, 
+    "msn.com/msn.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 5, 
+            "cookies": [
+                "_FS", 
+                "_FS", 
+                "_FS", 
+                "_FS"
+            ]
+        }
+    }, 
+    "akamai.net/akamai.net": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "licdn.com/licdn.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "webtrendslive.com/webtrendslive.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "visiblemeasures.com/visiblemeasures.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 1, 
+            "cookies": []
+        }
+    }, 
+    "netflix.com/casalemedia.com": {
+        "dnt": {
+            "count": 5, 
+            "cookies": [
+                "CMPS", 
+                "CMPP", 
+                "CMPS", 
+                "CMPP", 
+                "CMDD"
+            ]
+        }, 
+        "beeftaco": {
+            "count": 5, 
+            "cookies": [
+                "CMPS", 
+                "CMPP", 
+                "CMPS", 
+                "CMPP", 
+                "CMDD"
+            ]
+        }, 
+        "defaults": {
+            "count": 5, 
+            "cookies": [
+                "CMPS", 
+                "CMPP", 
+                "CMPS", 
+                "CMPP", 
+                "CMDD"
+            ]
+        }
+    }, 
+    "cnn.com/zedo.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 2, 
+            "cookies": [
+                "FFgeo", 
+                "ZEDOIDA"
+            ]
+        }, 
+        "defaults": {
+            "count": 2, 
+            "cookies": [
+                "FFgeo", 
+                "ZEDOIDA"
+            ]
         }
     }, 
     "UNKNOWN-()/twitter.com": {
@@ -1096,7 +1167,7 @@
             ]
         }
     }, 
-    "starwave.com": {
+    "twimg.com/twimg.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1110,7 +1181,7 @@
             "cookies": []
         }
     }, 
-    "edgesuite.net": {
+    "atwola.com/atwola.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1120,7 +1191,7 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 0, 
+            "count": 1, 
             "cookies": []
         }
     }, 
@@ -1159,21 +1230,7 @@
             ]
         }
     }, 
-    "yimg.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "voicefive.com": {
+    "facebook.com/facebook.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1210,7 +1267,63 @@
             ]
         }
     }, 
-    "mozilla.org": {
+    "vindicosuite.com/vindicosuite.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 1, 
+            "cookies": []
+        }
+    }, 
+    "gstatic.com/gstatic.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "scorecardresearch.com/scorecardresearch.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "yieldmanager.com/yieldmanager.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "paypal-search.com/paypal-search.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1256,27 +1369,47 @@
             ]
         }
     }, 
-    "cnn.com/zedo.com": {
+    "go.com/fwmrm.net": {
         "dnt": {
-            "count": 0, 
-            "cookies": []
+            "count": 8, 
+            "cookies": [
+                "NSC_ozdbewjq3.gxnsn.ofu", 
+                "_ha", 
+                "_sid", 
+                "_uid", 
+                "_vr", 
+                "_cph", 
+                "_sc", 
+                "_wr"
+            ]
         }, 
         "beeftaco": {
-            "count": 2, 
+            "count": 7, 
             "cookies": [
-                "FFgeo", 
-                "ZEDOIDA"
+                "NSC_ozdbewjq3.gxnsn.ofu", 
+                "_ha", 
+                "_sid", 
+                "_uid", 
+                "_vr", 
+                "_sc", 
+                "_wr"
             ]
         }, 
         "defaults": {
-            "count": 2, 
+            "count": 8, 
             "cookies": [
-                "FFgeo", 
-                "ZEDOIDA"
+                "NSC_ozdbewjq3.gxnsn.ofu", 
+                "_ha", 
+                "_sid", 
+                "_uid", 
+                "_vr", 
+                "_cph", 
+                "_sc", 
+                "_wr"
             ]
         }
     }, 
-    "amazon.com": {
+    "quantserve.com/quantserve.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1286,11 +1419,11 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 1, 
+            "count": 0, 
             "cookies": []
         }
     }, 
-    "yahoo.com": {
+    "blogspot.com/blogspot.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1300,13 +1433,8 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 4, 
-            "cookies": [
-                "B", 
-                "B", 
-                "B", 
-                "B"
-            ]
+            "count": 0, 
+            "cookies": []
         }
     }, 
     "UNKNOWN-()/cnn.com": {
@@ -1332,7 +1460,7 @@
             ]
         }
     }, 
-    "wordpress.com": {
+    "blogcdn.com/blogcdn.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1346,7 +1474,7 @@
             "cookies": []
         }
     }, 
-    "pinterest.com": {
+    "revsci.net/revsci.net": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1356,11 +1484,11 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 1, 
+            "count": 0, 
             "cookies": []
         }
     }, 
-    "tumblr.com": {
+    "amazon.com/amazon.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1409,20 +1537,6 @@
             ]
         }
     }, 
-    "akamai.net": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
     "UNKNOWN-()/go.com": {
         "dnt": {
             "count": 3, 
@@ -1449,7 +1563,7 @@
             ]
         }
     }, 
-    "wikimedia.org": {
+    "paypal.com/paypal.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1459,26 +1573,10 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "msn.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 5, 
+            "count": 2, 
             "cookies": [
-                "_FS", 
-                "_FS", 
-                "_FS", 
-                "_FS"
+                "s_vi", 
+                "s_vi"
             ]
         }
     }, 
@@ -1555,67 +1653,6 @@
             ]
         }
     }, 
-    "espncdn.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "ebay.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 4, 
-            "cookies": [
-                "PS", 
-                "PS", 
-                "HT", 
-                "HT"
-            ]
-        }
-    }, 
-    "live.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 1, 
-            "cookies": []
-        }
-    }, 
-    "2mdn.net": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
     "aol.com/atwola.com": {
         "dnt": {
             "count": 1, 
@@ -1633,6 +1670,31 @@
             "count": 1, 
             "cookies": [
                 "CfP"
+            ]
+        }
+    }, 
+    "aol.com/aol.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 11, 
+            "cookies": [
+                "GUID", 
+                "GUID", 
+                "DBC", 
+                "DBC", 
+                "CfP", 
+                "CfP", 
+                "GUID", 
+                "GUID", 
+                "DBC", 
+                "DBC"
             ]
         }
     }, 
@@ -1659,21 +1721,7 @@
             ]
         }
     }, 
-    "omtrdc.net": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 1, 
-            "cookies": []
-        }
-    }, 
-    "images-amazon.com": {
+    "google-analytics.com/google-analytics.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1687,7 +1735,7 @@
             "cookies": []
         }
     }, 
-    "audienceiq.com": {
+    "ebay.com/ebay.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1697,11 +1745,16 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 0, 
-            "cookies": []
+            "count": 4, 
+            "cookies": [
+                "PS", 
+                "PS", 
+                "HT", 
+                "HT"
+            ]
         }
     }, 
-    "fbcdn.net": {
+    "ebay-stories.com/ebay-stories.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1750,7 +1803,7 @@
             ]
         }
     }, 
-    "twitter.com": {
+    "netflix.com/netflix.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1760,36 +1813,27 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 1, 
-            "cookies": []
-        }
-    }, 
-    "advertising.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 1, 
-            "cookies": []
-        }
-    }, 
-    "wp.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
+            "count": 17, 
+            "cookies": [
+                "CMPS", 
+                "CMPS", 
+                "CMPP", 
+                "CMPP", 
+                "GUID", 
+                "GUID", 
+                "DBC", 
+                "DBC", 
+                "CMPS", 
+                "CMPS", 
+                "CMPP", 
+                "CMPP", 
+                "CMDD", 
+                "CMDD", 
+                "sess", 
+                "sess", 
+                "sess", 
+                "sess"
+            ]
         }
     }, 
     "Unknown(blank)/msn.com": {
@@ -1815,7 +1859,7 @@
             ]
         }
     }, 
-    "imrworldwide.com": {
+    "dl-rms.com/dl-rms.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1829,21 +1873,7 @@
             "cookies": []
         }
     }, 
-    "quantserve.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "blogger.com": {
+    "llnwd.net/llnwd.net": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1877,20 +1907,6 @@
             ]
         }
     }, 
-    "visiblemeasures.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 1, 
-            "cookies": []
-        }
-    }, 
     "msn.com/bing.com": {
         "dnt": {
             "count": 2, 
@@ -1912,6 +1928,20 @@
                 "_FS", 
                 "_FS"
             ]
+        }
+    }, 
+    "starwave.com/starwave.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
         }
     }, 
     "UNKNOWN-()/amazon.com": {
@@ -1940,7 +1970,7 @@
             ]
         }
     }, 
-    "licdn.com": {
+    "google.com/google.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -1950,7 +1980,7 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 0, 
+            "count": 1, 
             "cookies": []
         }
     }, 
@@ -1972,6 +2002,20 @@
             "cookies": [
                 "tmgioct"
             ]
+        }
+    }, 
+    "kissmetrics.com/kissmetrics.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
         }
     }, 
     "UNKNOWN-()/paypal.com": {
@@ -2015,27 +2059,21 @@
             ]
         }
     }, 
-    "Unknown(blank)/linkedin.com": {
+    "ugdturner.com/ugdturner.com": {
         "dnt": {
-            "count": 1, 
-            "cookies": [
-                "NSC_MC_WT_FU_IUUQ"
-            ]
+            "count": 0, 
+            "cookies": []
         }, 
         "beeftaco": {
-            "count": 1, 
-            "cookies": [
-                "NSC_MC_WT_FU_IUUQ"
-            ]
+            "count": 0, 
+            "cookies": []
         }, 
         "defaults": {
-            "count": 1, 
-            "cookies": [
-                "NSC_MC_WT_FU_IUUQ"
-            ]
+            "count": 0, 
+            "cookies": []
         }
     }, 
-    "ebayrtm.com": {
+    "ebaystatic.com/ebaystatic.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2045,8 +2083,25 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 1, 
+            "count": 0, 
             "cookies": []
+        }
+    }, 
+    "youtube.com/youtube.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 2, 
+            "cookies": [
+                "_drt_", 
+                "_drt_"
+            ]
         }
     }, 
     "UNKNOWN-()/aol.com": {
@@ -2113,7 +2168,7 @@
             ]
         }
     }, 
-    "revsci.net": {
+    "audienceiq.com/audienceiq.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2127,32 +2182,7 @@
             "cookies": []
         }
     }, 
-    "aol.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 11, 
-            "cookies": [
-                "GUID", 
-                "GUID", 
-                "DBC", 
-                "DBC", 
-                "CfP", 
-                "CfP", 
-                "GUID", 
-                "GUID", 
-                "DBC", 
-                "DBC"
-            ]
-        }
-    }, 
-    "googleapis.com": {
+    "atdmt.com/atdmt.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2166,39 +2196,7 @@
             "cookies": []
         }
     }, 
-    "netflix.com/casalemedia.com": {
-        "dnt": {
-            "count": 5, 
-            "cookies": [
-                "CMPS", 
-                "CMPP", 
-                "CMPS", 
-                "CMPP", 
-                "CMDD"
-            ]
-        }, 
-        "beeftaco": {
-            "count": 5, 
-            "cookies": [
-                "CMPS", 
-                "CMPP", 
-                "CMPS", 
-                "CMPP", 
-                "CMDD"
-            ]
-        }, 
-        "defaults": {
-            "count": 5, 
-            "cookies": [
-                "CMPS", 
-                "CMPP", 
-                "CMPS", 
-                "CMPP", 
-                "CMDD"
-            ]
-        }
-    }, 
-    "paypal.com": {
+    "doubleclick.net/doubleclick.net": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2208,24 +2206,7 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 2, 
-            "cookies": [
-                "s_vi", 
-                "s_vi"
-            ]
-        }
-    }, 
-    "ytimg.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
+            "count": 1, 
             "cookies": []
         }
     }, 
@@ -2252,7 +2233,7 @@
             ]
         }
     }, 
-    "turner.com": {
+    "abmr.net/abmr.net": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2266,7 +2247,21 @@
             "cookies": []
         }
     }, 
-    "s-msn.com": {
+    "twitter.com/twitter.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 1, 
+            "cookies": []
+        }
+    }, 
+    "wikimedia.org/wikimedia.org": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2324,7 +2319,7 @@
             ]
         }
     }, 
-    "youtube.com": {
+    "espncdn.com/espncdn.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2334,107 +2329,27 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 2, 
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "Unknown(blank)/linkedin.com": {
+        "dnt": {
+            "count": 1, 
             "cookies": [
-                "_drt_", 
-                "_drt_"
-            ]
-        }
-    }, 
-    "blogcdn.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "jump-time.net": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "edgecastcdn.net": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "ugdturner.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "dolimg.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "yahoo.com/.localhost": {
-        "dnt": {
-            "count": 5, 
-            "cookies": [
-                "B", 
-                "B", 
-                "B", 
-                "B", 
-                "B"
+                "NSC_MC_WT_FU_IUUQ"
             ]
         }, 
         "beeftaco": {
-            "count": 3, 
+            "count": 1, 
             "cookies": [
-                "B", 
-                "B", 
-                "B"
+                "NSC_MC_WT_FU_IUUQ"
             ]
         }, 
         "defaults": {
-            "count": 2, 
+            "count": 1, 
             "cookies": [
-                "B", 
-                "B"
+                "NSC_MC_WT_FU_IUUQ"
             ]
         }
     }, 
@@ -2467,7 +2382,7 @@
             ]
         }
     }, 
-    "insightexpressai.com": {
+    "mozilla.org/mozilla.org": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2481,197 +2396,7 @@
             "cookies": []
         }
     }, 
-    "linkedin.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 1, 
-            "cookies": []
-        }
-    }, 
-    "bing.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 1, 
-            "cookies": []
-        }
-    }, 
-    "huffingtonpost.com/advertising.com": {
-        "dnt": {
-            "count": 2, 
-            "cookies": [
-                "C2", 
-                "DBC"
-            ]
-        }, 
-        "beeftaco": {
-            "count": 2, 
-            "cookies": [
-                "C2", 
-                "DBC"
-            ]
-        }, 
-        "defaults": {
-            "count": 2, 
-            "cookies": [
-                "C2", 
-                "DBC"
-            ]
-        }
-    }, 
-    "ebayimg.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "facebook.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 1, 
-            "cookies": []
-        }
-    }, 
-    "Unknown(blank)/twitter.com": {
-        "dnt": {
-            "count": 2, 
-            "cookies": [
-                "original_referer", 
-                "_twitter_sess"
-            ]
-        }, 
-        "beeftaco": {
-            "count": 2, 
-            "cookies": [
-                "original_referer", 
-                "_twitter_sess"
-            ]
-        }, 
-        "defaults": {
-            "count": 2, 
-            "cookies": [
-                "original_referer", 
-                "_twitter_sess"
-            ]
-        }
-    }, 
-    "appspot.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "adnxs.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 1, 
-            "cookies": []
-        }
-    }, 
-    "UNKNOWN-()/craigslist.org": {
-        "dnt": {
-            "count": 3, 
-            "cookies": [
-                "cl_b", 
-                "cl_def_lang", 
-                "cl_def_hp"
-            ]
-        }, 
-        "beeftaco": {
-            "count": 3, 
-            "cookies": [
-                "cl_b", 
-                "cl_def_lang", 
-                "cl_def_hp"
-            ]
-        }, 
-        "defaults": {
-            "count": 3, 
-            "cookies": [
-                "cl_b", 
-                "cl_def_lang", 
-                "cl_def_hp"
-            ]
-        }
-    }, 
-    "paypal.com/omtrdc.net": {
-        "dnt": {
-            "count": 1, 
-            "cookies": [
-                "s_vi"
-            ]
-        }, 
-        "beeftaco": {
-            "count": 1, 
-            "cookies": [
-                "s_vi"
-            ]
-        }, 
-        "defaults": {
-            "count": 1, 
-            "cookies": [
-                "s_vi"
-            ]
-        }
-    }, 
-    "fwmrm.net": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 1, 
-            "cookies": []
-        }
-    }, 
-    "go.com": {
+    "go.com/go.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2708,6 +2433,284 @@
                 "sid", 
                 "sid"
             ]
+        }
+    }, 
+    "2mdn.net/2mdn.net": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "zoomflow.com/zoomflow.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "huffingtonpost.com/advertising.com": {
+        "dnt": {
+            "count": 2, 
+            "cookies": [
+                "C2", 
+                "DBC"
+            ]
+        }, 
+        "beeftaco": {
+            "count": 2, 
+            "cookies": [
+                "C2", 
+                "DBC"
+            ]
+        }, 
+        "defaults": {
+            "count": 2, 
+            "cookies": [
+                "C2", 
+                "DBC"
+            ]
+        }
+    }, 
+    "go.com/doubleclick.net": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 3, 
+            "cookies": [
+                "test_cookie", 
+                "id", 
+                "test_cookie"
+            ]
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "adnxs.com/adnxs.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 1, 
+            "cookies": []
+        }
+    }, 
+    "appspot.com/appspot.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "paypal.com/omtrdc.net": {
+        "dnt": {
+            "count": 1, 
+            "cookies": [
+                "s_vi"
+            ]
+        }, 
+        "beeftaco": {
+            "count": 1, 
+            "cookies": [
+                "s_vi"
+            ]
+        }, 
+        "defaults": {
+            "count": 1, 
+            "cookies": [
+                "s_vi"
+            ]
+        }
+    }, 
+    "blogger.com/blogger.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "Unknown(blank)/twitter.com": {
+        "dnt": {
+            "count": 2, 
+            "cookies": [
+                "original_referer", 
+                "_twitter_sess"
+            ]
+        }, 
+        "beeftaco": {
+            "count": 2, 
+            "cookies": [
+                "original_referer", 
+                "_twitter_sess"
+            ]
+        }, 
+        "defaults": {
+            "count": 2, 
+            "cookies": [
+                "original_referer", 
+                "_twitter_sess"
+            ]
+        }
+    }, 
+    "s-msn.com/s-msn.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "facebook.net/facebook.net": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "UNKNOWN-()/craigslist.org": {
+        "dnt": {
+            "count": 3, 
+            "cookies": [
+                "cl_b", 
+                "cl_def_lang", 
+                "cl_def_hp"
+            ]
+        }, 
+        "beeftaco": {
+            "count": 3, 
+            "cookies": [
+                "cl_b", 
+                "cl_def_lang", 
+                "cl_def_hp"
+            ]
+        }, 
+        "defaults": {
+            "count": 3, 
+            "cookies": [
+                "cl_b", 
+                "cl_def_lang", 
+                "cl_def_hp"
+            ]
+        }
+    }, 
+    "wordpress.com/wordpress.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "bing.com/bing.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 1, 
+            "cookies": []
+        }
+    }, 
+    "huffpost.com/huffpost.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "yimg.com/yimg.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
+        }
+    }, 
+    "insightexpressai.com/insightexpressai.com": {
+        "dnt": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "beeftaco": {
+            "count": 0, 
+            "cookies": []
+        }, 
+        "defaults": {
+            "count": 0, 
+            "cookies": []
         }
     }, 
     "UNKNOWN-()/live.com": {
@@ -2748,7 +2751,7 @@
             ]
         }
     }, 
-    "msads.net": {
+    "huffingtonpost.com/huffingtonpost.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2758,25 +2761,36 @@
             "cookies": []
         }, 
         "defaults": {
-            "count": 0, 
-            "cookies": []
+            "count": 19, 
+            "cookies": [
+                "s_vi", 
+                "s_vi", 
+                "ASLID", 
+                "ASLID", 
+                "pid", 
+                "pid", 
+                "CfP", 
+                "CfP", 
+                "ATTACID", 
+                "ATTACID", 
+                "ANRTT", 
+                "ANRTT", 
+                "TData", 
+                "TData", 
+                "ATTAC", 
+                "ATTAC", 
+                "bkids", 
+                "bkids", 
+                "C2", 
+                "C2", 
+                "DBC", 
+                "DBC", 
+                "BMX_G", 
+                "BMX_G"
+            ]
         }
     }, 
-    "ebaystatic.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "google.com": {
+    "advertising.com/advertising.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2790,7 +2804,7 @@
             "cookies": []
         }
     }, 
-    "twimg.com": {
+    "cloudfront.net/cloudfront.net": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2804,7 +2818,7 @@
             "cookies": []
         }
     }, 
-    "aolcdn.com": {
+    "images-amazon.com/images-amazon.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2818,7 +2832,7 @@
             "cookies": []
         }
     }, 
-    "paypalobjects.com": {
+    "googlevideo.com/googlevideo.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2832,7 +2846,7 @@
             "cookies": []
         }
     }, 
-    "google-analytics.com": {
+    "co.uk/co.uk": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2846,7 +2860,7 @@
             "cookies": []
         }
     }, 
-    "googlevideo.com": {
+    "googleapis.com/googleapis.com": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2860,7 +2874,7 @@
             "cookies": []
         }
     }, 
-    "huffpost.com": {
+    "wikipedia.org/wikipedia.org": {
         "dnt": {
             "count": 0, 
             "cookies": []
@@ -2871,20 +2885,6 @@
         }, 
         "defaults": {
             "count": 0, 
-            "cookies": []
-        }
-    }, 
-    "vindicosuite.com": {
-        "dnt": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "beeftaco": {
-            "count": 0, 
-            "cookies": []
-        }, 
-        "defaults": {
-            "count": 1, 
             "cookies": []
         }
     }
