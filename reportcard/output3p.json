@@ -15,7 +15,7 @@
         "grade": "D", 
         "domain": "hrblock.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -27,7 +27,7 @@
         "grade": "D", 
         "domain": "youtube.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -39,7 +39,7 @@
         "grade": "D", 
         "domain": "ebay.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -87,7 +87,7 @@
         "grade": "D", 
         "domain": "suitesmart.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -111,7 +111,7 @@
         "grade": "D", 
         "domain": "pointroll.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -123,7 +123,7 @@
         "grade": "D", 
         "domain": "insightexpressai.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -135,7 +135,7 @@
         "grade": "D", 
         "domain": "omtrdc.net", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -147,7 +147,7 @@
         "grade": "D", 
         "domain": "linkedin.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -183,7 +183,7 @@
         "grade": "D", 
         "domain": "huffingtonpost.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -207,7 +207,7 @@
         "grade": "D", 
         "domain": "twitter.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -243,7 +243,7 @@
         "grade": "D", 
         "domain": "facebook.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -255,7 +255,7 @@
         "grade": "D", 
         "domain": "netflix.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -267,7 +267,7 @@
         "grade": "D", 
         "domain": "amazon-adsystem.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -279,7 +279,7 @@
         "grade": "D", 
         "domain": "imrworldwide.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -303,7 +303,7 @@
         "grade": "D", 
         "domain": "voicefive.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -327,7 +327,7 @@
         "grade": "D", 
         "domain": ".localhost", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -339,7 +339,7 @@
         "grade": "D", 
         "domain": "craigslist.org", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -411,7 +411,7 @@
         "grade": "D", 
         "domain": "go.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -423,7 +423,7 @@
         "grade": "D", 
         "domain": "match.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -447,7 +447,7 @@
         "grade": "D", 
         "domain": "ebayrtm.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -459,7 +459,7 @@
         "grade": "D", 
         "domain": "pinterest.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -471,7 +471,7 @@
         "grade": "D", 
         "domain": "google.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -495,7 +495,7 @@
         "grade": "D", 
         "domain": "aol.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -519,7 +519,7 @@
         "grade": "D", 
         "domain": "paypal.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -555,7 +555,7 @@
         "grade": "D", 
         "domain": "healthheadlines.com", 
         "score": -3, 
-        "company": "Doofenschmirtz Evil Incorporated", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 

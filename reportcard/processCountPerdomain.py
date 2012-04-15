@@ -5,7 +5,7 @@ def computeCompanyName(d, companies):
   if d in companies:
     return companies[d]
   else:
-    return 'Doofenschmirtz Evil Incorporated'
+    return 'unknown'
 
 def computeBehavior(dnt, taco, normal):
   return { 'evil': False,
