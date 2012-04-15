@@ -70,6 +70,7 @@ for phase, fn in files.items():
     conn = db_connect(fn)
     top_pages = dict(db_query(conn, 'select id,location from pages where id=top_id'))
     c = db_query(conn, 'select top_id, value, hr.url, hr.referrer from http_response_headers hrh left join http_responses hr on hrh.http_response_id=hr.id left join pages p on hr.page_id=p.id where name="Set-Cookie"')
+    topsiteurls = db_query(conn, 'select hr.url from http_responses hr left join pages p on hr.page_id=p.id where p.id==p.top_id;')
 
     def sld_from_domain(domain):
         return '.'.join(domain.split('.')[-2:])
@@ -95,6 +96,16 @@ for phase, fn in files.items():
         except KeyError:
             url = ""
         return sld_from_url(url)
+
+    for u in topsiteurls:
+        try:
+            s = sld_from_url(str(u[0]))
+        except TypeError:
+            print >> sys.stderr, "ARGH:" + str(u[0])
+        pd = dict([(k,{'count': 0, 'cookies': []}) for k in files.keys()])
+        thirdpartycount_per_first[s] = pd
+        thirdpartycount_per_third[s] = pd
+        thirdpartycount_per_firstthird[s] = pd
 
     for row in c:
         for cookieline in str(row[1]).split('\n'):
