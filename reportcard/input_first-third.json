@@ -1,0 +1,437 @@
+{
+    "netflix.com/yieldmanager.com": {
+        "dnt": 4, 
+        "beeftaco": 3, 
+        "defaults": 4
+    }, 
+    "go.com/visiblemeasures.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "go.com/voicefive.com": {
+        "dnt": 0, 
+        "beeftaco": 8, 
+        "defaults": 0
+    }, 
+    "huffingtonpost.com/aol.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "go.com/scorecardresearch.com": {
+        "dnt": 4, 
+        "beeftaco": 5, 
+        "defaults": 4
+    }, 
+    "cnn.com/imrworldwide.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "cnn.com/healthheadlines.com": {
+        "dnt": 0, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "UNKNOWN/google.com": {
+        "dnt": 5, 
+        "beeftaco": 5, 
+        "defaults": 5
+    }, 
+    "UNKNOWN/go.com": {
+        "dnt": 3, 
+        "beeftaco": 3, 
+        "defaults": 3
+    }, 
+    "netflix.com/advertising.com": {
+        "dnt": 3, 
+        "beeftaco": 3, 
+        "defaults": 3
+    }, 
+    "yahoo.com/audienceiq.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "UNKNOWN/linkedin.com": {
+        "dnt": 9, 
+        "beeftaco": 9, 
+        "defaults": 9
+    }, 
+    "huffingtonpost.com/adsonar.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "yahoo.com/.localhost": {
+        "dnt": 5, 
+        "beeftaco": 3, 
+        "defaults": 2
+    }, 
+    "cnn.com/suitesmart.com": {
+        "dnt": 0, 
+        "beeftaco": 0, 
+        "defaults": 3
+    }, 
+    "huffingtonpost.com/voicefive.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "go.com/yieldmanager.com": {
+        "dnt": 4, 
+        "beeftaco": 4, 
+        "defaults": 4
+    }, 
+    "huffingtonpost.com/twitter.com": {
+        "dnt": 0, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "cnn.com/zedo.com": {
+        "dnt": 0, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "youtube.com/doubleclick.net": {
+        "dnt": 3, 
+        "beeftaco": 3, 
+        "defaults": 3
+    }, 
+    "netflix.com/adnxs.com": {
+        "dnt": 5, 
+        "beeftaco": 5, 
+        "defaults": 5
+    }, 
+    "ebay.com/ebayrtm.com": {
+        "dnt": 9, 
+        "beeftaco": 9, 
+        "defaults": 9
+    }, 
+    "go.com/revsci.net": {
+        "dnt": 4, 
+        "beeftaco": 4, 
+        "defaults": 4
+    }, 
+    "UNKNOWN/paypal.com": {
+        "dnt": 8, 
+        "beeftaco": 8, 
+        "defaults": 8
+    }, 
+    "UNKNOWN/aol.com": {
+        "dnt": 8, 
+        "beeftaco": 8, 
+        "defaults": 8
+    }, 
+    "cnn.com/doubleclick.net": {
+        "dnt": 3, 
+        "beeftaco": 1, 
+        "defaults": 3
+    }, 
+    "go.com/imrworldwide.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "UNKNOWN/cnn.com": {
+        "dnt": 8, 
+        "beeftaco": 8, 
+        "defaults": 8
+    }, 
+    "huffingtonpost.com/atdmt.com": {
+        "dnt": 4, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "UNKNOWN/facebook.com": {
+        "dnt": 5, 
+        "beeftaco": 5, 
+        "defaults": 5
+    }, 
+    "huffingtonpost.com/co.uk": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "huffingtonpost.com/quantserve.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "cnn.com/scorecardresearch.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 4
+    }, 
+    "huffingtonpost.com/scorecardresearch.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "UNKNOWN/netflix.com": {
+        "dnt": 24, 
+        "beeftaco": 24, 
+        "defaults": 24
+    }, 
+    "msn.com/atdmt.com": {
+        "dnt": 3, 
+        "beeftaco": 3, 
+        "defaults": 3
+    }, 
+    "UNKNOWN/youtube.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "go.com/fwmrm.net": {
+        "dnt": 8, 
+        "beeftaco": 7, 
+        "defaults": 8
+    }, 
+    "UNKNOWN/twitter.com": {
+        "dnt": 5, 
+        "beeftaco": 5, 
+        "defaults": 5
+    }, 
+    "go.com/insightexpressai.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "cnn.com/insightexpressai.com": {
+        "dnt": 11, 
+        "beeftaco": 11, 
+        "defaults": 11
+    }, 
+    "linkedin.com/scorecardresearch.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "UNKNOWN/yahoo.com": {
+        "dnt": 8, 
+        "beeftaco": 8, 
+        "defaults": 8
+    }, 
+    "paypal.com/omtrdc.net": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "wordpress.com/scorecardresearch.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "aol.com/atwola.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "tumblr.com/quantserve.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "huffingtonpost.com/doubleclick.net": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "bing.com/abmr.net": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "UNKNOWN/ebay.com": {
+        "dnt": 5, 
+        "beeftaco": 5, 
+        "defaults": 5
+    }, 
+    "huffingtonpost.com/atwola.com": {
+        "dnt": 10, 
+        "beeftaco": 10, 
+        "defaults": 9
+    }, 
+    "UNKNOWN/live.com": {
+        "dnt": 7, 
+        "beeftaco": 7, 
+        "defaults": 7
+    }, 
+    "UNKNOWN/pinterest.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "go.com/questionmarket.com": {
+        "dnt": 2, 
+        "beeftaco": 0, 
+        "defaults": 2
+    }, 
+    "huffingtonpost.com/imrworldwide.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "msn.com/bing.com": {
+        "dnt": 7, 
+        "beeftaco": 7, 
+        "defaults": 10
+    }, 
+    "msn.com/hrblock.com": {
+        "dnt": 5, 
+        "beeftaco": 8, 
+        "defaults": 8
+    }, 
+    "bing.com/atdmt.com": {
+        "dnt": 6, 
+        "beeftaco": 6, 
+        "defaults": 6
+    }, 
+    "cnn.com/ugdturner.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "yahoo.com/doubleclick.net": {
+        "dnt": 4, 
+        "beeftaco": 4, 
+        "defaults": 4
+    }, 
+    "netflix.com/casalemedia.com": {
+        "dnt": 10, 
+        "beeftaco": 10, 
+        "defaults": 10
+    }, 
+    "netflix.com/atdmt.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "wordpress.com/quantserve.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "go.com/yahoo.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "UNKNOWN/huffingtonpost.com": {
+        "dnt": 3, 
+        "beeftaco": 3, 
+        "defaults": 3
+    }, 
+    "aol.com/advertising.com": {
+        "dnt": 6, 
+        "beeftaco": 6, 
+        "defaults": 6
+    }, 
+    "UNKNOWN/tumblr.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "UNKNOWN/amazon.com": {
+        "dnt": 6, 
+        "beeftaco": 6, 
+        "defaults": 6
+    }, 
+    "aol.com/scorecardresearch.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "huffingtonpost.com/advertising.com": {
+        "dnt": 12, 
+        "beeftaco": 12, 
+        "defaults": 13
+    }, 
+    "amazon.com/amazon-adsystem.com": {
+        "dnt": 3, 
+        "beeftaco": 3, 
+        "defaults": 3
+    }, 
+    "go.com/doubleclick.net": {
+        "dnt": 3, 
+        "beeftaco": 6, 
+        "defaults": 3
+    }, 
+    "go.com/atdmt.com": {
+        "dnt": 2, 
+        "beeftaco": 0, 
+        "defaults": 2
+    }, 
+    "linkedin.com/imrworldwide.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "amazon.com/doubleclick.net": {
+        "dnt": 1, 
+        "beeftaco": 3, 
+        "defaults": 3
+    }, 
+    "msn.com/match.com": {
+        "dnt": 0, 
+        "beeftaco": 3, 
+        "defaults": 3
+    }, 
+    "linkedin.com/quantserve.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "go.com/pointroll.com": {
+        "dnt": 0, 
+        "beeftaco": 9, 
+        "defaults": 0
+    }, 
+    "cnn.com/revsci.net": {
+        "dnt": 4, 
+        "beeftaco": 4, 
+        "defaults": 4
+    }, 
+    "mozilla.org/surveygizmo.com": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "UNKNOWN/craigslist.org": {
+        "dnt": 3, 
+        "beeftaco": 3, 
+        "defaults": 3
+    }, 
+    "go.com/vindicosuite.com": {
+        "dnt": 2, 
+        "beeftaco": 0, 
+        "defaults": 2
+    }, 
+    "aol.com/doubleclick.net": {
+        "dnt": 3, 
+        "beeftaco": 3, 
+        "defaults": 3
+    }, 
+    "UNKNOWN/bing.com": {
+        "dnt": 15, 
+        "beeftaco": 15, 
+        "defaults": 15
+    }, 
+    "ebay.com/doubleclick.net": {
+        "dnt": 1, 
+        "beeftaco": 1, 
+        "defaults": 1
+    }, 
+    "UNKNOWN/msn.com": {
+        "dnt": 7, 
+        "beeftaco": 7, 
+        "defaults": 7
+    }, 
+    "msn.com/scorecardresearch.com": {
+        "dnt": 2, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }
+}

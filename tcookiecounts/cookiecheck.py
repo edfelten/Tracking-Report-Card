@@ -355,7 +355,16 @@ whitelist = [ \
         ["TR","send.microad.jp","^xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx$"], \
         ["OPT_OUT",".gsimedia.net","^I$"] ]
 
+def domainmatch(domain,host):
+    if (domain == ""):
+        return(1)
+    if (domain == host[-len(domain):]):
+        return(1)
+    if (domain[0]=='.' and domain[1:] == host):
+        return(1)
+    return(0)
 
+    
 def cookiecheck(name, value ,url,referrer ,expiration ,domain):
 
 # name - name of the cookie (one call per name/value pair, even if multiple cookies
@@ -374,14 +383,14 @@ def cookiecheck(name, value ,url,referrer ,expiration ,domain):
 
     refhost = urlparse(referrer).netloc.split(":")[0]
 
-    if (domain != urlhost[-len(domain):]):
+    if (domainmatch(domain,urlhost) == 0):
         #Unexpected - domain of cookie should be within current scope
-        print "Warning: cookie domain " + domain + "not within URL" + urlhost
+        print "Warning: cookie domain " + domain + " not within URL: " + urlhost
 
     if len(domain) == 0:
         domain = urlhost
 
-    if (domain == refhost[-len(domain):]):
+    if (domainmatch(domain,refhost) == 1):
         return(0)    #Not a third-party cookie
 
     if len(value)<6 and len(name)<6:
