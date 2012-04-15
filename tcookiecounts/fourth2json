@@ -58,6 +58,8 @@ domRE = re.compile(r"^https?://([^/]+?)/")
 
 companies = json.load(open('companyNames.json')) # FIXME: this shouldn't need to be in the current dir
 
+cookiecheck.ruleinit() #FIXME: uses whitelist.txt and blacklist.txt, also in current dir
+
 files = {
         'defaults': sys.argv[1],
         'dnt': sys.argv[2],
