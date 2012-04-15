@@ -1,6 +1,6 @@
 {
     "costco.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "costco.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -8,7 +8,7 @@
         ]
     }, 
     "verizonwireless.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "verizonwireless.com", 
         "score": -3.3173317179932624, 
         "thirdparties": [
@@ -21,7 +21,7 @@
         ]
     }, 
     "slickdeals.net": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "slickdeals.net", 
         "score": -1.9586122503861116, 
         "thirdparties": [
@@ -31,7 +31,7 @@
         ]
     }, 
     "adp.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "adp.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -40,7 +40,7 @@
         ]
     }, 
     "quickmeme.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "quickmeme.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -48,7 +48,7 @@
         ]
     }, 
     "woot.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "woot.com", 
         "score": -3.3173317179932624, 
         "thirdparties": [
@@ -61,7 +61,7 @@
         ]
     }, 
     "wikia.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "wikia.com", 
         "score": -3.3173317179932624, 
         "thirdparties": [
@@ -74,7 +74,7 @@
         ]
     }, 
     "autotrader.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "autotrader.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -85,7 +85,7 @@
         ]
     }, 
     "buy.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "buy.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -94,7 +94,7 @@
         ]
     }, 
     "1shoppingcart.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "1shoppingcart.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -102,7 +102,7 @@
         ]
     }, 
     "hsn.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "hsn.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -111,7 +111,7 @@
         ]
     }, 
     "rottentomatoes.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "rottentomatoes.com", 
         "score": -3.673725676685863, 
         "thirdparties": [
@@ -128,7 +128,7 @@
         ]
     }, 
     "domaintools.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "domaintools.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -136,7 +136,7 @@
         ]
     }, 
     "megamillions.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "megamillions.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -144,7 +144,7 @@
         ]
     }, 
     "usbank.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "usbank.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -153,7 +153,7 @@
         ]
     }, 
     "earthlink.net": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "earthlink.net", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -161,7 +161,7 @@
         ]
     }, 
     "huffingtonpost.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "huffingtonpost.com", 
         "score": -3.3173317179932624, 
         "thirdparties": [
@@ -174,7 +174,7 @@
         ]
     }, 
     "rivals.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "rivals.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -185,7 +185,7 @@
         ]
     }, 
     "jcpenney.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "jcpenney.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -193,7 +193,7 @@
         ]
     }, 
     "1channel.ch": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "1channel.ch", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -204,7 +204,7 @@
         ]
     }, 
     "dailycaller.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "dailycaller.com", 
         "score": -3.415462502133968, 
         "thirdparties": [
@@ -218,7 +218,7 @@
         ]
     }, 
     "eonline.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "eonline.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -226,7 +226,7 @@
         ]
     }, 
     "bizrate.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "bizrate.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -234,7 +234,7 @@
         ]
     }, 
     "examiner.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "examiner.com", 
         "score": -3.592586846601673, 
         "thirdparties": [
@@ -250,7 +250,7 @@
         ]
     }, 
     "reuters.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "reuters.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -259,7 +259,7 @@
         ]
     }, 
     "addthis.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "addthis.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -267,7 +267,7 @@
         ]
     }, 
     "netflix.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "netflix.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -277,7 +277,7 @@
         ]
     }, 
     "capitalone.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "capitalone.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -285,7 +285,7 @@
         ]
     }, 
     "surveymonkey.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "surveymonkey.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -293,7 +293,7 @@
         ]
     }, 
     "cbssports.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "cbssports.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -301,7 +301,7 @@
         ]
     }, 
     "cbs.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "cbs.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -309,7 +309,7 @@
         ]
     }, 
     "perezhilton.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "perezhilton.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -319,7 +319,7 @@
         ]
     }, 
     "expedia.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "expedia.com", 
         "score": -3.3173317179932624, 
         "thirdparties": [
@@ -332,7 +332,7 @@
         ]
     }, 
     "coupons.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "coupons.com", 
         "score": -3.415462502133968, 
         "thirdparties": [
@@ -346,7 +346,7 @@
         ]
     }, 
     "youporn.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "youporn.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -354,7 +354,7 @@
         ]
     }, 
     "wimp.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "wimp.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -362,7 +362,7 @@
         ]
     }, 
     "tvguide.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "tvguide.com", 
         "score": -3.592586846601673, 
         "thirdparties": [
@@ -378,7 +378,7 @@
         ]
     }, 
     "biblegateway.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "biblegateway.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -387,7 +387,7 @@
         ]
     }, 
     "seomoz.org": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "seomoz.org", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -395,7 +395,7 @@
         ]
     }, 
     "salesforce.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "salesforce.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -405,7 +405,7 @@
         ]
     }, 
     "reference.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "reference.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -415,7 +415,7 @@
         ]
     }, 
     "paypal.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "paypal.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -423,7 +423,7 @@
         ]
     }, 
     "cnn.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "cnn.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -431,7 +431,7 @@
         ]
     }, 
     "walmart.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "walmart.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -439,7 +439,7 @@
         ]
     }, 
     "break.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "break.com", 
         "score": -3.3173317179932624, 
         "thirdparties": [
@@ -452,7 +452,7 @@
         ]
     }, 
     "gotomeeting.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "gotomeeting.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -460,7 +460,7 @@
         ]
     }, 
     "imgur.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "imgur.com", 
         "score": -3.506800408974768, 
         "thirdparties": [
@@ -475,7 +475,7 @@
         ]
     }, 
     "merriam-webster.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "merriam-webster.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -487,7 +487,7 @@
         ]
     }, 
     "pandora.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "pandora.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -495,7 +495,7 @@
         ]
     }, 
     "engadget.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "engadget.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -507,7 +507,7 @@
         ]
     }, 
     "nytimes.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "nytimes.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -515,7 +515,7 @@
         ]
     }, 
     "zappos.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "zappos.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -525,7 +525,7 @@
         ]
     }, 
     "photobucket.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "photobucket.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -534,7 +534,7 @@
         ]
     }, 
     "usatoday.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "usatoday.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -544,7 +544,7 @@
         ]
     }, 
     "keezmovies.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "keezmovies.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -552,7 +552,7 @@
         ]
     }, 
     "co.uk": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "co.uk", 
         "score": -3.8246376541705498, 
         "thirdparties": [
@@ -571,7 +571,7 @@
         ]
     }, 
     "skype.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "skype.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -579,7 +579,7 @@
         ]
     }, 
     "microsoft.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "microsoft.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -587,7 +587,7 @@
         ]
     }, 
     "icontact.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "icontact.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -597,7 +597,7 @@
         ]
     }, 
     "latimes.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "latimes.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -608,7 +608,7 @@
         ]
     }, 
     "hootsuite.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "hootsuite.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -616,7 +616,7 @@
         ]
     }, 
     "nydailynews.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "nydailynews.com", 
         "score": -3.8246376541705498, 
         "thirdparties": [
@@ -635,7 +635,7 @@
         ]
     }, 
     "charter.net": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "charter.net", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -645,7 +645,7 @@
         ]
     }, 
     "legacy.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "legacy.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -654,7 +654,7 @@
         ]
     }, 
     "ancestry.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "ancestry.com", 
         "score": -3.415462502133968, 
         "thirdparties": [
@@ -668,7 +668,7 @@
         ]
     }, 
     "ew.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "ew.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -678,7 +678,7 @@
         ]
     }, 
     "nationalgeographic.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "nationalgeographic.com", 
         "score": -3.506800408974768, 
         "thirdparties": [
@@ -693,7 +693,7 @@
         ]
     }, 
     "guardiannews.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "guardiannews.com", 
         "score": -3.506800408974768, 
         "thirdparties": [
@@ -708,7 +708,7 @@
         ]
     }, 
     "modelmayhem.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "modelmayhem.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -717,7 +717,7 @@
         ]
     }, 
     "buzzfeed.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "buzzfeed.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -726,7 +726,7 @@
         ]
     }, 
     "nbc.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "nbc.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -738,7 +738,7 @@
         ]
     }, 
     "chicagotribune.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "chicagotribune.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -749,7 +749,7 @@
         ]
     }, 
     "hotwire.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "hotwire.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -761,7 +761,7 @@
         ]
     }, 
     "t-mobile.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "t-mobile.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -771,7 +771,7 @@
         ]
     }, 
     "thechive.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "thechive.com", 
         "score": -3.8246376541705498, 
         "thirdparties": [
@@ -790,7 +790,7 @@
         ]
     }, 
     "pogo.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "pogo.com", 
         "score": -3.506800408974768, 
         "thirdparties": [
@@ -805,7 +805,7 @@
         ]
     }, 
     "mlb.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "mlb.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -813,7 +813,7 @@
         ]
     }, 
     "hilton.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "hilton.com", 
         "score": -3.506800408974768, 
         "thirdparties": [
@@ -828,7 +828,7 @@
         ]
     }, 
     "kmart.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "kmart.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -838,7 +838,7 @@
         ]
     }, 
     "sears.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "sears.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -846,7 +846,7 @@
         ]
     }, 
     "citysearch.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "citysearch.com", 
         "score": -3.673725676685863, 
         "thirdparties": [
@@ -863,7 +863,7 @@
         ]
     }, 
     "nick.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "nick.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -874,7 +874,7 @@
         ]
     }, 
     "comcast.net": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "comcast.net", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -882,7 +882,7 @@
         ]
     }, 
     "urbandictionary.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "urbandictionary.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -892,7 +892,7 @@
         ]
     }, 
     "cracked.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "cracked.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -904,7 +904,7 @@
         ]
     }, 
     "infusionsoft.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "infusionsoft.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -914,7 +914,7 @@
         ]
     }, 
     "whitepages.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "whitepages.com", 
         "score": -3.415462502133968, 
         "thirdparties": [
@@ -928,7 +928,7 @@
         ]
     }, 
     "foxsports.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "foxsports.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -936,7 +936,7 @@
         ]
     }, 
     "bigfishgames.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "bigfishgames.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -945,7 +945,7 @@
         ]
     }, 
     "manta.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "manta.com", 
         "score": -3.8246376541705498, 
         "thirdparties": [
@@ -964,7 +964,7 @@
         ]
     }, 
     "centurylink.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "centurylink.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -974,7 +974,7 @@
         ]
     }, 
     "drugstore.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "drugstore.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -983,7 +983,7 @@
         ]
     }, 
     "babycenter.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "babycenter.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -993,7 +993,7 @@
         ]
     }, 
     "citibank.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "citibank.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -1001,7 +1001,7 @@
         ]
     }, 
     "dailymotion.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "dailymotion.com", 
         "score": -1.7996936277882207, 
         "thirdparties": [
@@ -1010,7 +1010,7 @@
         ]
     }, 
     "wsj.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "wsj.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1020,7 +1020,7 @@
         ]
     }, 
     "wunderground.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "wunderground.com", 
         "score": -3.3173317179932624, 
         "thirdparties": [
@@ -1033,7 +1033,7 @@
         ]
     }, 
     "mtv.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "mtv.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1043,7 +1043,7 @@
         ]
     }, 
     "directv.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "directv.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -1144,7 +1144,7 @@
         ]
     }, 
     "swagbucks.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "swagbucks.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1152,7 +1152,7 @@
         ]
     }, 
     "realclearpolitics.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "realclearpolitics.com", 
         "score": -1.7996936277882207, 
         "thirdparties": [
@@ -1161,7 +1161,7 @@
         ]
     }, 
     "cbslocal.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "cbslocal.com", 
         "score": -3.592586846601673, 
         "thirdparties": [
@@ -1177,7 +1177,7 @@
         ]
     }, 
     "overstock.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "overstock.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1185,7 +1185,7 @@
         ]
     }, 
     "compete.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "compete.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1195,7 +1195,7 @@
         ]
     }, 
     "time.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "time.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1203,7 +1203,7 @@
         ]
     }, 
     "allrecipes.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "allrecipes.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -1214,7 +1214,7 @@
         ]
     }, 
     "shutterstock.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "shutterstock.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -1223,7 +1223,7 @@
         ]
     }, 
     "gamefaqs.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "gamefaqs.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1233,7 +1233,7 @@
         ]
     }, 
     "bleacherreport.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "bleacherreport.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -1241,7 +1241,7 @@
         ]
     }, 
     "xnxx.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "xnxx.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -1250,7 +1250,7 @@
         ]
     }, 
     "kbb.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "kbb.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -1259,7 +1259,7 @@
         ]
     }, 
     "yahoo.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "yahoo.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -1270,7 +1270,7 @@
         ]
     }, 
     "cnet.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "cnet.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1280,7 +1280,7 @@
         ]
     }, 
     "simplyhired.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "simplyhired.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1288,7 +1288,7 @@
         ]
     }, 
     "intuit.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "intuit.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1298,7 +1298,7 @@
         ]
     }, 
     "force.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "force.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -1309,7 +1309,7 @@
         ]
     }, 
     "people.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "people.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -1318,7 +1318,7 @@
         ]
     }, 
     "networksolutions.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "networksolutions.com", 
         "score": -3.592586846601673, 
         "thirdparties": [
@@ -1334,7 +1334,7 @@
         ]
     }, 
     "cars.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "cars.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -1346,7 +1346,7 @@
         ]
     }, 
     "twitpic.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "twitpic.com", 
         "score": -3.750899241779373, 
         "thirdparties": [
@@ -1364,7 +1364,7 @@
         ]
     }, 
     "ingdirect.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "ingdirect.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1372,7 +1372,7 @@
         ]
     }, 
     "ign.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "ign.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -1380,7 +1380,7 @@
         ]
     }, 
     "gizmodo.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "gizmodo.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -1388,7 +1388,7 @@
         ]
     }, 
     "kat.ph": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "kat.ph", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1396,7 +1396,7 @@
         ]
     }, 
     "priceline.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "priceline.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -1408,7 +1408,7 @@
         ]
     }, 
     "msn.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "msn.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1416,7 +1416,7 @@
         ]
     }, 
     "target.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "target.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1426,7 +1426,7 @@
         ]
     }, 
     "foxnews.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "foxnews.com", 
         "score": -3.592586846601673, 
         "thirdparties": [
@@ -1442,7 +1442,7 @@
         ]
     }, 
     "zimbio.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "zimbio.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1450,7 +1450,7 @@
         ]
     }, 
     "businessinsider.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "businessinsider.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1458,7 +1458,7 @@
         ]
     }, 
     "msnbc.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "msnbc.com", 
         "score": -3.506800408974768, 
         "thirdparties": [
@@ -1473,7 +1473,7 @@
         ]
     }, 
     "ebay.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "ebay.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1481,7 +1481,7 @@
         ]
     }, 
     "comcast.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "comcast.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -1492,7 +1492,7 @@
         ]
     }, 
     "drudgereport.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "drudgereport.com", 
         "score": -3.673725676685863, 
         "thirdparties": [
@@ -1509,7 +1509,7 @@
         ]
     }, 
     "imageshack.us": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "imageshack.us", 
         "score": -3.506800408974768, 
         "thirdparties": [
@@ -1524,7 +1524,7 @@
         ]
     }, 
     "merchantcircle.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "merchantcircle.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1532,7 +1532,7 @@
         ]
     }, 
     "nypost.com": {
-        "grade": "F", 
+        "grade": "D", 
         "domain": "nypost.com", 
         "score": -4.092586846601673, 
         "thirdparties": [
@@ -1555,7 +1555,7 @@
         ]
     }, 
     "mediafire.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "mediafire.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1563,7 +1563,7 @@
         ]
     }, 
     "hostgator.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "hostgator.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1571,7 +1571,7 @@
         ]
     }, 
     "weather.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "weather.com", 
         "score": -3.592586846601673, 
         "thirdparties": [
@@ -1587,7 +1587,7 @@
         ]
     }, 
     "thedailybeast.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "thedailybeast.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1597,7 +1597,7 @@
         ]
     }, 
     "forbes.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "forbes.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1607,7 +1607,7 @@
         ]
     }, 
     "tmz.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "tmz.com", 
         "score": -3.506800408974768, 
         "thirdparties": [
@@ -1622,7 +1622,7 @@
         ]
     }, 
     "gap.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "gap.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -1631,7 +1631,7 @@
         ]
     }, 
     "thepiratebay.se": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "thepiratebay.se", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -1640,7 +1640,7 @@
         ]
     }, 
     "businessweek.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "businessweek.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1650,7 +1650,7 @@
         ]
     }, 
     "samsclub.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "samsclub.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1660,7 +1660,7 @@
         ]
     }, 
     "digg.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "digg.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -1669,7 +1669,7 @@
         ]
     }, 
     "wnd.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "wnd.com", 
         "score": -3.3173317179932624, 
         "thirdparties": [
@@ -1682,7 +1682,7 @@
         ]
     }, 
     "scout.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "scout.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1692,7 +1692,7 @@
         ]
     }, 
     "scottrade.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "scottrade.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1702,7 +1702,7 @@
         ]
     }, 
     "cvs.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "cvs.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -1710,7 +1710,7 @@
         ]
     }, 
     "sfgate.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "sfgate.com", 
         "score": -3.592586846601673, 
         "thirdparties": [
@@ -1726,7 +1726,7 @@
         ]
     }, 
     "verizon.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "verizon.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1734,7 +1734,7 @@
         ]
     }, 
     "wordpress.org": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "wordpress.org", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1742,7 +1742,7 @@
         ]
     }, 
     "6pm.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "6pm.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1750,7 +1750,7 @@
         ]
     }, 
     "washingtonpost.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "washingtonpost.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1758,7 +1758,7 @@
         ]
     }, 
     "bankrate.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "bankrate.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -1767,7 +1767,7 @@
         ]
     }, 
     "politico.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "politico.com", 
         "score": -3.8246376541705498, 
         "thirdparties": [
@@ -1786,7 +1786,7 @@
         ]
     }, 
     "pcworld.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "pcworld.com", 
         "score": -3.506800408974768, 
         "thirdparties": [
@@ -1801,7 +1801,7 @@
         ]
     }, 
     "wired.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "wired.com", 
         "score": -3.3173317179932624, 
         "thirdparties": [
@@ -1814,7 +1814,7 @@
         ]
     }, 
     "mashable.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "mashable.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -1826,7 +1826,7 @@
         ]
     }, 
     "1saleaday.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "1saleaday.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -1834,7 +1834,7 @@
         ]
     }, 
     "eharmony.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "eharmony.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1844,7 +1844,7 @@
         ]
     }, 
     "cbsnews.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "cbsnews.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -1855,7 +1855,7 @@
         ]
     }, 
     "fool.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "fool.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1865,7 +1865,7 @@
         ]
     }, 
     "stubhub.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "stubhub.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1873,7 +1873,7 @@
         ]
     }, 
     "answers.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "answers.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1883,7 +1883,7 @@
         ]
     }, 
     "vimeo.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "vimeo.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -1891,7 +1891,7 @@
         ]
     }, 
     "bizjournals.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "bizjournals.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -1900,7 +1900,7 @@
         ]
     }, 
     "sourceforge.net": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "sourceforge.net", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -1909,7 +1909,7 @@
         ]
     }, 
     "zulily.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "zulily.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -1918,7 +1918,7 @@
         ]
     }, 
     "nickjr.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "nickjr.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -1929,7 +1929,7 @@
         ]
     }, 
     "redbox.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "redbox.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1937,7 +1937,7 @@
         ]
     }, 
     "boston.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "boston.com", 
         "score": -3.592586846601673, 
         "thirdparties": [
@@ -1953,7 +1953,7 @@
         ]
     }, 
     "goodreads.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "goodreads.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -1961,7 +1961,7 @@
         ]
     }, 
     "chase.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "chase.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -1971,7 +1971,7 @@
         ]
     }, 
     "chacha.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "chacha.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -1979,7 +1979,7 @@
         ]
     }, 
     "techcrunch.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "techcrunch.com", 
         "score": -3.3173317179932624, 
         "thirdparties": [
@@ -1992,7 +1992,7 @@
         ]
     }, 
     "babylon.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "babylon.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -2002,7 +2002,7 @@
         ]
     }, 
     "shutterfly.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "shutterfly.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -2013,7 +2013,7 @@
         ]
     }, 
     "monster.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "monster.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -2025,7 +2025,7 @@
         ]
     }, 
     "fandango.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "fandango.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2033,7 +2033,7 @@
         ]
     }, 
     "cafepress.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "cafepress.com", 
         "score": -1.7996936277882207, 
         "thirdparties": [
@@ -2042,7 +2042,7 @@
         ]
     }, 
     "howstuffworks.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "howstuffworks.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -2052,7 +2052,7 @@
         ]
     }, 
     "eventbrite.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "eventbrite.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2060,7 +2060,7 @@
         ]
     }, 
     "webmd.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "webmd.com", 
         "score": -1.7996936277882207, 
         "thirdparties": [
@@ -2069,7 +2069,7 @@
         ]
     }, 
     "urbanspoon.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "urbanspoon.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -2079,7 +2079,7 @@
         ]
     }, 
     "mapquest.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "mapquest.com", 
         "score": -3.3173317179932624, 
         "thirdparties": [
@@ -2092,7 +2092,7 @@
         ]
     }, 
     "aol.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "aol.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -2101,7 +2101,7 @@
         ]
     }, 
     "mgid.com": {
-        "grade": "F", 
+        "grade": "D", 
         "domain": "mgid.com", 
         "score": -4.0290785197053811, 
         "thirdparties": [
@@ -2123,7 +2123,7 @@
         ]
     }, 
     "mint.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "mint.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -2132,7 +2132,7 @@
         ]
     }, 
     "worldstarhiphop.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "worldstarhiphop.com", 
         "score": -3.750899241779373, 
         "thirdparties": [
@@ -2150,7 +2150,7 @@
         ]
     }, 
     "npr.org": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "npr.org", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -2158,7 +2158,7 @@
         ]
     }, 
     "superpages.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "superpages.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -2169,7 +2169,7 @@
         ]
     }, 
     "qvc.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "qvc.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -2178,7 +2178,7 @@
         ]
     }, 
     "ksl.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "ksl.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2531,7 +2531,7 @@
         ]
     }, 
     "redfin.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "redfin.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -2539,7 +2539,7 @@
         ]
     }, 
     "staples.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "staples.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -2550,7 +2550,7 @@
         ]
     }, 
     "avg.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "avg.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2558,7 +2558,7 @@
         ]
     }, 
     "breitbart.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "breitbart.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2566,7 +2566,7 @@
         ]
     }, 
     "victoriassecret.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "victoriassecret.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -2575,7 +2575,7 @@
         ]
     }, 
     "youtube.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "youtube.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2583,7 +2583,7 @@
         ]
     }, 
     "groupon.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "groupon.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2591,7 +2591,7 @@
         ]
     }, 
     "putlocker.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "putlocker.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2599,7 +2599,7 @@
         ]
     }, 
     "nhl.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "nhl.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2607,7 +2607,7 @@
         ]
     }, 
     "officedepot.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "officedepot.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -2618,7 +2618,7 @@
         ]
     }, 
     "united.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "united.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -2627,7 +2627,7 @@
         ]
     }, 
     "marketwatch.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "marketwatch.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -2639,7 +2639,7 @@
         ]
     }, 
     "nfl.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "nfl.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -2649,7 +2649,7 @@
         ]
     }, 
     "deviantart.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "deviantart.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -2657,7 +2657,7 @@
         ]
     }, 
     "mediatakeout.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "mediatakeout.com", 
         "score": -3.8953624843336678, 
         "thirdparties": [
@@ -2677,7 +2677,7 @@
         ]
     }, 
     "toysrus.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "toysrus.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -2685,7 +2685,7 @@
         ]
     }, 
     "slate.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "slate.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -2694,7 +2694,7 @@
         ]
     }, 
     "cnbc.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "cnbc.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -2705,7 +2705,7 @@
         ]
     }, 
     "bloomberg.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "bloomberg.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2713,7 +2713,7 @@
         ]
     }, 
     "shopathome.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "shopathome.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2721,7 +2721,7 @@
         ]
     }, 
     "retailmenot.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "retailmenot.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2729,7 +2729,7 @@
         ]
     }, 
     "theblaze.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "theblaze.com", 
         "score": -3.8246376541705498, 
         "thirdparties": [
@@ -2748,7 +2748,7 @@
         ]
     }, 
     "vistaprint.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "vistaprint.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -2760,7 +2760,7 @@
         ]
     }, 
     "tube8.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "tube8.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -2769,7 +2769,7 @@
         ]
     }, 
     "delta.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "delta.com", 
         "score": -1.9586122503861116, 
         "thirdparties": [
@@ -2779,7 +2779,7 @@
         ]
     }, 
     "seekingalpha.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "seekingalpha.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -2789,7 +2789,7 @@
         ]
     }, 
     "bedbathandbeyond.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "bedbathandbeyond.com", 
         "score": -1.7996936277882207, 
         "thirdparties": [
@@ -2798,7 +2798,7 @@
         ]
     }, 
     "shoplocal.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "shoplocal.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -2807,7 +2807,7 @@
         ]
     }, 
     "scribd.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "scribd.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -2819,7 +2819,7 @@
         ]
     }, 
     "zap2it.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "zap2it.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -2830,7 +2830,7 @@
         ]
     }, 
     "pornhub.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "pornhub.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -2839,7 +2839,7 @@
         ]
     }, 
     "newsmax.com": {
-        "grade": "C", 
+        "grade": "Cplus", 
         "domain": "newsmax.com", 
         "score": -2.092586846601673, 
         "thirdparties": [
@@ -2850,7 +2850,7 @@
         ]
     }, 
     "demonoid.me": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "demonoid.me", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2858,7 +2858,7 @@
         ]
     }, 
     "topix.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "topix.com", 
         "score": -3.673725676685863, 
         "thirdparties": [
@@ -2875,7 +2875,7 @@
         ]
     }, 
     "hubspot.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "hubspot.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -2885,7 +2885,7 @@
         ]
     }, 
     "ehow.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "ehow.com", 
         "score": -3.415462502133968, 
         "thirdparties": [
@@ -2899,7 +2899,7 @@
         ]
     }, 
     "homedepot.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "homedepot.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -2908,7 +2908,7 @@
         ]
     }, 
     "livejournal.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "livejournal.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -2918,7 +2918,7 @@
         ]
     }, 
     "fiverr.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "fiverr.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -2926,7 +2926,7 @@
         ]
     }, 
     "usmagazine.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "usmagazine.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -2935,7 +2935,7 @@
         ]
     }, 
     "egotastic.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "egotastic.com", 
         "score": -3.2106208353515679, 
         "thirdparties": [
@@ -2947,7 +2947,7 @@
         ]
     }, 
     "careerbuilder.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "careerbuilder.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -2958,7 +2958,7 @@
         ]
     }, 
     "go.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "go.com", 
         "score": -3.592586846601673, 
         "thirdparties": [
@@ -2974,7 +2974,7 @@
         ]
     }, 
     "accuweather.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "accuweather.com", 
         "score": -3.592586846601673, 
         "thirdparties": [
@@ -2990,7 +2990,7 @@
         ]
     }, 
     "match.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "match.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -3000,7 +3000,7 @@
         ]
     }, 
     "thepostgame.com": {
-        "grade": "D", 
+        "grade": "Dplus", 
         "domain": "thepostgame.com", 
         "score": -3.8246376541705498, 
         "thirdparties": [
@@ -3019,7 +3019,7 @@
         ]
     }, 
     "hp.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "hp.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -3027,7 +3027,7 @@
         ]
     }, 
     "rightnow.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "rightnow.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -3036,7 +3036,7 @@
         ]
     }, 
     "bestbuy.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "bestbuy.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -3044,7 +3044,7 @@
         ]
     }, 
     "patch.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "patch.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -3054,7 +3054,7 @@
         ]
     }, 
     "macys.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "macys.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -3062,7 +3062,7 @@
         ]
     }, 
     "livestrong.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "livestrong.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -3071,7 +3071,7 @@
         ]
     }, 
     "imdb.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "imdb.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -3080,7 +3080,7 @@
         ]
     }, 
     "cafemom.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "cafemom.com", 
         "score": -2.9586122503861114, 
         "thirdparties": [
@@ -3090,7 +3090,7 @@
         ]
     }, 
     "discover.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "discover.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -3098,7 +3098,7 @@
         ]
     }, 
     "empowernetwork.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "empowernetwork.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -3106,7 +3106,7 @@
         ]
     }, 
     "yellowpages.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "yellowpages.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -3114,7 +3114,7 @@
         ]
     }, 
     "hardsextube.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "hardsextube.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -3122,7 +3122,7 @@
         ]
     }, 
     "evite.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "evite.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
@@ -3130,7 +3130,7 @@
         ]
     }, 
     "okcupid.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "okcupid.com", 
         "score": -1.5925868466016733, 
         "thirdparties": [
@@ -3138,7 +3138,7 @@
         ]
     }, 
     "timeanddate.com": {
-        "grade": "C", 
+        "grade": "Bminus", 
         "domain": "timeanddate.com", 
         "score": -1.9586122503861116, 
         "thirdparties": [
@@ -3148,7 +3148,7 @@
         ]
     }, 
     "1and1.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "1and1.com", 
         "score": -2.799693627788221, 
         "thirdparties": [
@@ -3157,7 +3157,7 @@
         ]
     }, 
     "constantcontact.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "constantcontact.com", 
         "score": -3.3173317179932624, 
         "thirdparties": [
@@ -3170,7 +3170,7 @@
         ]
     }, 
     "csmonitor.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "csmonitor.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -3181,7 +3181,7 @@
         ]
     }, 
     "rr.com": {
-        "grade": "D", 
+        "grade": "Cminus", 
         "domain": "rr.com", 
         "score": -3.092586846601673, 
         "thirdparties": [
@@ -3192,7 +3192,7 @@
         ]
     }, 
     "hulu.com": {
-        "grade": "D", 
+        "grade": "C", 
         "domain": "hulu.com", 
         "score": -2.592586846601673, 
         "thirdparties": [
