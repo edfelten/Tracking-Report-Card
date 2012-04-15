@@ -198,20 +198,25 @@ TRC.core = function() {
 				trc_frame.setAttribute("collapsed",false);
 				trc_frame.setAttribute("resizable",true);
 				trc_frame.setAttribute("scrollable",true);
-				trc_frame.setAttribute("height","300px");
-				trc_frame.setAttribute("src","chrome://TRC/skin/displayPanel.html");	
+				trc_frame.setAttribute("height","200px");
+				var host = window.content.document.location.host;
+				var domainArray = host.split(".");
+				var domain = domainArray.slice((domainArray.length)-2).join(".");  
+				var profile = getCardForFirstParty(domain);
+				var card = {};
+				card[domain] = profile;
+				var strJson = JSON.stringify(card);
+				trc_frame.setAttribute("src","chrome://TRC/skin/displayPanel.html?json="+strJson);	
 				document.getElementById("main-window").appendChild(trc_frame);	
-				alert(window.content.document.location.host)
-				var profile = getPageProfile(window.content.document.location.host);
-				var strJson = JSON.stringify(profile);
+				
+			/*	trc_frame.setAttribute("json",strJson);	
 				var element = document.createElement("frame-parameter");
 				element.setAttribute("json", strJson);
-				element.setAttribute("attribute2", "hello world");
 				trc_frame.appendChild(element);
 				
 				var evt = document.createEvent("Events");
 				evt.initEvent("TRCEvent", true, false);
-				element.dispatchEvent(evt);
+				element.dispatchEvent(evt);*/
 				
 			} 	else {
 				document.getElementById("main-window").removeChild(trc_frame)
