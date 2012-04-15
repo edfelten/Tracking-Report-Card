@@ -51,6 +51,7 @@ output = {}
 topid_cookies = []
 thirdpartycount_per_first = {}
 thirdpartycount_per_third = {}
+thirdpartycount_per_firstthird = {}
 
 ipRE = re.compile(r"^https?://(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})/")
 domRE = re.compile(r"^https?://([^/]+?)/")
@@ -132,11 +133,22 @@ for phase, fn in files.items():
                         tpd[phase] = 1
                     thirdpartycount_per_third[fields['__TRC_cookie_domain']] = fpd
 
+                    try:
+                        ppd = thirdpartycount_per_firstthird[str ((fields['__TRC_destination_domain'],fields['__TRC_cookie_domain']))]
+                        ppd[phase] += 1
+                    except KeyError:
+                        ppd = dict([(k,0) for k in files.keys()])
+                        ppd[phase] = 1
+                    thirdpartycount_per_firstthird[str ((fields['__TRC_destination_domain'],fields['__TRC_cookie_domain']))] = ppd
+
                 topid_cookies.append(cookies) # FIXME?
         except Cookie.CookieError:
             print >> sys.stderr, "python's Cookie seems broken; discarding cookie entirely"
     output[phase] = topid_cookies
 
-#j = json.dumps(thirdpartycount_per_first, indent=4)
-j = json.dumps(thirdpartycount_per_third, indent=4)
-print j
+of1st = open("input_first.json", "w")
+of3rd = open("input_third.json", "w")
+ofpair = open("input_first-third.json", "w")
+json.dump(thirdpartycount_per_first, of1st, indent=4)
+json.dump(thirdpartycount_per_third, of3rd, indent=4)
+json.dump(thirdpartycount_per_firstthird, ofpair, indent=4)
