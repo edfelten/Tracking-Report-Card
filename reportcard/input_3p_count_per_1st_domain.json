@@ -1,92 +1,267 @@
 {
-    "yahoo.com": {
-        "dnt": 10, 
-        "beeftaco": 8, 
-        "defaults": 7
-    }, 
     "msn.com": {
-        "dnt": 18, 
-        "beeftaco": 24, 
-        "defaults": 27
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
     }, 
-    "bing.com": {
-        "dnt": 7, 
-        "beeftaco": 7, 
-        "defaults": 7
-    }, 
-    "wordpress.com": {
-        "dnt": 3, 
-        "beeftaco": 3, 
-        "defaults": 3
-    }, 
-    "huffingtonpost.com": {
-        "dnt": 38, 
-        "beeftaco": 37, 
-        "defaults": 37
+    "yieldmanager.com": {
+        "dnt": 45, 
+        "beeftaco": 46, 
+        "defaults": 48
     }, 
     "youtube.com": {
-        "dnt": 3, 
-        "beeftaco": 3, 
-        "defaults": 3
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
     }, 
     "ebay.com": {
-        "dnt": 10, 
-        "beeftaco": 10, 
-        "defaults": 10
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
     }, 
-    "amazon.com": {
-        "dnt": 4, 
-        "beeftaco": 6, 
-        "defaults": 6
+    "scorecardresearch.com": {
+        "dnt": 65, 
+        "beeftaco": 73, 
+        "defaults": 74
     }, 
-    "aol.com": {
-        "dnt": 13, 
-        "beeftaco": 13, 
-        "defaults": 13
+    "adsonar.com": {
+        "dnt": 65, 
+        "beeftaco": 73, 
+        "defaults": 74
     }, 
-    "mozilla.org": {
+    "questionmarket.com": {
+        "dnt": 67, 
+        "beeftaco": 99, 
+        "defaults": 72
+    }, 
+    "suitesmart.com": {
+        "dnt": 43, 
+        "beeftaco": 46, 
+        "defaults": 61
+    }, 
+    "atdmt.com": {
+        "dnt": 65, 
+        "beeftaco": 73, 
+        "defaults": 74
+    }, 
+    "ugdturner.com": {
+        "dnt": 43, 
+        "beeftaco": 46, 
+        "defaults": 61
+    }, 
+    "hrblock.com": {
+        "dnt": 33, 
+        "beeftaco": 45, 
+        "defaults": 52
+    }, 
+    "insightexpressai.com": {
+        "dnt": 43, 
+        "beeftaco": 46, 
+        "defaults": 61
+    }, 
+    "omtrdc.net": {
         "dnt": 1, 
-        "beeftaco": 1, 
-        "defaults": 1
-    }, 
-    "paypal.com": {
-        "dnt": 1, 
-        "beeftaco": 1, 
-        "defaults": 1
-    }, 
-    "twitter.com": {
-        "dnt": 1, 
-        "beeftaco": 1, 
-        "defaults": 1
-    }, 
-    "cnn.com": {
-        "dnt": 23, 
-        "beeftaco": 24, 
-        "defaults": 31
-    }, 
-    "UNKNOWN": {
-        "dnt": 134, 
-        "beeftaco": 134, 
-        "defaults": 134
-    }, 
-    "go.com": {
-        "dnt": 39, 
-        "beeftaco": 53, 
-        "defaults": 39
-    }, 
-    "netflix.com": {
-        "dnt": 24, 
-        "beeftaco": 23, 
-        "defaults": 24
-    }, 
-    "tumblr.com": {
-        "dnt": 1, 
-        "beeftaco": 1, 
-        "defaults": 1
+        "beeftaco": 2, 
+        "defaults": 2
     }, 
     "linkedin.com": {
-        "dnt": 5, 
-        "beeftaco": 5, 
-        "defaults": 5
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "bing.com": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "doubleclick.net": {
+        "dnt": 65, 
+        "beeftaco": 73, 
+        "defaults": 74
+    }, 
+    "huffingtonpost.com": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "pointroll.com": {
+        "dnt": 67, 
+        "beeftaco": 99, 
+        "defaults": 72
+    }, 
+    "twitter.com": {
+        "dnt": 65, 
+        "beeftaco": 73, 
+        "defaults": 74
+    }, 
+    "visiblemeasures.com": {
+        "dnt": 67, 
+        "beeftaco": 99, 
+        "defaults": 72
+    }, 
+    "atwola.com": {
+        "dnt": 65, 
+        "beeftaco": 73, 
+        "defaults": 74
+    }, 
+    "facebook.com": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "netflix.com": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "amazon-adsystem.com": {
+        "dnt": 7, 
+        "beeftaco": 12, 
+        "defaults": 12
+    }, 
+    "imrworldwide.com": {
+        "dnt": 65, 
+        "beeftaco": 73, 
+        "defaults": 74
+    }, 
+    "quantserve.com": {
+        "dnt": 65, 
+        "beeftaco": 73, 
+        "defaults": 74
+    }, 
+    "voicefive.com": {
+        "dnt": 65, 
+        "beeftaco": 73, 
+        "defaults": 74
+    }, 
+    "adnxs.com": {
+        "dnt": 45, 
+        "beeftaco": 46, 
+        "defaults": 48
+    }, 
+    ".localhost": {
+        "dnt": 18, 
+        "beeftaco": 16, 
+        "defaults": 14
+    }, 
+    "craigslist.org": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "live.com": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "abmr.net": {
+        "dnt": 13, 
+        "beeftaco": 14, 
+        "defaults": 14
+    }, 
+    "audienceiq.com": {
+        "dnt": 18, 
+        "beeftaco": 16, 
+        "defaults": 14
+    }, 
+    "vindicosuite.com": {
+        "dnt": 67, 
+        "beeftaco": 99, 
+        "defaults": 72
+    }, 
+    "amazon.com": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "go.com": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "match.com": {
+        "dnt": 33, 
+        "beeftaco": 45, 
+        "defaults": 52
+    }, 
+    "yahoo.com": {
+        "dnt": 67, 
+        "beeftaco": 99, 
+        "defaults": 72
+    }, 
+    "advertising.com": {
+        "dnt": 65, 
+        "beeftaco": 73, 
+        "defaults": 74
+    }, 
+    "ebayrtm.com": {
+        "dnt": 19, 
+        "beeftaco": 20, 
+        "defaults": 20
+    }, 
+    "pinterest.com": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "tumblr.com": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "google.com": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "revsci.net": {
+        "dnt": 43, 
+        "beeftaco": 46, 
+        "defaults": 61
+    }, 
+    "co.uk": {
+        "dnt": 65, 
+        "beeftaco": 73, 
+        "defaults": 74
+    }, 
+    "aol.com": {
+        "dnt": 65, 
+        "beeftaco": 73, 
+        "defaults": 74
+    }, 
+    "zedo.com": {
+        "dnt": 43, 
+        "beeftaco": 46, 
+        "defaults": 61
+    }, 
+    "paypal.com": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
+    }, 
+    "fwmrm.net": {
+        "dnt": 67, 
+        "beeftaco": 99, 
+        "defaults": 72
+    }, 
+    "casalemedia.com": {
+        "dnt": 45, 
+        "beeftaco": 46, 
+        "defaults": 48
+    }, 
+    "surveygizmo.com": {
+        "dnt": 1, 
+        "beeftaco": 2, 
+        "defaults": 2
+    }, 
+    "healthheadlines.com": {
+        "dnt": 43, 
+        "beeftaco": 46, 
+        "defaults": 61
+    }, 
+    "cnn.com": {
+        "dnt": 250, 
+        "beeftaco": 269, 
+        "defaults": 268
     }
 }
