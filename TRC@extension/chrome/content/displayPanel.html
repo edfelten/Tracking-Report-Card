@@ -26,16 +26,21 @@
             </ul>
     </div>
     <div id="trcSubPanel3" class="trcSubPanel">
-            <div id="domainName2">"Neque porro quisquam est qui dolorem
+            <div id="domainName3">"Neque porro quisquam est qui dolorem
 ipsum quia dolor sit amet, consectetur, adipisci velit..."</div>
     </div>
 </div>
 
 <script>
-
-    $(document).ready(function() {
-        
-        var testData = { "nytimes.com": {
+//document.addEventListener("MyExtensionEvent", function(e) { myExtension.myListener(e); }, false, true);
+  var param = unescape(window.location.href.split("?")[1].split("=")[1]);//.replace(/\%22/s, '"');
+  var testData = JSON.parse(param) ;
+  displayData.showData(testData);
+ /*   $(document).ready(function() {
+		
+        var param = document.location.split("?")[1];
+		var testData = JSON.parse(param) ;
+       /*var testData = { "nytimes.com": {
             "grade": "F",
             "domain": "nytimes.com",
             "score": -0.5126406414924147,
@@ -48,6 +53,6 @@ ipsum quia dolor sit amet, consectetur, adipisci velit..."</div>
     
         displayData.showData(testData);
 
-    });
+    });*/
 
 </script>

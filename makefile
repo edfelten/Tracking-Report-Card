@@ -1,4 +1,4 @@
-package : clean cookies
+package : clean 
 	cd TRC@extension && zip -r ../Tracking_Report_Card.xpi * && cd ..
 
 clean :
