@@ -1,0 +1,99 @@
+{"nytimes.com": {"grade": "F", "domain": "nytimes.com", "score":
+-0.51264064149241473, "thirdparties": ["doubleclick.net", "felten.com",
+"feedstarvingafricanorphans.org"]}, "middleearthonline.com": {"grade":
+"F", "domain": "middleearthonline.com", "score": -3.1948033962966322,
+"thirdparties": ["facebook.com", "felten.com"]}, "hulu.com": {"grade":
+"F", "domain": "hulu.com", "score": -4.7805898339235373, "thirdparties":
+["facebook.com"]}, "weightwatchers.com": {"grade": "F", "domain":
+"weightwatchers.com", "score": -3.1948033962966322, "thirdparties":
+["benjerry.com", "facebook.com"]}, "awesomefamiliesofearth.com":
+{"grade": "F", "domain": "awesomefamiliesofearth.com", "score":
+0.21941016607646247, "thirdparties": ["felten.com"]}, "facebook.com":
+{"grade": "F", "domain": "facebook.com", "score": -4.7805898339235373,
+"thirdparties": ["eonline.com"]}, "donottrack.us": {"grade": "F",
+"domain": "donottrack.us", "score": 0.21941016607646247, "thirdparties":
+["doubleclick.net"]}, "iloveronaldreagan.com": {"grade": "F", "domain":
+"iloveronaldreagan.com", "score": -4.7805898339235373, "thirdparties":
+["ricksantorum.com"]}, "yelp.com": {"grade": "F", "domain": "yelp.com",
+"score": -3.1948033962966322, "thirdparties": ["benjerry.com",
+"facebook.com"]}}
+
+{
+    "nytimes.com": {
+        "grade": "F",
+        "domain": "nytimes.com",
+        "score": -0.5126406414924147,
+        "thirdparties": [
+            "doubleclick.net",
+            "felten.com",
+            "feedstarvingafricanorphans.org"
+        ]
+    },
+    "middleearthonline.com": {
+        "grade": "F",
+        "domain": "middleearthonline.com",
+        "score": -3.1948033962966322,
+        "thirdparties": [
+            "facebook.com",
+            "felten.com"
+        ]
+    },
+    "hulu.com": {
+        "grade": "F",
+        "domain": "hulu.com",
+        "score": -4.780589833923537,
+        "thirdparties": [
+            "facebook.com"
+        ]
+    },
+    "weightwatchers.com": {
+        "grade": "F",
+        "domain": "weightwatchers.com",
+        "score": -3.1948033962966322,
+        "thirdparties": [
+            "benjerry.com",
+            "facebook.com"
+        ]
+    },
+    "awesomefamiliesofearth.com": {
+        "grade": "F",
+        "domain": "awesomefamiliesofearth.com",
+        "score": 0.21941016607646247,
+        "thirdparties": [
+            "felten.com"
+        ]
+    },
+    "facebook.com": {
+        "grade": "F",
+        "domain": "facebook.com",
+        "score": -4.780589833923537,
+        "thirdparties": [
+            "eonline.com"
+        ]
+    },
+    "donottrack.us": {
+        "grade": "F",
+        "domain": "donottrack.us",
+        "score": 0.21941016607646247,
+        "thirdparties": [
+            "doubleclick.net"
+        ]
+    },
+    "iloveronaldreagan.com": {
+        "grade": "F",
+        "domain": "iloveronaldreagan.com",
+        "score": -4.780589833923537,
+        "thirdparties": [
+            "ricksantorum.com"
+        ]
+    },
+    "yelp.com": {
+        "grade": "F",
+        "domain": "yelp.com",
+        "score": -3.1948033962966322,
+        "thirdparties": [
+            "benjerry.com",
+            "facebook.com"
+        ]
+    }
+}

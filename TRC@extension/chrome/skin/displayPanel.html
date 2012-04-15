@@ -1,10 +1,12 @@
 <link rel=StyleSheet href="css/reset.css" type="text/css" media=screen>
 <link rel=StyleSheet href="css/displayPanel.css" type="text/css" media=screen>
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/displayPanel.js"></script>
 
 <div id="trcPanel" class="on">
     <div id="trcTopBar">Tracking Report Card</div>
     <div id="trcSubPanel1" class="trcSubPanel">
-            <img class="gradeImg" src="./images/grade_A.png"> 
+            <img id="gradeImg" src="./images/grade_A.png"> 
             <div id="domainName">www.example.com</div>
             <div id="cookieMsg">Third Party Cookies: Y</div> 
     </div>
@@ -27,3 +29,24 @@
             <div id="domainName2">www.example.com</div>
     </div>
 </div>
+
+<script>
+
+    $(document).ready(function() {
+        
+        var testData = { "nytimes.com": {
+            "grade": "F",
+            "domain": "nytimes.com",
+            "score": -0.5126406414924147,
+            "thirdparties": [
+                "doubleclick.net",
+                "felten.com",
+                "feedstarvingafricanorphans.org"
+            ]
+        }};
+    
+        displayData.showData(testData);
+
+    });
+
+</script>

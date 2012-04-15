@@ -58,7 +58,7 @@
     overflow: auto;
 }
 
-.gradeImg {
+#gradeImg {
     padding-left: 20%;
     padding-right: 10%;
     height: 100px;
