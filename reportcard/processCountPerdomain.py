@@ -29,22 +29,23 @@ companies = json.load(companiesFile)
 
 dict3p = {}
 for doms in inputDict.keys():
-  (d1p, d3p) = doms.split('/')
-  if d3p:  # ignore empty domain name--covers for bug earlier in the pipeline?
-    vals = inputDict[doms]
-    dnt = vals['dnt']['count']
-    beeftaco = vals['beeftaco']['count']
-    defaults = vals['defaults']['count']
-    if d3p in dict3p:
-      dict3p[d3p]['dnt'] += dnt
-      dict3p[d3p]['beeftaco'] += beeftaco
-      dict3p[d3p]['defaults'] += defaults
-    else:
-      dict3p[d3p] = {
-        'dnt': dnt,
-        'beeftaco': beeftaco,
-        'defaults': defaults
-      }
+  if not doms.lower().startswith('unknown'):
+    (d1p, d3p) = doms.split('/')
+    if d3p:  # ignore empty domain name--covers for bug earlier in the pipeline?
+      vals = inputDict[doms]
+      dnt = vals['dnt']['count']
+      beeftaco = vals['beeftaco']['count']
+      defaults = vals['defaults']['count']
+      if d3p in dict3p:
+        dict3p[d3p]['dnt'] += dnt
+        dict3p[d3p]['beeftaco'] += beeftaco
+        dict3p[d3p]['defaults'] += defaults
+      else:
+        dict3p[d3p] = {
+          'dnt': dnt,
+          'beeftaco': beeftaco,
+          'defaults': defaults
+        }
 
 outArr = []
 for d3p in dict3p.keys():

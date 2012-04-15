@@ -10,1027 +10,7 @@
         }
     }, 
     {
-        "domain": "4shared.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "quora.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "slickdeals.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "adp.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "adsonar.com", 
-        "company": "AOL Sponsored Listings (Quigo)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "manta.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "atdmt.com", 
-        "company": "Microsoft Advertising", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "accuweather.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "1shoppingcart.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "2o7.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "rottentomatoes.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "zazzle.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "optimum.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "citibank.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "1channel.ch", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "klout.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "cbssports.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "zeekrewards.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "exelator.com", 
-        "company": "eXelate Media", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "expedia.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "youjizz.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "vindicosuite.com", 
-        "company": "Vindico (Broadband Enterprises)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "ebayrtm.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "gotomeeting.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "orbitz.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "pandora.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "contextweb.com", 
-        "company": "ContextWeb (ADSDAQ)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "photobucket.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "tripadvisor.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "cox.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "rfihub.com", 
-        "company": "Rocket Fuel", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "nextag.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "hilton.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "icontact.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "hootsuite.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "casalemedia.com", 
-        "company": "Casale Media", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "sfgate.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "lockoutfilm.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "openx.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "dropbox.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "w3schools.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "webtrendslive.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "edgesuite.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": false, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "fullsail.edu", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "directv.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "infusionsoft.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "nexac.com", 
-        "company": "DataLogix", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "pulse360.com", 
-        "company": "Pulse360", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": false, 
-            "usesTrackingCookie": false, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "elance.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "schwab.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "simplyhired.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "fidelity.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "mookie1.com", 
-        "company": "Xaxis", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "kat.ph", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "warriorforum.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": false, 
-            "usesTrackingCookie": false, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "hotels.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "bankofamerica.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "qvc.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "searchnu.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "crwdcntrl.net", 
-        "company": "Lotame (CrowdControl)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "forbes.com", 
-        "company": "Forbes Media Extension", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "tmz.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "tubemogul.com", 
-        "company": "TubeMogul", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "meebo.com", 
-        "company": "Meebo", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "hsbccreditcard.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "kbb.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "bitly.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "chango.com", 
-        "company": "Chango", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "verizon.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "filestube.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "co.in", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "cbsnews.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "fool.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "vimeo.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "tellapart.com", 
-        "company": "TellApart", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "wigetmedia.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "cnet.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "howstuffworks.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "adf.ly", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "citysearch.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "paypal.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "swagbucks.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "ksl.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "jetblue.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "wsj.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "spankwire.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "realmedia.com", 
-        "company": "24/7 Real Media", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "linkedin.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "shopathome.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "adnxs.com", 
-        "company": "YellowHammer", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "hubspot.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "ehow.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "burstnet.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "ingdirect.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "ning.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "go.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "eversave.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "imdb.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "shutterfly.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "logmein.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "okcupid.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "1and1.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "mcssl.com", 
+        "domain": "premiereinteractive.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1050,7 +30,7 @@
         }
     }, 
     {
-        "domain": "rr.com", 
+        "domain": "burstnet.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1060,8 +40,8 @@
         }
     }, 
     {
-        "domain": "travelocity.com", 
-        "company": "unknown", 
+        "domain": "scorecardresearch.com", 
+        "company": "Full Circle Studies (Comscore)", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -1070,17 +50,47 @@
         }
     }, 
     {
-        "domain": "myfitnesspal.com", 
-        "company": "unknown", 
+        "domain": "adsonar.com", 
+        "company": "AOL Sponsored Listings (Quigo)", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
-        "domain": "secureserver.net", 
+        "domain": "atdmt.com", 
+        "company": "Microsoft Advertising", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "richrelevance.com", 
+        "company": "RichRelevance", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "hiro.tv", 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "2o7.net", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1100,28 +110,38 @@
         }
     }, 
     {
-        "domain": "ed.gov", 
+        "domain": "unicornapp.com", 
         "company": "unknown", 
         "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookieOnOptOut": false, 
             "usesTrackingCookie": true, 
             "evil": false, 
             "usesTrackingCookieOnDNT": false
         }
     }, 
     {
-        "domain": "edmunds.com", 
+        "domain": "adbrite.com", 
+        "company": "adBrite", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "admeld.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
-        "domain": "jcpenney.com", 
-        "company": "unknown", 
+        "domain": "adap.tv", 
+        "company": "adap.tv", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -1150,17 +170,17 @@
         }
     }, 
     {
-        "domain": "netflix.com", 
-        "company": "unknown", 
+        "domain": "addthis.com", 
+        "company": "AddThis", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
-        "domain": "xdating.com", 
+        "domain": "agkn.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1170,8 +190,28 @@
         }
     }, 
     {
-        "domain": "flickr.com", 
-        "company": "unknown", 
+        "domain": "demdex.net", 
+        "company": "Adobe AudienceManager (formerly Demdex)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "fastclick.net", 
+        "company": "ValueClick Media", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "exelator.com", 
+        "company": "eXelate Media", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -1190,7 +230,7 @@
         }
     }, 
     {
-        "domain": "wimp.com", 
+        "domain": "llnwd.net", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1200,8 +240,8 @@
         }
     }, 
     {
-        "domain": "redtube.com", 
-        "company": "unknown", 
+        "domain": "contextweb.com", 
+        "company": "ContextWeb (ADSDAQ)", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -1210,8 +250,28 @@
         }
     }, 
     {
-        "domain": "about.com", 
+        "domain": "abmr.net", 
+        "company": "Akamai", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "domain": "salesforce.com", 
         "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "domain": "tremormedia.com", 
+        "company": "Tremor Video", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -1220,7 +280,17 @@
         }
     }, 
     {
-        "domain": "ca.gov", 
+        "domain": "vindicosuite.com", 
+        "company": "Vindico (Broadband Enterprises)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "ebayrtm.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1240,7 +310,7 @@
         }
     }, 
     {
-        "domain": "engadget.com", 
+        "domain": "vmm-satellite1.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1250,7 +320,7 @@
         }
     }, 
     {
-        "domain": "barnesandnoble.com", 
+        "domain": "andomedia.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1270,18 +340,8 @@
         }
     }, 
     {
-        "domain": "seekingalpha.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "hubpages.com", 
-        "company": "unknown", 
+        "domain": "connexity.net", 
+        "company": "Connexity", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -1296,7 +356,7 @@
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
@@ -1310,7 +370,37 @@
         }
     }, 
     {
-        "domain": "demonoid.me", 
+        "domain": "rfihub.com", 
+        "company": "Rocket Fuel", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "casalemedia.com", 
+        "company": "Casale Media", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "yieldmanager.com", 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "lockoutfilm.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1320,7 +410,7 @@
         }
     }, 
     {
-        "domain": "gizmodo.com", 
+        "domain": "openx.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1330,10 +420,10 @@
         }
     }, 
     {
-        "domain": "oggifinogi.com", 
-        "company": "Oggifinogi, Inc.", 
+        "domain": "visiblemeasures.com", 
+        "company": "Visible Measures", 
         "behavior": {
-            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
             "usesTrackingCookieOnDNT": false
@@ -1350,7 +440,7 @@
         }
     }, 
     {
-        "domain": "discovery.com", 
+        "domain": "bridgetrack.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1360,7 +450,7 @@
         }
     }, 
     {
-        "domain": "sears.com", 
+        "domain": ".localhost", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1370,7 +460,17 @@
         }
     }, 
     {
-        "domain": "nick.com", 
+        "domain": "pointroll.com", 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "comcast.net", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1380,7 +480,27 @@
         }
     }, 
     {
-        "domain": "cracked.com", 
+        "domain": "collective-media.net", 
+        "company": "Collective", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "adshuffle.com", 
+        "company": "AdShuffle", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "domain": "webtrendslive.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1390,13 +510,13 @@
         }
     }, 
     {
-        "domain": "local.com", 
-        "company": "unknown", 
+        "domain": "doubleclick.net", 
+        "company": "Google Display Network (Doubleclick)", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
@@ -1410,17 +530,17 @@
         }
     }, 
     {
-        "domain": "bizographics.com", 
-        "company": "Bizo", 
+        "domain": "omtrdc.net", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
-        "domain": "bigfishgames.com", 
+        "domain": "openxenterprise.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1450,27 +570,47 @@
         }
     }, 
     {
-        "domain": "babycenter.com", 
+        "domain": "edgesuite.net", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
+            "usesTrackingCookie": false, 
             "evil": false, 
             "usesTrackingCookieOnDNT": false
         }
     }, 
     {
-        "domain": "citrixonline.com", 
+        "domain": "imagelly.com", 
         "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": false, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "lijit.com", 
+        "company": "Lijit Networks", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
-        "domain": "mtv.com", 
+        "domain": "pulsemgr.com", 
+        "company": "Buysight (formerly Permuto)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "fullsail.edu", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1500,2406 +640,6 @@
         }
     }, 
     {
-        "domain": "fandango.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "zillow.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "(null)", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "amazon.com", 
-        "company": "Amazon Associates", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "gamefaqs.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "slideshare.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "getresponse.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "etsy.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "pinterest.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "networksolutions.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "americanexpress.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "bluehost.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "fiverr.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "zedo.com", 
-        "company": "Zedo", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "ew.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "msn.com", 
-        "company": "Microsoft Advertising", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "aweber.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "adultfriendfinder.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "nypost.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "comcast.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "tribalfusion.com", 
-        "company": "Exponential (Tribal Fusion, Full Tango)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "pch.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "mediafire.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "omtrdc.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "samsclub.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "digg.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "mylife.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "trulia.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "charter.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "gilt.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "washingtonpost.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "bizjournals.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": false, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "livingsocial.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "adbrite.com", 
-        "company": "adBrite", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "gcion.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "webmd.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "hotwire.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "mapquest.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "superpages.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "outbrain.com", 
-        "company": "outbrain", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "breitbart.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "groupon.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "scottrade.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "youtube.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "united.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "marketwatch.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "deviantart.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "cnbc.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "odesk.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "raasnet.com", 
-        "company": "Red Aril", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "topix.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "kmart.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "interclick.com", 
-        "company": "interclick", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "reddit.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "clickbank.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "mediaplex.com", 
-        "company": "Mediaplex", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "rlcdn.com", 
-        "company": "RapLeaf", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "e-rewards.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "indeed.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "careerbuilder.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "adblade.com", 
-        "company": "Adblade", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "thepiratebay.se", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "bhphotovideo.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "rubiconproject.com", 
-        "company": "Rubicon Project", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "battle.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "livestrong.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "cafemom.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "xtube.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "premiereinteractive.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "list-manage.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "wikia.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "taleo.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "website-unavailable.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "buy.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "usbank.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "unicornapp.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": false, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "istockphoto.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "adap.tv", 
-        "company": "adap.tv", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "eonline.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "pof.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "surveymonkey.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "fastclick.net", 
-        "company": "ValueClick Media", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "craigslist.org", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "tremormedia.com", 
-        "company": "Tremor Video", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "cnn.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "walmart.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "merchantcircle.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "nytimes.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "keezmovies.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "fatwallet.mobi", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "ask.com", 
-        "company": "Ask.com (askeraser)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "legacy.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "ancestry.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "sprint.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "yieldmanager.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "visiblemeasures.com", 
-        "company": "Visible Measures", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "pogo.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "opentable.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "kohls.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "comcast.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "collective-media.net", 
-        "company": "Collective", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "unicornmedia.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": false, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "openxenterprise.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "mayoclinic.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "weebly.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "wunderground.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "att.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "domaintools.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "w55c.net", 
-        "company": "DataXu", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "whitepages.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "pnc.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "allrecipes.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "shutterstock.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "fetchback.com", 
-        "company": "FetchBack", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "yahoo.com", 
-        "company": "Yahoo! Ad Network", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "people.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "cars.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "twitpic.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "ign.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "priceline.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "yelp.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "sitesell.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "zimbio.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "imageshack.us", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "bleacherreport.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "search-results.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "gap.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "archive.org", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "putlocker.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "adam4adam.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "meetup.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "zulily.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "eventbrite.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "victoriassecret.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "stumbleupon.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "stubhub.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "warriorplus.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "atwola.com", 
-        "company": "Advertising.com (AOL)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "calottery.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "sourceforge.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "macys.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "nickjr.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "att.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "boston.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "goodreads.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "babylon.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "lifehacker.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "alibaba.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "inbox.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "urbanspoon.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "aol.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "tumri.net", 
-        "company": "Tumri", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "mint.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "officedepot.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "staples.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "toysrus.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "benaughty.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "vzw.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "shld.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "xxxmatch.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "effectivemeasure.net", 
-        "company": "Effective Measure", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "bing.com", 
-        "company": "Microsoft Advertising", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "tigerdirect.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "myfreecams.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "bbb.org", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "pornhub.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "auditude.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "serving-sys.com", 
-        "company": "Mediamind (Eyeblaster)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "usmagazine.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "conversionruler.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "godaddy.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "abmr.net", 
-        "company": "Akamai", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "redbox.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "bestbuy.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "google.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "myyearbook.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "buyservices.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "openx.net", 
-        "company": "OpenX", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "timeanddate.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "pbskids.org", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "constantcontact.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "themeforest.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "costco.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "verizonwireless.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "scorecardresearch.com", 
-        "company": "Full Circle Studies (Comscore)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "southwest.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "trb.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "autotrader.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "modelmayhem.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "richrelevance.com", 
-        "company": "RichRelevance", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "hsn.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "newegg.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "drugstore.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "huffingtonpost.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "imgur.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "admeld.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "bizrate.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "examiner.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "addthis.com", 
-        "company": "AddThis", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "agkn.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "capitalone.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "nbc.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "demdex.net", 
-        "company": "Adobe AudienceManager (formerly Demdex)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "ticketmaster.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "coupons.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "youporn.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "llnwd.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "github.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "biblegateway.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "seomoz.org", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "salesforce.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "reference.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "tube8.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "walgreens.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "vmm-satellite1.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "andomedia.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "zappos.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "connexity.net", 
-        "company": "Connexity", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "microsoft.com", 
-        "company": "Microsoft Advertising", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "webs.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "target.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "usaa.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "buzzfeed.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "tagged.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "t-mobile.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "teracent.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": false, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "aa.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "bridgetrack.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "ikea.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "pointroll.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "homedepot.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "adshuffle.com", 
-        "company": "AdShuffle", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "livejasmin.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "doubleclick.net", 
-        "company": "Google Display Network (Doubleclick)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "hiro.tv", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": false, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "imagelly.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": false, 
-            "usesTrackingCookie": false, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "lijit.com", 
-        "company": "Lijit Networks", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "dailymotion.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "dell.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "ups.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
         "domain": "voicefive.com", 
         "company": "unknown", 
         "behavior": {
@@ -3907,16 +647,6 @@
             "usesTrackingCookie": true, 
             "evil": false, 
             "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "quibids.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
@@ -3930,8 +660,18 @@
         }
     }, 
     {
-        "domain": ".localhost", 
-        "company": "unknown", 
+        "domain": "w55c.net", 
+        "company": "DataXu", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "domain": "nexac.com", 
+        "company": "DataLogix", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -3940,13 +680,13 @@
         }
     }, 
     {
-        "domain": "cam4.com", 
-        "company": "unknown", 
+        "domain": "pulse360.com", 
+        "company": "Pulse360", 
         "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": false, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
@@ -3960,18 +700,18 @@
         }
     }, 
     {
-        "domain": "overstock.com", 
-        "company": "unknown", 
+        "domain": "amazon.com", 
+        "company": "Amazon Associates", 
         "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": false, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
-        "domain": "drtuber.com", 
-        "company": "unknown", 
+        "domain": "fetchback.com", 
+        "company": "FetchBack", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -3996,41 +736,11 @@
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "tumblr.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
         "domain": "adition.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "force.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "wix.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -4050,8 +760,18 @@
         }
     }, 
     {
-        "domain": "gamestop.com", 
-        "company": "unknown", 
+        "domain": "zedo.com", 
+        "company": "Zedo", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "mookie1.com", 
+        "company": "Xaxis", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -4060,78 +780,18 @@
         }
     }, 
     {
-        "domain": "sodahead.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "lowes.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "mywebsearch.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "bbc.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "earthlink.net", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "ebay.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "live.com", 
+        "domain": "msn.com", 
         "company": "Microsoft Advertising", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
-        "domain": "suntrust.com", 
-        "company": "unknown", 
+        "domain": "tribalfusion.com", 
+        "company": "Exponential (Tribal Fusion, Full Tango)", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -4140,38 +800,8 @@
         }
     }, 
     {
-        "domain": "statcounter.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "pulsemgr.com", 
-        "company": "Buysight (formerly Permuto)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "match.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "hornymatches.com", 
-        "company": "unknown", 
+        "domain": "crwdcntrl.net", 
+        "company": "Lotame (CrowdControl)", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -4180,8 +810,8 @@
         }
     }, 
     {
-        "domain": "blackhatworld.com", 
-        "company": "unknown", 
+        "domain": "bizographics.com", 
+        "company": "Bizo", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -4190,8 +820,18 @@
         }
     }, 
     {
-        "domain": "scout.com", 
-        "company": "unknown", 
+        "domain": "tubemogul.com", 
+        "company": "TubeMogul", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "chango.com", 
+        "company": "Chango", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -4206,7 +846,7 @@
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
@@ -4220,16 +860,6 @@
         }
     }, 
     {
-        "domain": "6pm.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
         "domain": "autotraderstatic.com", 
         "company": "unknown", 
         "behavior": {
@@ -4240,8 +870,28 @@
         }
     }, 
     {
-        "domain": "answers.com", 
+        "domain": "youtube.com", 
         "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "domain": "teracent.net", 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "domain": "atwola.com", 
+        "company": "Advertising.com (AOL)", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -4250,7 +900,7 @@
         }
     }, 
     {
-        "domain": "marriott.com", 
+        "domain": "brand-server.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -4270,23 +920,13 @@
         }
     }, 
     {
-        "domain": "empowernetwork.com", 
-        "company": "unknown", 
+        "domain": "tellapart.com", 
+        "company": "TellApart", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
             "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "chase.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
@@ -4320,17 +960,7 @@
         }
     }, 
     {
-        "domain": "cafepress.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "sustatic.com", 
+        "domain": "gcion.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -4340,7 +970,7 @@
         }
     }, 
     {
-        "domain": "plentyoffish.com", 
+        "domain": "aol.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -4350,8 +980,8 @@
         }
     }, 
     {
-        "domain": "redfin.com", 
-        "company": "unknown", 
+        "domain": "tumri.net", 
+        "company": "Tumri", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -4360,7 +990,7 @@
         }
     }, 
     {
-        "domain": "avg.com", 
+        "domain": "vzw.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -4370,37 +1000,7 @@
         }
     }, 
     {
-        "domain": "rightnow.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "eharmony.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "wellsfargo.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "domain": "myspace.com", 
+        "domain": "trb.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -4420,8 +1020,8 @@
         }
     }, 
     {
-        "domain": "yellowpages.com", 
-        "company": "unknown", 
+        "domain": "realmedia.com", 
+        "company": "24/7 Real Media", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -4430,18 +1030,8 @@
         }
     }, 
     {
-        "domain": "td.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "fedex.com", 
-        "company": "unknown", 
+        "domain": "effectivemeasure.net", 
+        "company": "Effective Measure", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -4450,43 +1040,13 @@
         }
     }, 
     {
-        "domain": "vistaprint.com", 
-        "company": "unknown", 
+        "domain": "bing.com", 
+        "company": "Microsoft Advertising", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "delta.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "bedbathandbeyond.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "shoplocal.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
@@ -4500,13 +1060,13 @@
         }
     }, 
     {
-        "domain": "newsmax.com", 
-        "company": "unknown", 
+        "domain": "raasnet.com", 
+        "company": "Red Aril", 
         "behavior": {
-            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
@@ -4520,7 +1080,7 @@
         }
     }, 
     {
-        "domain": "brand-server.com", 
+        "domain": "auditude.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -4530,8 +1090,98 @@
         }
     }, 
     {
+        "domain": "adnxs.com", 
+        "company": "YellowHammer", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "interclick.com", 
+        "company": "interclick", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "serving-sys.com", 
+        "company": "Mediamind (Eyeblaster)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "domain": "vimeo.com", 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "domain": "mediaplex.com", 
+        "company": "Mediaplex", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "domain": "conversionruler.com", 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "domain": "rlcdn.com", 
+        "company": "RapLeaf", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "domain": "sodahead.com", 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
         "domain": "fwmrm.net", 
         "company": "Freewheel", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "domain": "adblade.com", 
+        "company": "Adblade", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -4550,6 +1200,26 @@
         }
     }, 
     {
+        "domain": "unicornmedia.com", 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "domain": "rubiconproject.com", 
+        "company": "Rubicon Project", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
         "domain": "mathtag.com", 
         "company": "MediaMath", 
         "behavior": {
@@ -4560,7 +1230,7 @@
         }
     }, 
     {
-        "domain": "4chan.org", 
+        "domain": "buyservices.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -4570,53 +1240,23 @@
         }
     }, 
     {
-        "domain": "discover.com", 
-        "company": "unknown", 
+        "domain": "openx.net", 
+        "company": "OpenX", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "cbslocal.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": false, 
-            "usesTrackingCookie": false, 
             "evil": false, 
             "usesTrackingCookieOnDNT": true
         }
     }, 
     {
-        "domain": "fatwallet.com", 
+        "domain": "bbc.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "hardsextube.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "domain": "evite.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }
 ]

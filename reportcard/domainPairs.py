@@ -6,7 +6,8 @@ inputDict = json.load(inputFile)
 
 domainPairs = []
 for doms in inputDict.keys():
-  (d1p, d3p) = doms.split('/')
-  domainPairs.append([d1p, d3p])
+  if not doms.lower().startswith('unknown'):
+    (d1p, d3p) = doms.split('/')
+    domainPairs.append([d1p, d3p])
 
 print json.dumps(domainPairs, indent=4)
