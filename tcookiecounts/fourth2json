@@ -105,7 +105,7 @@ for phase, fn in files.items():
         pd = dict([(k,{'count': 0, 'cookies': []}) for k in files.keys()])
         thirdpartycount_per_first[s] = pd
         thirdpartycount_per_third[s] = pd
-        thirdpartycount_per_firstthird[s] = pd
+        thirdpartycount_per_firstthird[s + '/' + s] = pd
 
     for row in c:
         for cookieline in str(row[1]).split('\n'):
