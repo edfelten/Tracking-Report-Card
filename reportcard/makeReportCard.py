@@ -73,7 +73,7 @@ def compute1pScore(dom1p, dom3ps, correction):
   if numScores==0:
     return gradingPolicy.curve[0][0]
   else:
-    return (totalScore/numScores)-count3pPenalty(numScores)+correction
+    return (totalScore/numScores)-gradingPolicy.firstPartySqrtCoeff*count3pPenalty(numScores)+correction
 
 
 inputFile1p = open(inputFileName1p)
@@ -102,6 +102,7 @@ json.dump(out1p, out1pFp, indent=4)
 
 gradingPolicyObj = {
   'correction': correction,
+  'firstPartySqrtCoeff': gradingPolicy.firstPartySqrtCoeff,
   'grading': gradingPolicy.makeGradingObj()
 }
 
