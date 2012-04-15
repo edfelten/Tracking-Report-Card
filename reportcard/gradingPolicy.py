@@ -1,3 +1,5 @@
+import json
+
 
 rubric = {
   'usesTrackingCookie' : -1,
@@ -13,6 +15,9 @@ curve = (
   (-2, 'C'),
   (-4, 'D'),
 )
+
+firstPartySqrtCoeff = 1
+
 
 def makeGradingObj():
   return [[a,b] for (a,b) in curve]

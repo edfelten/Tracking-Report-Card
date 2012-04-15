@@ -13,18 +13,6 @@
     }, 
     {
         "grade": "D", 
-        "domain": "hrblock.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
         "domain": "youtube.com", 
         "score": -3, 
         "company": "unknown", 
@@ -49,9 +37,9 @@
     }, 
     {
         "grade": "D", 
-        "domain": "scorecardresearch.com", 
+        "domain": "live.com", 
         "score": -3, 
-        "company": "Full Circle Studies (Comscore)", 
+        "company": "Microsoft Advertising", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -72,63 +60,27 @@
         }
     }, 
     {
-        "grade": "D", 
-        "domain": "questionmarket.com", 
-        "score": -3, 
-        "company": "Safecount", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
+        "grade": "B", 
         "domain": "suitesmart.com", 
-        "score": -3, 
+        "score": -1, 
         "company": "unknown", 
         "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookieOnOptOut": false, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
-        "grade": "D", 
-        "domain": "atdmt.com", 
-        "score": -3, 
-        "company": "Microsoft Advertising", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
+        "grade": "B", 
         "domain": "pointroll.com", 
-        "score": -3, 
+        "score": -1, 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
+            "usesTrackingCookie": false, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "insightexpressai.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
@@ -193,18 +145,6 @@
     }, 
     {
         "grade": "D", 
-        "domain": "visiblemeasures.com", 
-        "score": -3, 
-        "company": "Visible Measures", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
         "domain": "twitter.com", 
         "score": -3, 
         "company": "unknown", 
@@ -217,9 +157,9 @@
     }, 
     {
         "grade": "D", 
-        "domain": "advertising.com", 
+        "domain": "visiblemeasures.com", 
         "score": -3, 
-        "company": "Advertising.com (AOL)", 
+        "company": "Visible Measures", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -232,6 +172,18 @@
         "domain": "atwola.com", 
         "score": -3, 
         "company": "Advertising.com (AOL)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "casalemedia.com", 
+        "score": -3, 
+        "company": "Casale Media", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -256,42 +208,6 @@
         "domain": "netflix.com", 
         "score": -3, 
         "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "amazon-adsystem.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "imrworldwide.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "quantserve.com", 
-        "score": -3, 
-        "company": "Quantcast", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -349,54 +265,6 @@
     }, 
     {
         "grade": "D", 
-        "domain": "live.com", 
-        "score": -3, 
-        "company": "Microsoft Advertising", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "abmr.net", 
-        "score": -3, 
-        "company": "Akamai", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "audienceiq.com", 
-        "score": -3, 
-        "company": "Experian", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "vindicosuite.com", 
-        "score": -3, 
-        "company": "Vindico (Broadband Enterprises)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
         "domain": "amazon.com", 
         "score": -3, 
         "company": "Amazon Associates", 
@@ -409,7 +277,7 @@
     }, 
     {
         "grade": "D", 
-        "domain": "go.com", 
+        "domain": "cnn.com", 
         "score": -3, 
         "company": "unknown", 
         "behavior": {
@@ -421,7 +289,19 @@
     }, 
     {
         "grade": "D", 
-        "domain": "match.com", 
+        "domain": "advertising.com", 
+        "score": -3, 
+        "company": "Advertising.com (AOL)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "go.com", 
         "score": -3, 
         "company": "unknown", 
         "behavior": {
@@ -469,6 +349,18 @@
     }, 
     {
         "grade": "D", 
+        "domain": "tumblr.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
         "domain": "google.com", 
         "score": -3, 
         "company": "unknown", 
@@ -481,33 +373,9 @@
     }, 
     {
         "grade": "D", 
-        "domain": "revsci.net", 
-        "score": -3, 
-        "company": "AudienceScience", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
         "domain": "aol.com", 
         "score": -3, 
         "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "zedo.com", 
-        "score": -3, 
-        "company": "Zedo", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -540,24 +408,24 @@
         }
     }, 
     {
-        "grade": "D", 
-        "domain": "casalemedia.com", 
-        "score": -3, 
-        "company": "Casale Media", 
+        "grade": "C", 
+        "domain": "zedo.com", 
+        "score": -2, 
+        "company": "Zedo", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
-        "grade": "D", 
-        "domain": "healthheadlines.com", 
-        "score": -3, 
-        "company": "unknown", 
+        "grade": "C", 
+        "domain": "vindicosuite.com", 
+        "score": -2, 
+        "company": "Vindico (Broadband Enterprises)", 
         "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookieOnOptOut": false, 
             "usesTrackingCookie": true, 
             "evil": false, 
             "usesTrackingCookieOnDNT": true

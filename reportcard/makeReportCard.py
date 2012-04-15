@@ -1,7 +1,7 @@
 import json, math
 import gradingPolicy
 
-inputFileName1p = 'input1p.json'
+inputFileName1p = 'domainPairs.json'
 inputFileName3p = 'input3p.json'
 
 
@@ -73,7 +73,7 @@ def compute1pScore(dom1p, dom3ps, correction):
   if numScores==0:
     return gradingPolicy.curve[0][0]
   else:
-    return (totalScore/numScores)-count3pPenalty(numScores)+correction
+    return (totalScore/numScores)-gradingPolicy.firstPartySqrtCoeff*count3pPenalty(numScores)+correction
 
 
 inputFile1p = open(inputFileName1p)
@@ -81,10 +81,10 @@ inputArray1p = json.load(inputFile1p)
 
 domains1p3p = {}
 for (d1p, d3p) in inputArray1p:
-  if d1p in domains1p3p:
+  if not d1p in domains1p3p:
+    domains1p3p[d1p] = []
+  if d1p != d3p:
     domains1p3p[d1p].append(d3p)
-  else:
-    domains1p3p[d1p] = [d3p,]
 
 correction = computeCorrection(domains1p3p.values())
 
@@ -102,6 +102,7 @@ json.dump(out1p, out1pFp, indent=4)
 
 gradingPolicyObj = {
   'correction': correction,
+  'firstPartySqrtCoeff': gradingPolicy.firstPartySqrtCoeff,
   'grading': gradingPolicy.makeGradingObj()
 }
 
