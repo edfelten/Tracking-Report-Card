@@ -55,7 +55,8 @@ Which we will put into the dislayPanel.html file
                     //    $('#trcSubPanel3').empty().html(htmlStr);  
                     //})
                     .appendTo(ul);
-                    addClickHandler(li, tp.company, tp.domain, tp.grade);
+                    //addClickHandler(li, tp.company, tp.domain, tp.grade);
+                    addClickHandler(li, tp);
                 }
                 $('#cookieMsg').html(cookieMsg);
                 $('#trcSubPanel2').empty().append(ul);
@@ -64,11 +65,28 @@ Which we will put into the dislayPanel.html file
         };
     };
 
+    /*
     var addClickHandler = function(container, company, domain, grade){
         $(container).on('click', function() {
-                        var htmlStr = '<h3>Company: '+company+'</h3><br/>' 
+                        var htmlStr = '<br/><br/><B>'+company+'</b><br/>' 
                                   + 'Domain: '+domain +'<br/>'
                                   + 'Grade: '+grade+'<br/>';
+                        $('#trcSubPanel3').empty().html(htmlStr);  
+
+        });*/
+     var addClickHandler = function(container, t){
+        $(container).on('click', function() {
+                        var usesTrackingCookieOnOptOut = t.usesTrackingCookieOnOptOut ? 'Yes' : 'No';
+                        var usesTrackingCookie = t.usesTrackingCookie ?  'Yes' : 'No';
+                        var htmlStr = '<br/><br/><B>'+t.company+'</b><br/>' 
+                                  + 'Domain: '+t.domain +'<br/>'
+                                  + 'Grade: '+t.grade+'<br/>'
+                                  + 'Score: '+t.score+'<br/><br/>'
+                                  + 'Uses Cookies when opting out?: '
+                                  + usesTrackingCookieOnOptOut  +'<br/>'
+                                  + 'Uses tracking cookies?: '
+                                  + usesTrackingCookie  +'<br/>'
+                        ; 
                         $('#trcSubPanel3').empty().html(htmlStr);  
 
         });
