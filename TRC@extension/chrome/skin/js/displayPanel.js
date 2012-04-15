@@ -23,7 +23,7 @@ Which we will put into the dislayPanel.html file
     
     var showData = function(args) {
         // no reason to be fancy about it...
-        debugger;
+
         // we should have only one entry
         for( domain in args) {
             
@@ -39,8 +39,12 @@ Which we will put into the dislayPanel.html file
                 cookieMsg = 'Third Party Cookies: Y';
 
                 var ul = $('<ul>').attr({'id' : 'cookieList'});
-                for(tp in args[domain].thirdparties) {
-                    $('<li>').html(args[domain].thirdparties[tp])
+                for(i in args[domain].thirdparties) {
+                    //$('<li>').html(args[domain].thirdparties[tp])
+                    //// add a click handler too
+                    //.appendTo(ul);
+                    var tp = args[domain].thirdparties[i]
+                    $('<li>').html(tp.domain)
                     // add a click handler too
                     .appendTo(ul);
                 }
