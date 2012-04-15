@@ -36,6 +36,18 @@
         }
     }, 
     {
+        "grade": "C", 
+        "domain": "burstnet.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
         "grade": "Bminus", 
         "domain": "scorecardresearch.com", 
         "score": -2, 
@@ -349,7 +361,7 @@
     }, 
     {
         "grade": "C", 
-        "domain": "gcion.com", 
+        "domain": "ebayrtm.com", 
         "score": -3, 
         "company": "unknown", 
         "behavior": {
@@ -372,15 +384,15 @@
         }
     }, 
     {
-        "grade": "C", 
-        "domain": "raasnet.com", 
-        "score": -3, 
-        "company": "Red Aril", 
+        "grade": "Bminus", 
+        "domain": "vmm-satellite1.com", 
+        "score": -2, 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
@@ -997,18 +1009,6 @@
     }, 
     {
         "grade": "Bminus", 
-        "domain": "serving-sys.com", 
-        "score": -2, 
-        "company": "Mediamind (Eyeblaster)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": false
-        }
-    }, 
-    {
-        "grade": "Bminus", 
         "domain": "chango.com", 
         "score": -2, 
         "company": "Chango", 
@@ -1093,7 +1093,7 @@
     }, 
     {
         "grade": "Bminus", 
-        "domain": "brand-server.com", 
+        "domain": "vimeo.com", 
         "score": -2, 
         "company": "unknown", 
         "behavior": {
@@ -1165,7 +1165,7 @@
     }, 
     {
         "grade": "C", 
-        "domain": "ebayrtm.com", 
+        "domain": "gcion.com", 
         "score": -3, 
         "company": "unknown", 
         "behavior": {
@@ -1284,15 +1284,15 @@
         }
     }, 
     {
-        "grade": "Bminus", 
-        "domain": "vmm-satellite1.com", 
-        "score": -2, 
-        "company": "unknown", 
+        "grade": "C", 
+        "domain": "raasnet.com", 
+        "score": -3, 
+        "company": "Red Aril", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
@@ -1344,20 +1344,20 @@
         }
     }, 
     {
-        "grade": "C", 
-        "domain": "burstnet.com", 
-        "score": -3, 
-        "company": "unknown", 
+        "grade": "Bminus", 
+        "domain": "serving-sys.com", 
+        "score": -2, 
+        "company": "Mediamind (Eyeblaster)", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
         "grade": "Bminus", 
-        "domain": "vimeo.com", 
+        "domain": "brand-server.com", 
         "score": -2, 
         "company": "unknown", 
         "behavior": {

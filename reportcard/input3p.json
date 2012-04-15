@@ -30,16 +30,6 @@
         }
     }, 
     {
-        "domain": "burstnet.com", 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
         "domain": "scorecardresearch.com", 
         "company": "Full Circle Studies (Comscore)", 
         "behavior": {
@@ -300,7 +290,7 @@
         }
     }, 
     {
-        "domain": "ebayrtm.com", 
+        "domain": "gcion.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -320,13 +310,13 @@
         }
     }, 
     {
-        "domain": "vmm-satellite1.com", 
-        "company": "unknown", 
+        "domain": "raasnet.com", 
+        "company": "Red Aril", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
@@ -840,6 +830,16 @@
         }
     }, 
     {
+        "domain": "serving-sys.com", 
+        "company": "Mediamind (Eyeblaster)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
         "domain": "chango.com", 
         "company": "Chango", 
         "behavior": {
@@ -910,7 +910,7 @@
         }
     }, 
     {
-        "domain": "brand-server.com", 
+        "domain": "vimeo.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -970,7 +970,7 @@
         }
     }, 
     {
-        "domain": "gcion.com", 
+        "domain": "ebayrtm.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
@@ -1070,13 +1070,13 @@
         }
     }, 
     {
-        "domain": "raasnet.com", 
-        "company": "Red Aril", 
+        "domain": "vmm-satellite1.com", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
@@ -1120,17 +1120,17 @@
         }
     }, 
     {
-        "domain": "serving-sys.com", 
-        "company": "Mediamind (Eyeblaster)", 
+        "domain": "burstnet.com", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": false
+            "usesTrackingCookieOnDNT": true
         }
     }, 
     {
-        "domain": "vimeo.com", 
+        "domain": "brand-server.com", 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 

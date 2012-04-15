@@ -31,7 +31,7 @@ dict3p = {}
 for doms in inputDict.keys():
   if not doms.lower().startswith('unknown'):
     (d1p, d3p) = doms.split('/')
-    if d3p:  # ignore empty domain name--covers for bug earlier in the pipeline?
+    if d3p and (d1p != d3p):  
       vals = inputDict[doms]
       dnt = vals['dnt']['count']
       beeftaco = vals['beeftaco']['count']
