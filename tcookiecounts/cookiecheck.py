@@ -403,7 +403,6 @@ def cookiecheck(name, value ,url,referrer ,expiration ,domain):
             return(1)
 
     for rule in whitelist:
-        print rule
         if (re.match(rule[2],value) and re.match(rule[0],name) and re.match(rule[1],domain)):
             return(0)
 
