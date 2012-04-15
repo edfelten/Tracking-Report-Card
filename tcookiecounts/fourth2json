@@ -53,7 +53,7 @@ thirdpartycount_per_first = {}
 thirdpartycount_per_third = {}
 
 ipRE = re.compile(r"^https?://(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})/")
-domRE = re.compile(r"^https?://(.*?)/")
+domRE = re.compile(r"^https?://([^/]+?)/")
 
 companies = json.load(open('companyNames.json')) # FIXME: this shouldn't need to be in the current dir
 
@@ -71,15 +71,7 @@ for phase, fn in files.items():
     def sld_from_domain(domain):
         return '.'.join(domain.split('.')[-2:])
 
-    def domain_from_top_id(top_id, top_pages):
-        try:
-            tid = int(top_id)
-        except TypeError:
-            tid = 0
-        try:
-            url = str(top_pages[tid])
-        except KeyError:
-            url = ""
+    def sld_from_url(url):
         iResult = ipRE.match(url)
         domResult = domRE.match(url)
         if iResult:
@@ -89,6 +81,17 @@ for phase, fn in files.items():
             return sld_from_domain(fqdn)
         else:
             return "UNKNOWN"
+
+    def domain_from_top_id(top_id, top_pages):
+        try:
+            tid = int(top_id)
+        except TypeError:
+            tid = 0
+        try:
+            url = str(top_pages[tid])
+        except KeyError:
+            url = ""
+        return sld_from_url(url)
 
     for row in c:
         C = Cookie.SimpleCookie()
@@ -105,7 +108,11 @@ for phase, fn in files.items():
                 else:
                     fields['__TRC_destination_domain'] = "UNKNOWN"
                 fields['__TRC_destination_companyname'] = domain_to_company_name(fields['__TRC_destination_domain'], companies)
-                fields['__TRC_cookie_domain'] = sld_from_domain(fields['domain'])
+                if fields['domain']:
+                    fields['__TRC_cookie_domain'] = sld_from_domain(fields['domain'])
+                else:
+                    fields['__TRC_cookie_domain'] = sld_from_url(row[2])
+
                 fields['__TRC_cookie_companyname'] = domain_to_company_name(fields['__TRC_cookie_domain'], companies)
                 cookies[cookie[1].key] = fields
                 if fields['__TRC_destination_domain'] != fields['__TRC_cookie_domain']: # FIXME: not the right heuristic to determine 3p
