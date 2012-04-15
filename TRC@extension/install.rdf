@@ -17,7 +17,7 @@
     <em:version>0.1</em:version>
     <em:localized>
       <em:locale>en-US</em:locale>
-      <em:description>Tracking Report Card/em:description>
+      <em:description>Tracking Report Card</em:description>
     </em:localized>
     <em:optionsURL> chrome://TRC/content/options.xul</em:optionsURL>
   </Description>

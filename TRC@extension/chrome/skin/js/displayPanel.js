@@ -23,7 +23,7 @@ Which we will put into the dislayPanel.html file
     
     var showData = function(args) {
         // no reason to be fancy about it...
-
+        debugger;
         // we should have only one entry
         for( domain in args) {
             
