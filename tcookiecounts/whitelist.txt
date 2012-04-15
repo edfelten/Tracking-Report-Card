@@ -319,3 +319,4 @@ _u	adserver.mobsmith.com	^D15AB1ED$
 PAD	.qwobl.net	^OPT_OUT$
 TR	send.microad.jp	^xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx$
 OPT_OUT	.gsimedia.net	^I$
+_drt_	.doubleclick.net	^NO_DATA$
