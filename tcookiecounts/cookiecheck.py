@@ -385,7 +385,7 @@ def cookiecheck(name, value ,url,referrer ,expiration ,domain):
 
     if (domainmatch(domain,urlhost) == 0):
         #Unexpected - domain of cookie should be within current scope
-        print "Warning: cookie domain " + domain + " not within UR L" + urlhost
+        print "Warning: cookie domain " + domain + " not within URL " + urlhost
 
     if len(domain) == 0:
         domain = urlhost
