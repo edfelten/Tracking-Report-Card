@@ -125,7 +125,8 @@ TRC.core = function() {
 					filteredProfile[0].thirdparties.forEach(function(x){
 						filteredProfile[0].score += x.score
 					})
-					var correctedScore = (filteredProfile[0].score/filteredProfile[0].thirdparties.length) - Math.sqrt(filteredProfile[0].thirdparties.length) +  computeParam.correction; 
+					var correctedScore = (filteredProfile[0].score/filteredProfile[0].thirdparties.length) - 
+						(Math.sqrt(filteredProfile[0].thirdparties.length)*computeParam.firstPartySqrtCoeff) +  computeParam.correction; 
 					var gradeArray = computeParam.grading.filter(function(x) { return( x[0]<correctedScore)});
 					
 					filteredProfile[0].score = correctedScore;
