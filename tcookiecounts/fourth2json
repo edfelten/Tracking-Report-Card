@@ -83,7 +83,7 @@ for phase, fn in files.items():
             fqdn = domResult.group(1)
             return sld_from_domain(fqdn)
         else:
-            return "UNKNOWN"
+            return "UNKNOWN-("+url+")"
 
     def domain_from_top_id(top_id, top_pages):
         try:
@@ -109,7 +109,7 @@ for phase, fn in files.items():
                     if row[0]:
                         fields['__TRC_destination_domain'] = domain_from_top_id(row[0], top_pages)
                     else:
-                        fields['__TRC_destination_domain'] = "UNKNOWN"
+                        fields['__TRC_destination_domain'] = "Unknown(blank)"
                     fields['__TRC_destination_companyname'] = domain_to_company_name(fields['__TRC_destination_domain'], companies)
                     if fields['domain']:
                         fields['__TRC_cookie_domain'] = sld_from_domain(fields['domain'])
