@@ -62,7 +62,6 @@ TRC.core = function() {
    }
    
    function getPageCard( domain) {
-   						alert(domain)
    		var filteredProfile = profiles.filter(function (x) {return x.domain == domain});
 		if (filteredProfile.length == 1) return filteredProfile[0];
 		
@@ -78,7 +77,7 @@ TRC.core = function() {
 		var domain = domainArray.slice((domainArray.length)-2).join(".");  
 		var filteredProfile = profiles.filter(function (x) {return x.domain == domain});
 		if ( filteredProfile.length == 1 ) {
-			var card = filteredProfile[0].card;
+			var card = filteredProfile[0];
 			displayGrade(filteredProfile[0]);
 			return filteredProfile[0];
 		}
@@ -91,14 +90,14 @@ TRC.core = function() {
 		hostProfile = {};
 		hostProfile.domain = domain;
 		hostProfile.score = 0;
-		hostProfile.card = {};
+		hostProfile.grade = "C";
 		hostProfile.thirdparties = [];
 		
 		
 		var card = getCardForFirstParty(domain);
 		
 		if( card != null) {
-			hostProfile.card = card;
+			hostProfile= card;
 			displayGrade(hostProfile);
 		}
 		profiles.push(hostProfile);
@@ -118,19 +117,19 @@ TRC.core = function() {
 				return x.domain == thirdparty
 			})) {
 				filteredProfile[0].thirdparties.push(card);
-				if (!filteredProfile[0].card) {
-					filteredProfile[0].card = {};	
+				if (!filteredProfile[0]) {
+					filteredProfile[0] = {};	
 				}
 				if (!firstPartyCard) {
-					filteredProfile[0].card.score = 0
+					filteredProfile[0].score = 0
 					filteredProfile[0].thirdparties.forEach(function(x){
-						filteredProfile[0].card.score += x.score
+						filteredProfile[0].score += x.score
 					})
-					var correctedScore = (filteredProfile[0].card.score/filteredProfile[0].thirdparties.length) - Math.sqrt(filteredProfile[0].thirdparties.length) +  computeParam.correction; 
+					var correctedScore = (filteredProfile[0].score/filteredProfile[0].thirdparties.length) - Math.sqrt(filteredProfile[0].thirdparties.length) +  computeParam.correction; 
 					var gradeArray = computeParam.grading.filter(function(x) { return( x[0]<correctedScore)});
 					
-					filteredProfile[0].card.score = correctedScore;
-					filteredProfile[0].card.grade = (gradeArray.length==0) ? "F" : gradeArray[0][1];
+					filteredProfile[0].score = correctedScore;
+					filteredProfile[0].grade = (gradeArray.length==0) ? "F" : gradeArray[0][1];
 					displayGrade(filteredProfile[0])
 				}
 			}
@@ -142,8 +141,8 @@ TRC.core = function() {
    }
    
    function displayGrade ( hostProfile ) {
-   	    var grade = hostProfile.card.grade;
-        var statusMsg = "TRC: "+ hostProfile.card.score ;    
+   	    var grade = hostProfile.grade;
+        var statusMsg = "TRC: "+ hostProfile.score ;    
 		
         var statusLabel= window.document.getElementById("trc-label");
         if (statusLabel != null && statusLabel.value == "TRC: None") statusLabel.value =  statusMsg; 
@@ -166,11 +165,7 @@ TRC.core = function() {
     }
     
 	   
-   function promptPageProfile( url ) {
-   	
-  	
-	
-   }
+
    
    function getDomainFromChannel(oHttp) {
         var url = oHttp.originalURI.host;
@@ -180,10 +175,7 @@ TRC.core = function() {
         return urlDomain;
     }
 	
-	function computeScore() {
-		//Score is sume of score minus sqare root of the number of third parties = corection
-		
-	}
+
      
 	 
 	 function fetchJSON( url ) {
@@ -205,9 +197,11 @@ TRC.core = function() {
 			var domainArray = host.split(".");
 			var domain = domainArray.slice((domainArray.length)-2).join(".");  
 			var profile = getCardForFirstParty(domain);
-			if (profile != null) {
-					var fullCard = getPageCard(domain);
-					profile.thirdparties = fullCard.thirdparties;
+			var fullCard = getPageCard(domain);	
+			if (profile != null) {								
+				if (fullCard) profile.thirdparties = fullCard.thirdparties;
+			} else {
+				if (fullCard) profile = fullCard;
 			}
 			var card = {};
 			card[domain] = profile;
@@ -231,9 +225,11 @@ TRC.core = function() {
 				var domainArray = host.split(".");
 				var domain = domainArray.slice((domainArray.length)-2).join(".");  
 				var profile = getCardForFirstParty(domain);
-				if (profile != null) {
-					var fullCard = getPageCard(domain);
-					profile.thirdparties = fullCard.thirdparties;
+				var fullCard = getPageCard(domain);
+				if (profile != null) {		
+					if (fullCard) profile.thirdparties = fullCard.thirdparties;
+				} else {
+					if (fullCard) profile = fullCard;
 				}
 				var card = {};
 				card[domain] = profile;			
