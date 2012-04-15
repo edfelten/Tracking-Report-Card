@@ -8,6 +8,7 @@
 
 # Initialize rule databases
 def ruleinit():
+    global blacklist,whitelist
 
     f=open("blacklist.txt", 'r')
     blacklist = []
