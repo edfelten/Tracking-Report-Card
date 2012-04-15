@@ -20,6 +20,7 @@ TRC.core = function() {
 	var gradedDomains = [];
 	var grade = 0;
 	var profiles = [];
+	var computeParam = {};
 	
 	
 	
@@ -67,7 +68,7 @@ TRC.core = function() {
 		clearGrade();
 		
 		
-		var filteredProfile = profiles.filter(function (x) {return x.name == host});
+		var filteredProfile = profiles.filter(function (x) {return x.domain == host});
 		if ( filteredProfile.length == 1 ) {
 			var card = filteredProfile[0].card;
 			displayGrade(filteredProfile[0]);
@@ -76,7 +77,7 @@ TRC.core = function() {
 		
 		
 		hostProfile = {};
-		hostProfile.name = host;
+		hostProfile.domain = host;
 		hostProfile.score = 0;
 		hostProfile.thirdparties = [];
 		
@@ -93,19 +94,30 @@ TRC.core = function() {
    
     function updatePageProfile( thirdparty, host  ) {
 		_cout(profiles.length + thirdparty+  host);
+		var firstPartyCard = getCardForThirdParty(host);
 		
 		var card = getCardForThirdParty(thirdparty);
 		if (card == null) return;
 
-		var filteredProfile = profiles.filter(function (x) {return x.name.indexOf(host)>=0});
+		var filteredProfile = profiles.filter(function (x) {return x.domain.indexOf(host)>=0});
 		if ( filteredProfile.length == 1 ) {			
 			if (!filteredProfile[0].thirdparties.some(function(x){
-				return x.name == thirdparty
+				return x.domain == thirdparty
 			})) {
 				filteredProfile[0].thirdparties.push(card);
-				filteredProfile[0].score += card.score;
-				if(!filteredProfile[0].grade) filteredProfile[0].card = card
-				displayGrade(filteredProfile[0])
+				if (!filteredProfile[0].card) {
+					filteredProfile[0].card = {};	
+				}
+				if (!firstPartyCard) {
+					filteredProfile[0].card.score = 0
+					filteredProfile[0].thirdparties.forEach(function(x){
+						filteredProfile[0].card.score += x.score
+					})
+					var correctedScore = filteredProfile[0].card.score - Math.sqrt(filteredProfile[0].thirdparties.length) +  computeParam.correction; 
+					var gradeArray = computeParam.grading.filter(function(x) { return( x[0]<correctedScore)});
+					filteredProfile[0].card.grade = (gradeArray.length==0) ? "F" : gradeArray[0][1];
+					displayGrade(filteredProfile[0])
+				}
 			}
 		} else {
 			
@@ -117,7 +129,7 @@ TRC.core = function() {
    
    function displayGrade ( hostProfile ) {
    	    var grade = hostProfile.card.grade;
-        var statusMsg = "TRC: "+ hostProfile.score ;    
+        var statusMsg = "TRC: "+ hostProfile.card.score ;    
 		
         var statusLabel= window.document.getElementById("trc-label");
         if (statusLabel != null && statusLabel.value == "TRC: None") statusLabel.value =  statusMsg; 
@@ -226,6 +238,9 @@ TRC.core = function() {
 
 		firstCardArray= JSON.parse( firstpartyJSON );
 		thirdCardArray= JSON.parse( thirdpartyJSON );
+		
+		var computeJSON = fetchJSON('https://raw.github.com/ewfelten/Tracking-Report-Card/master/reportcard/gradingPolicy.json');
+		computeParam = JSON.parse(computeJSON);
 	},
 	
 	
