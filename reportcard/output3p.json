@@ -1,5 +1,1949 @@
 [
     {
+        "grade": "C", 
+        "domain": "admaxserver.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "4shared.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "quora.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "slickdeals.net", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "adp.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "adsonar.com", 
+        "score": -3, 
+        "company": "AOL Sponsored Listings (Quigo)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "manta.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "atdmt.com", 
+        "score": -3, 
+        "company": "Microsoft Advertising", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "accuweather.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "1shoppingcart.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "2o7.net", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "rottentomatoes.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "zazzle.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "optimum.net", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "lijit.com", 
+        "score": -3, 
+        "company": "Lijit Networks", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "1channel.ch", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "klout.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "cbssports.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "zeekrewards.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "exelator.com", 
+        "score": -3, 
+        "company": "eXelate Media", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "expedia.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "youjizz.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "vindicosuite.com", 
+        "score": -3, 
+        "company": "Vindico (Broadband Enterprises)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "adf.ly", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "gotomeeting.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "orbitz.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "pandora.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "contextweb.com", 
+        "score": -3, 
+        "company": "ContextWeb (ADSDAQ)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "photobucket.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "wikia.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "cox.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "rfihub.com", 
+        "score": -3, 
+        "company": "Rocket Fuel", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "nextag.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "hilton.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "icontact.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "hootsuite.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "casalemedia.com", 
+        "score": -3, 
+        "company": "Casale Media", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "sfgate.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "lockoutfilm.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "openx.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "dropbox.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "w3schools.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "webtrendslive.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "edgesuite.net", 
+        "score": -1, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": false, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "fullsail.edu", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "fatwallet.mobi", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "infusionsoft.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "nexac.com", 
+        "score": -3, 
+        "company": "DataLogix", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "pulse360.com", 
+        "score": -1, 
+        "company": "Pulse360", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": false, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "elance.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "schwab.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "simplyhired.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "fidelity.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "mookie1.com", 
+        "score": -2, 
+        "company": "Xaxis", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "kat.ph", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "warriorforum.com", 
+        "score": -1, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": false, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "hotels.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "bankofamerica.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "searchnu.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "crwdcntrl.net", 
+        "score": -2, 
+        "company": "Lotame (CrowdControl)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "forbes.com", 
+        "score": -3, 
+        "company": "Forbes Media Extension", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "tmz.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "tubemogul.com", 
+        "score": -3, 
+        "company": "TubeMogul", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "meebo.com", 
+        "score": -3, 
+        "company": "Meebo", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "hsbccreditcard.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "kbb.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "bitly.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "chango.com", 
+        "score": -2, 
+        "company": "Chango", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "verizon.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "filestube.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "co.in", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "cbsnews.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "fool.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "vimeo.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "tellapart.com", 
+        "score": -2, 
+        "company": "TellApart", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "wigetmedia.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "howstuffworks.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "ebayrtm.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "citysearch.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "paypal.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "swagbucks.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "ksl.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "jetblue.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "trb.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "spankwire.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "realmedia.com", 
+        "score": -2, 
+        "company": "24/7 Real Media", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "linkedin.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "shopathome.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "adnxs.com", 
+        "score": -3, 
+        "company": "YellowHammer", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "hubspot.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "ehow.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "burstnet.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "ingdirect.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "ning.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "go.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "lowes.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "imdb.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "shutterfly.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "tremormedia.com", 
+        "score": -3, 
+        "company": "Tremor Video", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "okcupid.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "1and1.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "mcssl.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "wsod.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "myfreecams.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "travelocity.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "myfitnesspal.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "secureserver.net", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "criteo.com", 
+        "score": -2, 
+        "company": "Criteo", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "ed.gov", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "edmunds.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "jcpenney.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "media6degrees.com", 
+        "score": -2, 
+        "company": "m6d", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "undertone.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "netflix.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "xdating.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "invitemedia.com", 
+        "score": -3, 
+        "company": "QuinStreet", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "wimp.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "flickr.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "about.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "ca.gov", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "pubmatic.com", 
+        "score": -3, 
+        "company": "PubMatic", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "engadget.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "barnesandnoble.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "qvc.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "seekingalpha.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "hubpages.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "co.uk", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "nbcuni.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "demonoid.me", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "gizmodo.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "oggifinogi.com", 
+        "score": -1, 
+        "company": "Oggifinogi, Inc.", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "adjuggler.net", 
+        "score": -1, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "discovery.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "sears.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "nick.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "cracked.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "local.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "tidaltv.com", 
+        "score": -2, 
+        "company": "Videology (formerly Tidal TV)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "statcounter.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "bigfishgames.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "eyereturn.com", 
+        "score": -2, 
+        "company": "eyeReturn", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": false, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "dimestore.com", 
+        "score": -1, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "babycenter.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "citrixonline.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "mtv.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "owneriq.net", 
+        "score": -3, 
+        "company": "OwnerIQ", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "ctasnet.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "fandango.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "zillow.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "(null)", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "amazon.com", 
+        "score": -3, 
+        "company": "Amazon Associates", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "gamefaqs.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "slideshare.net", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "getresponse.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "cnet.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "pinterest.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "networksolutions.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "americanexpress.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "bluehost.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "fiverr.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "zedo.com", 
+        "score": -3, 
+        "company": "Zedo", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "ew.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
         "grade": "D", 
         "domain": "msn.com", 
         "score": -3, 
@@ -13,6 +1957,1398 @@
     }, 
     {
         "grade": "D", 
+        "domain": "aweber.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "adultfriendfinder.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "nypost.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "comcast.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "tribalfusion.com", 
+        "score": -2, 
+        "company": "Exponential (Tribal Fusion, Full Tango)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "pch.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "mediafire.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "omtrdc.net", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "samsclub.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "digg.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "mylife.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "trulia.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "charter.net", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "gilt.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "answers.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "bizjournals.com", 
+        "score": -1, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "livingsocial.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "adbrite.com", 
+        "score": -3, 
+        "company": "adBrite", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "gcion.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "webmd.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "hotwire.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "mapquest.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "superpages.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "outbrain.com", 
+        "score": -3, 
+        "company": "outbrain", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "breitbart.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "groupon.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "scottrade.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "meetup.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "united.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "marketwatch.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "deviantart.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "cnbc.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "odesk.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "raasnet.com", 
+        "score": -3, 
+        "company": "Red Aril", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "topix.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "kmart.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "interclick.com", 
+        "score": -3, 
+        "company": "interclick", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "reddit.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "clickbank.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "mediaplex.com", 
+        "score": -3, 
+        "company": "Mediaplex", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "rlcdn.com", 
+        "score": -2, 
+        "company": "RapLeaf", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "e-rewards.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "indeed.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "careerbuilder.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "adblade.com", 
+        "score": -2, 
+        "company": "Adblade", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "thepiratebay.se", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "bhphotovideo.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "rubiconproject.com", 
+        "score": -3, 
+        "company": "Rubicon Project", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "battle.net", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "livestrong.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "cafemom.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "xtube.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "premiereinteractive.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "list-manage.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "tripadvisor.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "taleo.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "website-unavailable.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "buy.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "usbank.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "unicornapp.com", 
+        "score": -1, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "istockphoto.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "adap.tv", 
+        "score": -2, 
+        "company": "adap.tv", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "eonline.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "pof.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "surveymonkey.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "biblegateway.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "fastclick.net", 
+        "score": -3, 
+        "company": "ValueClick Media", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "craigslist.org", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "logmein.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "cnn.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "walmart.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "merchantcircle.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "nytimes.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "sustatic.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "directv.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "ask.com", 
+        "score": -3, 
+        "company": "Ask.com (askeraser)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "legacy.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "ancestry.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "sprint.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "yieldmanager.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "visiblemeasures.com", 
+        "score": -2, 
+        "company": "Visible Measures", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "pogo.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "opentable.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "kohls.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "etsy.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "comcast.net", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "collective-media.net", 
+        "score": -3, 
+        "company": "Collective", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "unicornmedia.com", 
+        "score": -1, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "openxenterprise.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "drugstore.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "weebly.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "wunderground.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "att.net", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "domaintools.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "w55c.net", 
+        "score": -2, 
+        "company": "DataXu", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "whitepages.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "pnc.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "allrecipes.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "shutterstock.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "fetchback.com", 
+        "score": -2, 
+        "company": "FetchBack", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "yahoo.com", 
+        "score": -3, 
+        "company": "Yahoo! Ad Network", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "people.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "cars.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "avg.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "ign.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "priceline.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "yelp.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "sitesell.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "zimbio.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "imageshack.us", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "bleacherreport.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "search-results.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "gap.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "archive.org", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "wellsfargo.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "adam4adam.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
         "domain": "youtube.com", 
         "score": -3, 
         "company": "unknown", 
@@ -21,6 +3357,1578 @@
             "usesTrackingCookie": true, 
             "evil": false, 
             "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "zulily.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "eventbrite.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "victoriassecret.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "stumbleupon.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "stubhub.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "warriorplus.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "addthis.com", 
+        "score": -3, 
+        "company": "AddThis", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "calottery.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "sourceforge.net", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "macys.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "nickjr.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "att.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "boston.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "myspace.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "babylon.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "lifehacker.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "alibaba.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "inbox.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "fatwallet.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "urbanspoon.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "aol.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "tumri.net", 
+        "score": -2, 
+        "company": "Tumri", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "mint.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "officedepot.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "staples.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "benaughty.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "vzw.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "shld.net", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "xxxmatch.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "effectivemeasure.net", 
+        "score": -3, 
+        "company": "Effective Measure", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "bing.com", 
+        "score": -3, 
+        "company": "Microsoft Advertising", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "tigerdirect.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "rr.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "pornhub.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "auditude.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "serving-sys.com", 
+        "score": -2, 
+        "company": "Mediamind (Eyeblaster)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "usmagazine.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "conversionruler.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "redtube.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "godaddy.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "abmr.net", 
+        "score": -2, 
+        "company": "Akamai", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "redbox.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "bestbuy.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "google.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "myyearbook.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "buyservices.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "openx.net", 
+        "score": -3, 
+        "company": "OpenX", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "timeanddate.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "pbskids.org", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "constantcontact.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "themeforest.net", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "costco.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "verizonwireless.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "scorecardresearch.com", 
+        "score": -2, 
+        "company": "Full Circle Studies (Comscore)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "southwest.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "keezmovies.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "autotrader.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "modelmayhem.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "richrelevance.com", 
+        "score": -3, 
+        "company": "RichRelevance", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "hsn.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "newegg.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "mayoclinic.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "huffingtonpost.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "walgreens.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "admeld.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "bizrate.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "examiner.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "atwola.com", 
+        "score": -3, 
+        "company": "Advertising.com (AOL)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "agkn.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "capitalone.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "shoplocal.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "demdex.net", 
+        "score": -3, 
+        "company": "Adobe AudienceManager (formerly Demdex)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "ticketmaster.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "coupons.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "youporn.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "llnwd.net", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "github.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "legolas-media.com", 
+        "score": -3, 
+        "company": "Legolas Media", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "seomoz.org", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "salesforce.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "reference.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "tube8.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "imgur.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "vmm-satellite1.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "andomedia.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "zappos.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "connexity.net", 
+        "score": -3, 
+        "company": "Connexity", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "microsoft.com", 
+        "score": -2, 
+        "company": "Microsoft Advertising", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "webs.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "target.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "usaa.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "buzzfeed.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "tagged.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "t-mobile.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "teracent.net", 
+        "score": -1, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "bbb.org", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "bridgetrack.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "ikea.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "pointroll.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "homedepot.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "adshuffle.com", 
+        "score": -2, 
+        "company": "AdShuffle", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "livejasmin.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "doubleclick.net", 
+        "score": -3, 
+        "company": "Google Display Network (Doubleclick)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "hiro.tv", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "imagelly.com", 
+        "score": -1, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": false, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "citibank.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "dailymotion.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "dell.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "ups.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "voicefive.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "quibids.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "adtechus.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": ".localhost", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "cam4.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "ru4.com", 
+        "score": -2, 
+        "company": "[x+1]", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "overstock.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "drtuber.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "wsj.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "wtp101.com", 
+        "score": -3, 
+        "company": "Adnetik", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "intuit.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "tumblr.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "adition.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "force.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "wix.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "medleyads.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "gamestop.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "sodahead.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "eversave.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "mywebsearch.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "bbc.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "earthlink.net", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
@@ -48,44 +4956,44 @@
         }
     }, 
     {
-        "grade": "D", 
-        "domain": "adsonar.com", 
-        "score": -3, 
-        "company": "AOL Sponsored Listings (Quigo)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "B", 
-        "domain": "suitesmart.com", 
-        "score": -1, 
+        "grade": "C", 
+        "domain": "suntrust.com", 
+        "score": -2, 
         "company": "unknown", 
         "behavior": {
-            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
             "usesTrackingCookieOnDNT": false
         }
     }, 
     {
-        "grade": "B", 
-        "domain": "pointroll.com", 
-        "score": -1, 
-        "company": "unknown", 
+        "grade": "C", 
+        "domain": "bizographics.com", 
+        "score": -2, 
+        "company": "Bizo", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": false, 
+            "usesTrackingCookie": true, 
             "evil": false, 
             "usesTrackingCookieOnDNT": false
         }
     }, 
     {
         "grade": "D", 
-        "domain": "omtrdc.net", 
+        "domain": "pulsemgr.com", 
+        "score": -3, 
+        "company": "Buysight (formerly Permuto)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "match.com", 
         "score": -3, 
         "company": "unknown", 
         "behavior": {
@@ -96,188 +5004,44 @@
         }
     }, 
     {
-        "grade": "D", 
-        "domain": "linkedin.com", 
-        "score": -3, 
+        "grade": "C", 
+        "domain": "hornymatches.com", 
+        "score": -2, 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
-        "grade": "D", 
-        "domain": "bing.com", 
-        "score": -3, 
-        "company": "Microsoft Advertising", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "doubleclick.net", 
-        "score": -3, 
-        "company": "Google Display Network (Doubleclick)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "huffingtonpost.com", 
-        "score": -3, 
+        "grade": "C", 
+        "domain": "blackhatworld.com", 
+        "score": -2, 
         "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
             "evil": false, 
-            "usesTrackingCookieOnDNT": true
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "scout.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
         }
     }, 
     {
         "grade": "D", 
         "domain": "twitter.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "visiblemeasures.com", 
-        "score": -3, 
-        "company": "Visible Measures", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "atwola.com", 
-        "score": -3, 
-        "company": "Advertising.com (AOL)", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "casalemedia.com", 
-        "score": -3, 
-        "company": "Casale Media", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "facebook.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "netflix.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "voicefive.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "adnxs.com", 
-        "score": -3, 
-        "company": "YellowHammer", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": ".localhost", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "craigslist.org", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "amazon.com", 
-        "score": -3, 
-        "company": "Amazon Associates", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "cnn.com", 
         "score": -3, 
         "company": "unknown", 
         "behavior": {
@@ -300,118 +5064,10 @@
         }
     }, 
     {
-        "grade": "D", 
-        "domain": "go.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "yahoo.com", 
-        "score": -3, 
-        "company": "Yahoo! Ad Network", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "ebayrtm.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "pinterest.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "tumblr.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "google.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "aol.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "paypal.com", 
-        "score": -3, 
-        "company": "unknown", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
-        "grade": "D", 
-        "domain": "fwmrm.net", 
-        "score": -3, 
-        "company": "Freewheel", 
-        "behavior": {
-            "usesTrackingCookieOnOptOut": true, 
-            "usesTrackingCookie": true, 
-            "evil": false, 
-            "usesTrackingCookieOnDNT": true
-        }
-    }, 
-    {
         "grade": "C", 
-        "domain": "zedo.com", 
+        "domain": "6pm.com", 
         "score": -2, 
-        "company": "Zedo", 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": true, 
             "usesTrackingCookie": true, 
@@ -421,14 +5077,470 @@
     }, 
     {
         "grade": "C", 
-        "domain": "vindicosuite.com", 
+        "domain": "autotraderstatic.com", 
         "score": -2, 
-        "company": "Vindico (Broadband Enterprises)", 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "washingtonpost.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "marriott.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "triggit.com", 
+        "score": -2, 
+        "company": "Triggit", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "empowernetwork.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "chase.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "turn.com", 
+        "score": -3, 
+        "company": "Turn", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "bluekai.com", 
+        "score": -2, 
+        "company": "BlueKai", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "dowjoneson.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "cafepress.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "aa.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "plentyoffish.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "redfin.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "twitpic.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "rightnow.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "eharmony.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "putlocker.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "goodreads.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "dsply.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "toysrus.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "td.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "fedex.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "vistaprint.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "delta.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "bedbathandbeyond.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "nbc.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "D", 
+        "domain": "facebook.com", 
+        "score": -3, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "newsmax.com", 
+        "score": -1, 
+        "company": "unknown", 
         "behavior": {
             "usesTrackingCookieOnOptOut": false, 
             "usesTrackingCookie": true, 
             "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "breakmedia.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "brand-server.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "fwmrm.net", 
+        "score": -2, 
+        "company": "Freewheel", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "imiclk.com", 
+        "score": -2, 
+        "company": "aCerno (Akamai)", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "mathtag.com", 
+        "score": -1, 
+        "company": "MediaMath", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": false, 
+            "evil": false, 
             "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "4chan.org", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "discover.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "B", 
+        "domain": "cbslocal.com", 
+        "score": -1, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": false, 
+            "usesTrackingCookie": false, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": true
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "yellowpages.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "hardsextube.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
+        }
+    }, 
+    {
+        "grade": "C", 
+        "domain": "evite.com", 
+        "score": -2, 
+        "company": "unknown", 
+        "behavior": {
+            "usesTrackingCookieOnOptOut": true, 
+            "usesTrackingCookie": true, 
+            "evil": false, 
+            "usesTrackingCookieOnDNT": false
         }
     }
 ]
