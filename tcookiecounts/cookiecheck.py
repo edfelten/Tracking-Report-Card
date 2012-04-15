@@ -17,7 +17,7 @@ def ruleinit():
 
     f.close()
 
-    f = open("whitelist.txt","r")
+    f = open("whitelist.txt",'r')
     whitelist = []
     for line in f:
         rule = line.split()
@@ -36,7 +36,7 @@ def domainmatch(domain,host):
     return(0)
 
     
-def cookiecheck(name, value ,url,referrer ,expiration ,domain):
+def cookiecheck(name, value ,url, referrer ,expiration ,domain):
 
 # name - name of the cookie (one call per name/value pair, even if multiple cookies
 #        in the Set-Cookie header)
@@ -85,7 +85,3 @@ def cookiecheck(name, value ,url,referrer ,expiration ,domain):
 
     return(2) #for now; we don't know
 
-
-ruleinit()
-print blacklist
-print whitelist
